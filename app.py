@@ -17,7 +17,7 @@ st.markdown("""
 # Load Data
 @st.cache_data
 def load_data():
-    df = pd.read_csv('lulu_sales_data.csv')
+    df = pd.read_csv('lulu_hypermart_dubai_sales.csv')
     df['Date'] = pd.to_datetime(df['Date'])
     return df
 
