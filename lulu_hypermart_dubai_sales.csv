@@ -1,0 +1,1201 @@
+Transaction_ID,Date,Store_Location,Customer_ID,Customer_Segment,Product_Category,Product_Name,Quantity,Unit_Price_AED,Gross_Sales_AED,Discount_Pct,Net_Sales_AED,Payment_Method,Customer_Gender,Customer_Nationality
+LLU-DXB-000550,2023-01-01,Ras Al Khor,CUST-24378,Regular,Fresh Produce,Organic Apples 1kg,1,26.05,26.05,0.0,26.05,Debit Card,Male,Filipino
+LLU-DXB-000750,2023-01-01,Silicon Oasis,CUST-91360,Tourist,Baby Products,Mothercare Baby Blanket,1,162.12,162.12,0.0,162.12,Debit Card,Male,Emirati
+LLU-DXB-000910,2023-01-02,Ras Al Khor,CUST-92927,Budget,Fresh Produce,Organic Apples 1kg,2,13.46,26.92,0.0,26.92,Samsung Pay,Female,British
+LLU-DXB-000524,2023-01-02,Deira City Centre,CUST-13143,Regular,Dairy,Condensed Milk 400ml,4,12.3,49.2,0.0,49.2,Apple Pay,Male,Filipino
+LLU-DXB-000321,2023-01-03,Dragon Mart,CUST-21485,Budget,Personal Care,Always Pads Overnight,1,62.99,62.99,0.1,56.69,Debit Card,Female,Filipino
+LLU-DXB-000843,2023-01-03,Silicon Oasis,CUST-62665,Tourist,Sports & Fitness,Adidas Yoga Mat,1,788.94,788.94,0.0,788.94,LuLu Gift Card,Male,Emirati
+LLU-DXB-000351,2023-01-04,Mirdif City Centre,CUST-39657,Loyalty Member,Electronics,JBL Bluetooth Speaker,1,2991.03,2991.03,0.15,2542.38,LuLu Gift Card,Female,Egyptian
+LLU-DXB-000534,2023-01-04,Al Ghurair,CUST-15771,Regular,Electronics,LG Refrigerator,1,4776.73,4776.73,0.0,4776.73,LuLu Gift Card,Male,British
+LLU-DXB-000890,2023-01-05,Ras Al Khor,CUST-36013,Regular,Home & Kitchen,Brita Water Filter,4,225.17,900.68,0.0,900.68,Cash,Male,Egyptian
+LLU-DXB-000836,2023-01-05,Dubai Festival City,CUST-74451,Tourist,Fresh Produce,Avocado 4-Pack,3,19.71,59.13,0.0,59.13,Cash,Male,Indian
+LLU-DXB-000198,2023-01-06,Al Ghurair,CUST-60275,Tourist,Clothing,Kids' School Uniform,2,227.92,455.84,0.0,455.84,Credit Card,Female,Egyptian
+LLU-DXB-001184,2023-01-06,Al Barsha,CUST-99394,Regular,Beverages,Pepsi 2.25L,2,44.43,88.86,0.0,88.86,LuLu Gift Card,Female,Sri Lankan
+LLU-DXB-000456,2023-01-08,Dragon Mart,CUST-48393,Premium,Home & Kitchen,Joseph Joseph Chopping Board,4,554.81,2219.24,0.05,2108.28,Samsung Pay,Male,Emirati
+LLU-DXB-000769,2023-01-09,Silicon Oasis,CUST-60321,Regular,Sports & Fitness,Wilson Tennis Racket,5,549.63,2748.15,0.0,2748.15,Apple Pay,Female,Jordanian
+LLU-DXB-000455,2023-01-09,Al Barsha,CUST-78592,Regular,Home & Kitchen,Milton Steel Lunch Box,3,170.69,512.07,0.0,512.07,Credit Card,Female,Egyptian
+LLU-DXB-001064,2023-01-10,Deira City Centre,CUST-50225,Regular,Sports & Fitness,Under Armour Gym Gloves,5,601.83,3009.15,0.0,3009.15,Samsung Pay,Female,Egyptian
+LLU-DXB-000620,2023-01-10,Al Ghurair,CUST-55209,Loyalty Member,Personal Care,Nivea Men Face Wash,7,55.9,391.3,0.1,352.17,Debit Card,Female,Bangladeshi
+LLU-DXB-000864,2023-01-10,Deira City Centre,CUST-25286,Regular,Home & Kitchen,Nespresso Pod 10-Pack,3,398.85,1196.55,0.0,1196.55,Cash,Male,Bangladeshi
+LLU-DXB-000359,2023-01-10,Deira City Centre,CUST-24474,Loyalty Member,Home & Kitchen,IKEA Storage Boxes,2,298.79,597.58,0.05,567.7,Samsung Pay,Female,Pakistani
+LLU-DXB-000893,2023-01-11,Mirdif City Centre,CUST-16820,Loyalty Member,Clothing,Women's Abaya (Black),3,78.6,235.8,0.15,200.43,LuLu Gift Card,Female,American
+LLU-DXB-000958,2023-01-12,Dubai Festival City,CUST-70117,Regular,Sports & Fitness,GNC Multivitamin 90 Tabs,3,606.06,1818.18,0.0,1818.18,Credit Card,Female,British
+LLU-DXB-000224,2023-01-13,Al Barsha,CUST-79758,Budget,Electronics,Xiaomi Smart Watch,2,5146.38,10292.76,0.2,8234.21,Samsung Pay,Female,Emirati
+LLU-DXB-000601,2023-01-13,Silicon Oasis,CUST-97691,Regular,Grocery,Whole Wheat Bread,2,13.47,26.94,0.0,26.94,Debit Card,Male,Bangladeshi
+LLU-DXB-000989,2023-01-13,Deira City Centre,CUST-71589,Corporate,Electronics,Dyson Vacuum Cleaner,3,359.29,1077.87,0.0,1077.87,Cash,Female,Egyptian
+LLU-DXB-000988,2023-01-14,Al Barsha,CUST-70525,Regular,Beverages,Mango Juice 1.5L,5,36.28,181.4,0.0,181.4,Debit Card,Male,American
+LLU-DXB-000574,2023-01-15,Silicon Oasis,CUST-29510,Premium,Fresh Produce,Imported Strawberries 250g,3,5.96,17.88,0.05,16.99,LuLu Gift Card,Male,Emirati
+LLU-DXB-000742,2023-01-15,Al Ghurair,CUST-36975,Regular,Baby Products,Pampers Diapers L 52s,2,263.09,526.18,0.0,526.18,Credit Card,Female,Indian
+LLU-DXB-000495,2023-01-15,Al Ghurair,CUST-95119,Premium,Home & Kitchen,Tefal Non-Stick Pan,3,403.02,1209.06,0.0,1209.06,Apple Pay,Male,American
+LLU-DXB-001137,2023-01-16,Dubai Festival City,CUST-11368,Loyalty Member,Clothing,Kids' School Uniform,5,103.91,519.55,0.15,441.62,Credit Card,Female,Bangladeshi
+LLU-DXB-000780,2023-01-17,Dubai Festival City,CUST-59666,Regular,Grocery,Basmati Rice 5kg,2,14.57,29.14,0.0,29.14,LuLu Gift Card,Male,British
+LLU-DXB-000819,2023-01-17,Deira City Centre,CUST-50481,Budget,Baby Products,Aptamil Formula Stage 2,1,201.73,201.73,0.05,191.64,Credit Card,Female,Filipino
+LLU-DXB-000205,2023-01-17,Dragon Mart,CUST-43352,Regular,Electronics,Dyson Vacuum Cleaner,3,4467.0,13401.0,0.0,13401.0,Cash,Male,Jordanian
+LLU-DXB-000017,2023-01-17,Mirdif City Centre,CUST-87128,Regular,Baby Products,Dettol Baby Liquid Soap,3,74.54,223.62,0.0,223.62,Credit Card,Male,Indian
+LLU-DXB-000414,2023-01-18,Mirdif City Centre,CUST-15655,Regular,Home & Kitchen,Brita Water Filter,4,113.52,454.08,0.0,454.08,Credit Card,Male,Pakistani
+LLU-DXB-000250,2023-01-18,Ras Al Khor,CUST-94930,Regular,Beverages,Nescafé Gold 200g,2,49.37,98.74,0.0,98.74,Cash,Male,Filipino
+LLU-DXB-001180,2023-01-18,Ras Al Khor,CUST-89929,Tourist,Sports & Fitness,Reebok Ankle Weights,4,549.62,2198.48,0.0,2198.48,Credit Card,Male,Jordanian
+LLU-DXB-001127,2023-01-20,Ras Al Khor,CUST-71089,Budget,Fresh Produce,Imported Strawberries 250g,3,21.29,63.87,0.05,60.68,LuLu Gift Card,Female,American
+LLU-DXB-000971,2023-01-20,Dubai Festival City,CUST-69468,Corporate,Sports & Fitness,Reebok Ankle Weights,4,93.93,375.72,0.0,375.72,LuLu Gift Card,Female,Pakistani
+LLU-DXB-000970,2023-01-20,Dragon Mart,CUST-11512,Tourist,Baby Products,Johnson's Baby Shampoo,1,69.0,69.0,0.0,69.0,LuLu Gift Card,Male,Emirati
+LLU-DXB-001087,2023-01-22,Al Barsha,CUST-80756,Regular,Dairy,Greek Yoghurt 500g,3,29.84,89.52,0.0,89.52,Samsung Pay,Male,Emirati
+LLU-DXB-000765,2023-01-22,Silicon Oasis,CUST-66616,Regular,Dairy,Low-Fat Milk 2L,2,23.03,46.06,0.0,46.06,Cash,Female,Egyptian
+LLU-DXB-000728,2023-01-22,Al Ghurair,CUST-41632,Budget,Clothing,Under Armour Sports Bra,2,246.57,493.14,0.0,493.14,Debit Card,Female,Sri Lankan
+LLU-DXB-000336,2023-01-24,Mirdif City Centre,CUST-58819,Loyalty Member,Fresh Produce,Mixed Salad Leaves,1,24.22,24.22,0.15,20.59,Apple Pay,Female,Pakistani
+LLU-DXB-001172,2023-01-26,Deira City Centre,CUST-92756,Loyalty Member,Grocery,Sea Salt 500g,5,34.3,171.5,0.1,154.35,Apple Pay,Female,Indian
+LLU-DXB-000313,2023-01-26,Dubai Festival City,CUST-88956,Corporate,Sports & Fitness,Wilson Tennis Racket,5,699.48,3497.4,0.0,3497.4,Debit Card,Male,Jordanian
+LLU-DXB-001057,2023-01-28,Mirdif City Centre,CUST-67708,Regular,Baby Products,Aptamil Formula Stage 2,2,207.1,414.2,0.0,414.2,LuLu Gift Card,Female,Indian
+LLU-DXB-001103,2023-01-29,Al Barsha,CUST-79016,Regular,Beverages,Al Ain Water 6L,1,45.07,45.07,0.0,45.07,Cash,Female,Bangladeshi
+LLU-DXB-001065,2023-01-29,Ras Al Khor,CUST-72941,Regular,Dairy,Cream Cheese 150g,8,17.08,136.64,0.0,136.64,LuLu Gift Card,Male,American
+LLU-DXB-000039,2023-01-30,Deira City Centre,CUST-88193,Regular,Clothing,Adidas Track Suit,3,434.08,1302.24,0.0,1302.24,Apple Pay,Female,British
+LLU-DXB-000390,2023-01-31,Ras Al Khor,CUST-59987,Budget,Electronics,Apple iPhone 15,3,2534.32,7602.96,0.05,7222.81,Cash,Female,Egyptian
+LLU-DXB-000947,2023-01-31,Ras Al Khor,CUST-47568,Tourist,Home & Kitchen,Philips Rice Cooker,4,583.57,2334.28,0.0,2334.28,Apple Pay,Female,Jordanian
+LLU-DXB-000899,2023-02-01,Al Barsha,CUST-16832,Loyalty Member,Fresh Produce,Mixed Salad Leaves,1,13.37,13.37,0.05,12.7,LuLu Gift Card,Female,Filipino
+LLU-DXB-000788,2023-02-01,Silicon Oasis,CUST-77143,Regular,Clothing,Adidas Track Suit,5,174.42,872.1,0.0,872.1,Samsung Pay,Female,American
+LLU-DXB-001053,2023-02-03,Ras Al Khor,CUST-55831,Premium,Grocery,Basmati Rice 5kg,3,8.08,24.24,0.05,23.03,Samsung Pay,Male,Egyptian
+LLU-DXB-000816,2023-02-04,Deira City Centre,CUST-38647,Budget,Grocery,Sunflower Oil 3L,10,15.37,153.7,0.1,138.33,Apple Pay,Female,Jordanian
+LLU-DXB-000807,2023-02-04,Silicon Oasis,CUST-13501,Regular,Beverages,Al Ain Water 6L,9,18.15,163.35,0.0,163.35,Cash,Female,American
+LLU-DXB-000269,2023-02-05,Deira City Centre,CUST-92074,Budget,Sports & Fitness,Protein Whey Powder 1kg,3,449.67,1349.01,0.0,1349.01,Apple Pay,Male,Indian
+LLU-DXB-000045,2023-02-05,Mirdif City Centre,CUST-72277,Regular,Grocery,Tomato Paste 400g,1,11.56,11.56,0.0,11.56,Samsung Pay,Male,Bangladeshi
+LLU-DXB-000991,2023-02-07,Al Barsha,CUST-28184,Tourist,Clothing,H&M Casual T-Shirt,2,68.67,137.34,0.0,137.34,Cash,Female,American
+LLU-DXB-001160,2023-02-07,Silicon Oasis,CUST-46924,Budget,Fresh Produce,Avocado 4-Pack,4,28.81,115.24,0.2,92.19,Cash,Male,Bangladeshi
+LLU-DXB-001017,2023-02-08,Al Ghurair,CUST-28051,Regular,Fresh Produce,Organic Apples 1kg,1,30.73,30.73,0.0,30.73,Debit Card,Female,Sri Lankan
+LLU-DXB-000191,2023-02-09,Mirdif City Centre,CUST-93616,Premium,Fresh Produce,Egyptian Dates 500g,2,34.12,68.24,0.0,68.24,Credit Card,Male,Indian
+LLU-DXB-000271,2023-02-10,Dragon Mart,CUST-91999,Regular,Clothing,H&M Casual T-Shirt,2,183.03,366.06,0.0,366.06,Debit Card,Male,American
+LLU-DXB-000539,2023-02-11,Deira City Centre,CUST-65897,Corporate,Electronics,LG Refrigerator,2,419.94,839.88,0.0,839.88,Apple Pay,Male,Jordanian
+LLU-DXB-000628,2023-02-11,Al Ghurair,CUST-57338,Corporate,Beverages,Aloe Vera Drink 500ml,3,11.59,34.77,0.0,34.77,Apple Pay,Female,Emirati
+LLU-DXB-000563,2023-02-12,Al Ghurair,CUST-25203,Regular,Home & Kitchen,Philips Rice Cooker,3,445.93,1337.79,0.0,1337.79,Cash,Male,Bangladeshi
+LLU-DXB-000308,2023-02-13,Mirdif City Centre,CUST-88861,Budget,Grocery,Brown Sugar 1kg,1,10.43,10.43,0.0,10.43,Credit Card,Male,Sri Lankan
+LLU-DXB-000569,2023-02-14,Mirdif City Centre,CUST-88562,Regular,Fresh Produce,Baby Spinach 200g,1,4.0,4.0,0.0,4.0,LuLu Gift Card,Male,Indian
+LLU-DXB-000745,2023-02-15,Ras Al Khor,CUST-33784,Regular,Clothing,Kids' School Uniform,2,198.09,396.18,0.0,396.18,Cash,Male,Egyptian
+LLU-DXB-000856,2023-02-15,Ras Al Khor,CUST-30014,Budget,Sports & Fitness,Speedo Swimming Goggles,3,213.74,641.22,0.2,512.98,LuLu Gift Card,Male,Filipino
+LLU-DXB-001111,2023-02-15,Silicon Oasis,CUST-43033,Budget,Dairy,Mozzarella 200g,10,18.15,181.5,0.05,172.42,Apple Pay,Female,British
+LLU-DXB-000305,2023-02-15,Silicon Oasis,CUST-79393,Premium,Fresh Produce,Egyptian Dates 500g,1,28.08,28.08,0.05,26.68,Debit Card,Male,Pakistani
+LLU-DXB-000596,2023-02-16,Al Ghurair,CUST-27891,Regular,Fresh Produce,Avocado 4-Pack,5,4.35,21.75,0.0,21.75,Cash,Female,Bangladeshi
+LLU-DXB-000116,2023-02-16,Ras Al Khor,CUST-97819,Loyalty Member,Personal Care,Head & Shoulders Shampoo,3,49.74,149.22,0.15,126.84,Cash,Female,British
+LLU-DXB-000467,2023-02-16,Ras Al Khor,CUST-94485,Budget,Grocery,Whole Wheat Bread,6,34.93,209.58,0.0,209.58,Credit Card,Male,Pakistani
+LLU-DXB-000206,2023-02-16,Deira City Centre,CUST-71875,Regular,Clothing,Men's Linen Kandura,5,322.66,1613.3,0.0,1613.3,Cash,Female,American
+LLU-DXB-000724,2023-02-17,Dragon Mart,CUST-14861,Premium,Baby Products,Huggies Wipes 3-Pack,2,98.42,196.84,0.05,187.0,LuLu Gift Card,Male,Jordanian
+LLU-DXB-000653,2023-02-17,Al Barsha,CUST-87393,Loyalty Member,Personal Care,Always Pads Overnight,5,93.84,469.2,0.1,422.28,Cash,Male,British
+LLU-DXB-001098,2023-02-17,Ras Al Khor,CUST-44289,Premium,Personal Care,Oral-B Toothbrush,4,38.01,152.04,0.05,144.44,LuLu Gift Card,Female,American
+LLU-DXB-000238,2023-02-19,Dubai Festival City,CUST-66973,Regular,Dairy,Cheddar Cheese Block,3,11.59,34.77,0.0,34.77,Debit Card,Female,Egyptian
+LLU-DXB-000341,2023-02-19,Ras Al Khor,CUST-46239,Regular,Sports & Fitness,GNC Multivitamin 90 Tabs,4,623.86,2495.44,0.0,2495.44,LuLu Gift Card,Female,Egyptian
+LLU-DXB-000300,2023-02-20,Mirdif City Centre,CUST-94670,Budget,Clothing,Quiksilver Swim Shorts,1,414.91,414.91,0.0,414.91,Apple Pay,Male,Indian
+LLU-DXB-000938,2023-02-20,Mirdif City Centre,CUST-88264,Regular,Beverages,Lipton Green Tea 100s,2,13.11,26.22,0.0,26.22,Cash,Female,Filipino
+LLU-DXB-000352,2023-02-20,Al Barsha,CUST-49085,Regular,Dairy,Greek Yoghurt 500g,3,21.84,65.52,0.0,65.52,Debit Card,Female,Sri Lankan
+LLU-DXB-000760,2023-02-20,Dubai Festival City,CUST-18526,Budget,Baby Products,Aptamil Formula Stage 2,5,164.91,824.55,0.05,783.32,Credit Card,Female,Jordanian
+LLU-DXB-000636,2023-02-21,Al Ghurair,CUST-97501,Budget,Electronics,Dyson Vacuum Cleaner,2,2659.59,5319.18,0.0,5319.18,Cash,Male,Indian
+LLU-DXB-001045,2023-02-22,Dubai Festival City,CUST-47757,Corporate,Grocery,Tomato Paste 400g,6,14.07,84.42,0.0,84.42,Cash,Male,Sri Lankan
+LLU-DXB-000818,2023-02-22,Ras Al Khor,CUST-12313,Budget,Beverages,Pepsi 2.25L,6,53.5,321.0,0.2,256.8,Samsung Pay,Female,American
+LLU-DXB-000638,2023-02-23,Deira City Centre,CUST-85777,Loyalty Member,Dairy,Flavoured Yoghurt Duo,9,22.61,203.49,0.15,172.97,Cash,Male,Filipino
+LLU-DXB-000823,2023-02-24,Mirdif City Centre,CUST-16829,Regular,Beverages,Pepsi 2.25L,8,4.34,34.72,0.0,34.72,LuLu Gift Card,Male,Filipino
+LLU-DXB-000858,2023-02-25,Al Ghurair,CUST-47010,Tourist,Personal Care,L'Oréal Conditioner,7,92.86,650.02,0.0,650.02,LuLu Gift Card,Male,Sri Lankan
+LLU-DXB-001070,2023-02-25,Dragon Mart,CUST-47104,Regular,Beverages,Mango Juice 1.5L,7,50.07,350.49,0.0,350.49,Credit Card,Male,British
+LLU-DXB-000946,2023-02-25,Dubai Festival City,CUST-70390,Regular,Dairy,Greek Yoghurt 500g,2,14.63,29.26,0.0,29.26,Debit Card,Female,Egyptian
+LLU-DXB-000028,2023-02-26,Mirdif City Centre,CUST-76307,Premium,Beverages,Nescafé Gold 200g,10,38.78,387.8,0.0,387.8,Debit Card,Male,British
+LLU-DXB-000317,2023-02-27,Al Barsha,CUST-48654,Budget,Home & Kitchen,Kitchen Towel Roll 6-Pack,2,418.55,837.1,0.2,669.68,Cash,Female,Egyptian
+LLU-DXB-001105,2023-02-27,Dragon Mart,CUST-12641,Loyalty Member,Personal Care,Nivea Men Face Wash,2,106.18,212.36,0.05,201.74,Cash,Male,Indian
+LLU-DXB-000159,2023-02-28,Dragon Mart,CUST-57619,Regular,Sports & Fitness,Wilson Tennis Racket,1,882.52,882.52,0.0,882.52,Samsung Pay,Male,Emirati
+LLU-DXB-000996,2023-02-28,Silicon Oasis,CUST-17899,Budget,Baby Products,Aptamil Formula Stage 2,2,209.85,419.7,0.0,419.7,Credit Card,Male,Filipino
+LLU-DXB-001054,2023-03-01,Al Ghurair,CUST-81256,Regular,Dairy,Condensed Milk 400ml,2,24.04,48.08,0.0,48.08,Credit Card,Female,British
+LLU-DXB-001073,2023-03-02,Mirdif City Centre,CUST-84108,Premium,Personal Care,Always Pads Overnight,7,89.34,625.38,0.0,625.38,Samsung Pay,Female,Sri Lankan
+LLU-DXB-000894,2023-03-06,Dragon Mart,CUST-42472,Regular,Sports & Fitness,Adidas Yoga Mat,4,278.28,1113.12,0.0,1113.12,Samsung Pay,Male,Sri Lankan
+LLU-DXB-000054,2023-03-07,Dragon Mart,CUST-27786,Corporate,Baby Products,Pampers Diapers L 52s,1,171.85,171.85,0.0,171.85,Apple Pay,Male,Emirati
+LLU-DXB-000044,2023-03-07,Al Ghurair,CUST-77561,Loyalty Member,Home & Kitchen,Brita Water Filter,2,316.48,632.96,0.15,538.02,LuLu Gift Card,Female,Indian
+LLU-DXB-000655,2023-03-07,Deira City Centre,CUST-49965,Regular,Electronics,Dell Laptop i7,3,3617.24,10851.72,0.0,10851.72,Cash,Female,Pakistani
+LLU-DXB-001041,2023-03-08,Al Barsha,CUST-92459,Regular,Grocery,Whole Wheat Bread,4,27.37,109.48,0.0,109.48,LuLu Gift Card,Male,Filipino
+LLU-DXB-000071,2023-03-08,Mirdif City Centre,CUST-25525,Budget,Clothing,Quiksilver Swim Shorts,2,47.78,95.56,0.1,86.0,Samsung Pay,Female,Jordanian
+LLU-DXB-000683,2023-03-08,Al Barsha,CUST-71457,Budget,Fresh Produce,Avocado 4-Pack,3,41.11,123.33,0.2,98.66,Credit Card,Female,American
+LLU-DXB-000429,2023-03-09,Al Ghurair,CUST-62354,Regular,Dairy,Full Cream Milk 1L,3,23.96,71.88,0.0,71.88,Debit Card,Female,American
+LLU-DXB-001089,2023-03-09,Dubai Festival City,CUST-46497,Regular,Clothing,Women's Abaya (Black),3,208.71,626.13,0.0,626.13,LuLu Gift Card,Male,British
+LLU-DXB-000549,2023-03-11,Al Barsha,CUST-90149,Corporate,Sports & Fitness,Under Armour Gym Gloves,3,844.59,2533.77,0.0,2533.77,Samsung Pay,Female,Pakistani
+LLU-DXB-000696,2023-03-11,Al Barsha,CUST-37292,Regular,Personal Care,Colgate Total Toothpaste,7,116.09,812.63,0.0,812.63,Credit Card,Female,American
+LLU-DXB-000850,2023-03-12,Ras Al Khor,CUST-39334,Corporate,Clothing,Kids' School Uniform,4,294.26,1177.04,0.0,1177.04,Samsung Pay,Male,British
+LLU-DXB-001123,2023-03-12,Dubai Festival City,CUST-28786,Regular,Home & Kitchen,IKEA Storage Boxes,2,474.35,948.7,0.0,948.7,Credit Card,Female,Emirati
+LLU-DXB-000637,2023-03-12,Dubai Festival City,CUST-46356,Budget,Sports & Fitness,Nike Water Bottle 750ml,3,200.02,600.06,0.0,600.06,Samsung Pay,Female,British
+LLU-DXB-000935,2023-03-13,Dragon Mart,CUST-26401,Loyalty Member,Baby Products,Farlin Baby Bottle 260ml,2,127.27,254.54,0.1,229.09,LuLu Gift Card,Male,American
+LLU-DXB-001052,2023-03-13,Al Barsha,CUST-39769,Regular,Grocery,Lentils 1kg,4,4.78,19.12,0.0,19.12,Apple Pay,Male,Emirati
+LLU-DXB-000419,2023-03-14,Silicon Oasis,CUST-96427,Budget,Home & Kitchen,Kitchen Towel Roll 6-Pack,5,529.1,2645.5,0.0,2645.5,Credit Card,Male,American
+LLU-DXB-001163,2023-03-15,Dubai Festival City,CUST-28958,Loyalty Member,Electronics,Dyson Vacuum Cleaner,1,1480.15,1480.15,0.15,1258.13,LuLu Gift Card,Female,American
+LLU-DXB-001037,2023-03-16,Deira City Centre,CUST-75461,Premium,Sports & Fitness,Wilson Tennis Racket,2,50.83,101.66,0.0,101.66,LuLu Gift Card,Female,British
+LLU-DXB-001110,2023-03-16,Dubai Festival City,CUST-37221,Regular,Clothing,Adidas Track Suit,1,369.11,369.11,0.0,369.11,Apple Pay,Male,Indian
+LLU-DXB-000805,2023-03-16,Dragon Mart,CUST-15723,Regular,Personal Care,L'Oréal Conditioner,10,81.82,818.2,0.0,818.2,Credit Card,Male,Egyptian
+LLU-DXB-000293,2023-03-16,Dubai Festival City,CUST-93521,Regular,Personal Care,Gillette Fusion Razor,10,91.76,917.6,0.0,917.6,Apple Pay,Male,Jordanian
+LLU-DXB-000684,2023-03-16,Al Barsha,CUST-16830,Loyalty Member,Grocery,Chickpeas 800g,5,37.33,186.65,0.05,177.32,Debit Card,Male,Bangladeshi
+LLU-DXB-000568,2023-03-17,Deira City Centre,CUST-99849,Loyalty Member,Baby Products,Pampers Diapers L 52s,1,235.4,235.4,0.1,211.86,Apple Pay,Female,Filipino
+LLU-DXB-000104,2023-03-17,Mirdif City Centre,CUST-80457,Premium,Clothing,Kids' School Uniform,4,40.82,163.28,0.0,163.28,Credit Card,Female,Bangladeshi
+LLU-DXB-001175,2023-03-17,Dragon Mart,CUST-38613,Regular,Personal Care,Dettol Soap 6-Pack,2,76.0,152.0,0.0,152.0,Credit Card,Male,Jordanian
+LLU-DXB-000654,2023-03-17,Dragon Mart,CUST-55238,Premium,Beverages,Mango Juice 1.5L,6,53.92,323.52,0.05,307.34,Debit Card,Female,British
+LLU-DXB-001028,2023-03-17,Mirdif City Centre,CUST-36777,Regular,Clothing,Men's Linen Kandura,5,398.96,1994.8,0.0,1994.8,Cash,Female,Emirati
+LLU-DXB-000657,2023-03-17,Silicon Oasis,CUST-23114,Regular,Electronics,JBL Bluetooth Speaker,3,2238.11,6714.33,0.0,6714.33,LuLu Gift Card,Male,British
+LLU-DXB-001169,2023-03-17,Mirdif City Centre,CUST-39468,Regular,Personal Care,Nivea Men Face Wash,6,59.79,358.74,0.0,358.74,Cash,Female,Filipino
+LLU-DXB-000877,2023-03-18,Al Barsha,CUST-32380,Corporate,Beverages,Mango Juice 1.5L,10,34.89,348.9,0.0,348.9,Debit Card,Female,Pakistani
+LLU-DXB-001009,2023-03-19,Al Ghurair,CUST-53997,Regular,Baby Products,Graco Baby Monitor,1,53.84,53.84,0.0,53.84,Apple Pay,Female,British
+LLU-DXB-000744,2023-03-19,Dubai Festival City,CUST-47401,Regular,Electronics,Dyson Vacuum Cleaner,1,1525.9,1525.9,0.0,1525.9,Credit Card,Male,Egyptian
+LLU-DXB-000586,2023-03-19,Dragon Mart,CUST-30677,Regular,Dairy,Cream Cheese 150g,3,21.62,64.86,0.0,64.86,Cash,Female,Indian
+LLU-DXB-000001,2023-03-21,Deira City Centre,CUST-87397,Loyalty Member,Clothing,Men's Linen Kandura,2,129.08,258.16,0.15,219.44,Apple Pay,Male,Emirati
+LLU-DXB-000003,2023-03-21,Deira City Centre,CUST-59797,Regular,Dairy,Mozzarella 200g,6,7.98,47.88,0.0,47.88,Cash,Female,British
+LLU-DXB-000273,2023-03-22,Ras Al Khor,CUST-58177,Budget,Personal Care,Nivea Men Face Wash,2,33.64,67.28,0.0,67.28,Debit Card,Male,American
+LLU-DXB-000117,2023-03-22,Mirdif City Centre,CUST-30280,Tourist,Personal Care,Dove Body Wash 500ml,6,75.25,451.5,0.0,451.5,LuLu Gift Card,Female,Filipino
+LLU-DXB-000248,2023-03-23,Al Ghurair,CUST-64522,Regular,Sports & Fitness,Reebok Ankle Weights,4,897.99,3591.96,0.0,3591.96,Cash,Male,Pakistani
+LLU-DXB-001072,2023-03-24,Mirdif City Centre,CUST-51039,Tourist,Electronics,Huawei Tablet,1,5028.52,5028.52,0.0,5028.52,Samsung Pay,Female,Filipino
+LLU-DXB-001025,2023-03-25,Ras Al Khor,CUST-87901,Loyalty Member,Baby Products,Dettol Baby Liquid Soap,3,37.43,112.29,0.15,95.45,Cash,Female,Jordanian
+LLU-DXB-001008,2023-03-26,Al Barsha,CUST-12279,Budget,Beverages,Aloe Vera Drink 500ml,4,31.35,125.4,0.2,100.32,Samsung Pay,Female,Filipino
+LLU-DXB-000608,2023-03-26,Dubai Festival City,CUST-46168,Premium,Home & Kitchen,Pyrex Glass Set 3pc,3,540.81,1622.43,0.0,1622.43,Cash,Male,Bangladeshi
+LLU-DXB-000404,2023-03-26,Dubai Festival City,CUST-94613,Regular,Home & Kitchen,Brita Water Filter,5,197.17,985.85,0.0,985.85,Samsung Pay,Male,Egyptian
+LLU-DXB-000641,2023-03-27,Dubai Festival City,CUST-74987,Premium,Grocery,Chickpeas 800g,2,49.26,98.52,0.05,93.59,Debit Card,Female,Sri Lankan
+LLU-DXB-000973,2023-03-28,Silicon Oasis,CUST-88105,Budget,Clothing,Kids' School Uniform,5,296.31,1481.55,0.0,1481.55,Cash,Male,Pakistani
+LLU-DXB-000759,2023-03-28,Al Ghurair,CUST-84593,Regular,Grocery,Basmati Rice 5kg,7,41.41,289.87,0.0,289.87,Samsung Pay,Female,Pakistani
+LLU-DXB-001003,2023-03-28,Mirdif City Centre,CUST-25097,Budget,Sports & Fitness,Speedo Swimming Goggles,1,120.54,120.54,0.05,114.51,Cash,Male,Jordanian
+LLU-DXB-000925,2023-03-29,Dragon Mart,CUST-46500,Loyalty Member,Personal Care,L'Oréal Conditioner,8,95.98,767.84,0.05,729.45,Credit Card,Male,British
+LLU-DXB-000583,2023-03-30,Silicon Oasis,CUST-87984,Budget,Clothing,Levis Denim Jeans,1,380.02,380.02,0.0,380.02,Samsung Pay,Male,Indian
+LLU-DXB-000965,2023-03-30,Mirdif City Centre,CUST-71548,Regular,Personal Care,Oral-B Toothbrush,7,58.92,412.44,0.0,412.44,Cash,Female,Bangladeshi
+LLU-DXB-001051,2023-03-31,Silicon Oasis,CUST-25465,Regular,Personal Care,Nivea Men Face Wash,3,55.81,167.43,0.0,167.43,Samsung Pay,Female,British
+LLU-DXB-000712,2023-04-01,Silicon Oasis,CUST-91618,Premium,Beverages,Coconut Water 330ml,7,54.0,378.0,0.05,359.1,LuLu Gift Card,Female,Bangladeshi
+LLU-DXB-000433,2023-04-01,Al Ghurair,CUST-18854,Loyalty Member,Beverages,Aloe Vera Drink 500ml,1,54.21,54.21,0.1,48.79,Apple Pay,Male,Filipino
+LLU-DXB-000422,2023-04-02,Al Barsha,CUST-59155,Loyalty Member,Grocery,Basmati Rice 5kg,10,39.89,398.9,0.15,339.07,LuLu Gift Card,Male,British
+LLU-DXB-001044,2023-04-02,Silicon Oasis,CUST-40221,Premium,Clothing,Quiksilver Swim Shorts,3,357.51,1072.53,0.0,1072.53,Cash,Female,Emirati
+LLU-DXB-000976,2023-04-02,Ras Al Khor,CUST-55453,Premium,Dairy,Labneh 400g,10,8.72,87.2,0.0,87.2,Apple Pay,Male,Pakistani
+LLU-DXB-000067,2023-04-03,Dubai Festival City,CUST-35105,Regular,Fresh Produce,Baby Spinach 200g,3,33.29,99.87,0.0,99.87,Credit Card,Female,Egyptian
+LLU-DXB-000645,2023-04-06,Mirdif City Centre,CUST-65666,Regular,Beverages,Volvic Water 12-Pack,7,37.32,261.24,0.0,261.24,LuLu Gift Card,Female,Egyptian
+LLU-DXB-000874,2023-04-07,Deira City Centre,CUST-99650,Tourist,Personal Care,Dove Body Wash 500ml,5,35.72,178.6,0.0,178.6,Samsung Pay,Female,Indian
+LLU-DXB-000729,2023-04-07,Al Barsha,CUST-95322,Loyalty Member,Clothing,Men's Linen Kandura,5,135.4,677.0,0.1,609.3,Cash,Female,Egyptian
+LLU-DXB-000625,2023-04-07,Al Ghurair,CUST-64677,Tourist,Fresh Produce,Baby Spinach 200g,4,38.04,152.16,0.0,152.16,Credit Card,Female,Filipino
+LLU-DXB-000460,2023-04-08,Silicon Oasis,CUST-11075,Premium,Electronics,Dyson Vacuum Cleaner,2,5351.98,10703.96,0.05,10168.76,Credit Card,Male,Pakistani
+LLU-DXB-000771,2023-04-08,Al Ghurair,CUST-56581,Loyalty Member,Electronics,Xiaomi Smart Watch,1,3321.94,3321.94,0.15,2823.65,Apple Pay,Female,Jordanian
+LLU-DXB-000015,2023-04-10,Silicon Oasis,CUST-82063,Tourist,Home & Kitchen,Pyrex Glass Set 3pc,2,328.97,657.94,0.0,657.94,Credit Card,Female,Sri Lankan
+LLU-DXB-000772,2023-04-10,Al Ghurair,CUST-86614,Regular,Home & Kitchen,Philips Rice Cooker,1,482.27,482.27,0.0,482.27,Apple Pay,Female,Egyptian
+LLU-DXB-000166,2023-04-11,Deira City Centre,CUST-18617,Regular,Baby Products,MAM Pacifier 2-Pack,5,227.97,1139.85,0.0,1139.85,Debit Card,Female,Bangladeshi
+LLU-DXB-001036,2023-04-11,Ras Al Khor,CUST-87182,Budget,Home & Kitchen,Kitchen Towel Roll 6-Pack,5,354.1,1770.5,0.1,1593.45,Samsung Pay,Female,Jordanian
+LLU-DXB-001148,2023-04-11,Ras Al Khor,CUST-17051,Regular,Sports & Fitness,Reebok Ankle Weights,2,875.87,1751.74,0.0,1751.74,Cash,Female,Pakistani
+LLU-DXB-000109,2023-04-11,Al Ghurair,CUST-32871,Loyalty Member,Beverages,Pepsi 2.25L,5,37.37,186.85,0.05,177.51,Cash,Male,Pakistani
+LLU-DXB-000968,2023-04-11,Dragon Mart,CUST-32769,Budget,Personal Care,Oral-B Toothbrush,1,52.05,52.05,0.2,41.64,Apple Pay,Female,Sri Lankan
+LLU-DXB-000714,2023-04-12,Al Ghurair,CUST-61166,Corporate,Beverages,Mango Juice 1.5L,8,44.05,352.4,0.0,352.4,Apple Pay,Female,Bangladeshi
+LLU-DXB-000386,2023-04-12,Dubai Festival City,CUST-86544,Premium,Dairy,Flavoured Yoghurt Duo,5,4.3,21.5,0.05,20.43,Debit Card,Male,British
+LLU-DXB-000235,2023-04-13,Deira City Centre,CUST-34561,Regular,Electronics,Huawei Tablet,1,4223.2,4223.2,0.0,4223.2,Apple Pay,Female,Sri Lankan
+LLU-DXB-000099,2023-04-13,Deira City Centre,CUST-48680,Loyalty Member,Electronics,Huawei Tablet,2,328.5,657.0,0.15,558.45,Debit Card,Female,Pakistani
+LLU-DXB-001082,2023-04-15,Dubai Festival City,CUST-87274,Loyalty Member,Personal Care,L'Oréal Conditioner,8,56.8,454.4,0.15,386.24,Samsung Pay,Male,Pakistani
+LLU-DXB-000553,2023-04-16,Deira City Centre,CUST-27985,Budget,Electronics,Apple iPhone 15,2,920.38,1840.76,0.2,1472.61,LuLu Gift Card,Female,Bangladeshi
+LLU-DXB-000258,2023-04-17,Mirdif City Centre,CUST-60324,Premium,Home & Kitchen,Kitchen Towel Roll 6-Pack,1,228.24,228.24,0.05,216.83,Samsung Pay,Female,American
+LLU-DXB-001154,2023-04-18,Silicon Oasis,CUST-34637,Budget,Baby Products,Pampers Diapers L 52s,1,214.2,214.2,0.05,203.49,Cash,Male,Egyptian
+LLU-DXB-001115,2023-04-19,Dragon Mart,CUST-62350,Budget,Electronics,Canon DSLR Camera,3,3499.98,10499.94,0.2,8399.95,Cash,Female,Indian
+LLU-DXB-001047,2023-04-19,Mirdif City Centre,CUST-81707,Regular,Electronics,JBL Bluetooth Speaker,1,1222.74,1222.74,0.0,1222.74,LuLu Gift Card,Female,Emirati
+LLU-DXB-000918,2023-04-19,Silicon Oasis,CUST-83774,Loyalty Member,Clothing,Under Armour Sports Bra,1,168.82,168.82,0.05,160.38,Apple Pay,Male,Egyptian
+LLU-DXB-000275,2023-04-19,Deira City Centre,CUST-87276,Corporate,Sports & Fitness,Speedo Swimming Goggles,1,100.85,100.85,0.0,100.85,LuLu Gift Card,Female,British
+LLU-DXB-000398,2023-04-20,Deira City Centre,CUST-15475,Tourist,Fresh Produce,Mixed Salad Leaves,5,3.47,17.35,0.0,17.35,Cash,Female,Sri Lankan
+LLU-DXB-000585,2023-04-20,Dragon Mart,CUST-32026,Budget,Grocery,Basmati Rice 5kg,2,18.1,36.2,0.1,32.58,LuLu Gift Card,Female,Sri Lankan
+LLU-DXB-000634,2023-04-21,Mirdif City Centre,CUST-50295,Loyalty Member,Fresh Produce,Organic Apples 1kg,2,7.98,15.96,0.15,13.57,Credit Card,Male,Pakistani
+LLU-DXB-000292,2023-04-21,Al Ghurair,CUST-22193,Tourist,Grocery,Sea Salt 500g,1,22.15,22.15,0.0,22.15,Cash,Male,Sri Lankan
+LLU-DXB-000573,2023-04-22,Dragon Mart,CUST-38624,Regular,Grocery,Mixed Spices Pack,2,32.98,65.96,0.0,65.96,Samsung Pay,Male,Bangladeshi
+LLU-DXB-000562,2023-04-23,Dubai Festival City,CUST-75004,Loyalty Member,Home & Kitchen,Philips Rice Cooker,3,519.97,1559.91,0.05,1481.91,Apple Pay,Female,Filipino
+LLU-DXB-000518,2023-04-23,Al Barsha,CUST-97424,Premium,Baby Products,Aptamil Formula Stage 2,3,54.29,162.87,0.0,162.87,Samsung Pay,Female,British
+LLU-DXB-000875,2023-04-24,Mirdif City Centre,CUST-45867,Regular,Beverages,Nescafé Gold 200g,5,22.68,113.4,0.0,113.4,Cash,Male,American
+LLU-DXB-000487,2023-04-25,Dubai Festival City,CUST-54062,Budget,Sports & Fitness,GNC Multivitamin 90 Tabs,3,219.32,657.96,0.2,526.37,Cash,Female,Jordanian
+LLU-DXB-000931,2023-04-25,Ras Al Khor,CUST-28517,Budget,Sports & Fitness,Decathlon Resistance Bands,2,544.68,1089.36,0.0,1089.36,Cash,Male,Indian
+LLU-DXB-001067,2023-04-25,Al Barsha,CUST-40496,Corporate,Fresh Produce,Baby Spinach 200g,2,8.34,16.68,0.0,16.68,Cash,Male,Pakistani
+LLU-DXB-000367,2023-04-26,Al Barsha,CUST-11526,Regular,Grocery,Brown Sugar 1kg,7,34.46,241.22,0.0,241.22,LuLu Gift Card,Male,Sri Lankan
+LLU-DXB-000599,2023-04-26,Al Barsha,CUST-64758,Regular,Grocery,Lentils 1kg,10,12.68,126.8,0.0,126.8,Cash,Male,Bangladeshi
+LLU-DXB-000663,2023-04-27,Al Ghurair,CUST-67067,Regular,Electronics,Dyson Vacuum Cleaner,1,2624.3,2624.3,0.0,2624.3,Apple Pay,Female,Indian
+LLU-DXB-001015,2023-04-27,Al Ghurair,CUST-91762,Corporate,Electronics,LG Refrigerator,3,937.15,2811.45,0.0,2811.45,Samsung Pay,Male,Egyptian
+LLU-DXB-001155,2023-04-28,Al Ghurair,CUST-50775,Regular,Personal Care,Head & Shoulders Shampoo,7,81.25,568.75,0.0,568.75,Apple Pay,Female,Emirati
+LLU-DXB-000324,2023-04-28,Deira City Centre,CUST-21233,Regular,Home & Kitchen,Milton Steel Lunch Box,1,175.77,175.77,0.0,175.77,LuLu Gift Card,Female,Sri Lankan
+LLU-DXB-000820,2023-04-28,Dragon Mart,CUST-36789,Premium,Sports & Fitness,Decathlon Resistance Bands,3,352.71,1058.13,0.0,1058.13,LuLu Gift Card,Male,Filipino
+LLU-DXB-000185,2023-04-28,Dragon Mart,CUST-36724,Regular,Sports & Fitness,Decathlon Resistance Bands,4,410.91,1643.64,0.0,1643.64,Apple Pay,Female,Emirati
+LLU-DXB-000010,2023-04-29,Dubai Festival City,CUST-99192,Budget,Grocery,Whole Wheat Bread,1,6.36,6.36,0.0,6.36,Apple Pay,Male,American
+LLU-DXB-000800,2023-05-02,Deira City Centre,CUST-26926,Budget,Electronics,JBL Bluetooth Speaker,2,1069.27,2138.54,0.2,1710.83,Samsung Pay,Female,Bangladeshi
+LLU-DXB-000597,2023-05-02,Dubai Festival City,CUST-85775,Loyalty Member,Personal Care,Nivea Men Face Wash,5,32.62,163.1,0.15,138.64,Samsung Pay,Male,Indian
+LLU-DXB-000720,2023-05-02,Al Ghurair,CUST-67870,Premium,Electronics,Dyson Vacuum Cleaner,1,3520.1,3520.1,0.05,3344.1,Samsung Pay,Female,Indian
+LLU-DXB-000135,2023-05-04,Ras Al Khor,CUST-58870,Tourist,Grocery,Brown Sugar 1kg,10,27.16,271.6,0.0,271.6,Debit Card,Female,American
+LLU-DXB-000891,2023-05-05,Mirdif City Centre,CUST-72822,Regular,Electronics,Sony PlayStation 5,1,4129.99,4129.99,0.0,4129.99,LuLu Gift Card,Female,Indian
+LLU-DXB-000514,2023-05-06,Dubai Festival City,CUST-33444,Premium,Baby Products,Mothercare Baby Blanket,3,60.28,180.84,0.0,180.84,LuLu Gift Card,Male,American
+LLU-DXB-000942,2023-05-06,Dubai Festival City,CUST-99440,Budget,Sports & Fitness,Wilson Tennis Racket,1,785.21,785.21,0.1,706.69,Apple Pay,Male,Indian
+LLU-DXB-000032,2023-05-06,Silicon Oasis,CUST-82309,Regular,Electronics,"Samsung 65"" QLED TV",2,849.89,1699.78,0.0,1699.78,LuLu Gift Card,Female,Sri Lankan
+LLU-DXB-000448,2023-05-06,Ras Al Khor,CUST-39912,Regular,Sports & Fitness,GNC Multivitamin 90 Tabs,1,818.69,818.69,0.0,818.69,Debit Card,Female,Egyptian
+LLU-DXB-000613,2023-05-06,Mirdif City Centre,CUST-25324,Tourist,Fresh Produce,Egyptian Dates 500g,2,38.25,76.5,0.0,76.5,Cash,Female,Jordanian
+LLU-DXB-001062,2023-05-07,Dragon Mart,CUST-71254,Budget,Home & Kitchen,Nespresso Pod 10-Pack,5,349.62,1748.1,0.1,1573.29,LuLu Gift Card,Male,Pakistani
+LLU-DXB-000956,2023-05-08,Mirdif City Centre,CUST-55780,Corporate,Electronics,Apple iPhone 15,2,2442.66,4885.32,0.0,4885.32,Apple Pay,Female,Bangladeshi
+LLU-DXB-000158,2023-05-10,Silicon Oasis,CUST-56077,Budget,Clothing,H&M Casual T-Shirt,5,155.26,776.3,0.2,621.04,Apple Pay,Male,British
+LLU-DXB-000283,2023-05-10,Ras Al Khor,CUST-26637,Tourist,Dairy,Cream Cheese 150g,5,19.74,98.7,0.0,98.7,LuLu Gift Card,Female,Indian
+LLU-DXB-000257,2023-05-10,Silicon Oasis,CUST-47858,Loyalty Member,Home & Kitchen,Joseph Joseph Chopping Board,2,394.25,788.5,0.15,670.23,Credit Card,Male,British
+LLU-DXB-000450,2023-05-10,Dragon Mart,CUST-23501,Budget,Dairy,Fresh Butter 250g,2,33.09,66.18,0.05,62.87,Cash,Male,Bangladeshi
+LLU-DXB-000810,2023-05-11,Deira City Centre,CUST-98000,Regular,Clothing,Kids' School Uniform,4,252.23,1008.92,0.0,1008.92,Cash,Female,Pakistani
+LLU-DXB-000264,2023-05-11,Ras Al Khor,CUST-48356,Regular,Electronics,Xiaomi Smart Watch,3,1653.8,4961.4,0.0,4961.4,Debit Card,Female,Sri Lankan
+LLU-DXB-000826,2023-05-11,Silicon Oasis,CUST-67852,Tourist,Home & Kitchen,Pyrex Glass Set 3pc,4,228.56,914.24,0.0,914.24,Apple Pay,Female,Pakistani
+LLU-DXB-000837,2023-05-13,Dubai Festival City,CUST-59106,Regular,Personal Care,Dettol Soap 6-Pack,7,40.29,282.03,0.0,282.03,Credit Card,Male,Filipino
+LLU-DXB-000416,2023-05-13,Mirdif City Centre,CUST-63840,Regular,Clothing,Nike Running Shoes,4,446.93,1787.72,0.0,1787.72,Samsung Pay,Male,Jordanian
+LLU-DXB-000494,2023-05-13,Al Barsha,CUST-47226,Corporate,Personal Care,Always Pads Overnight,5,67.0,335.0,0.0,335.0,Credit Card,Female,Emirati
+LLU-DXB-000798,2023-05-14,Deira City Centre,CUST-98458,Budget,Clothing,H&M Casual T-Shirt,3,216.9,650.7,0.0,650.7,Samsung Pay,Male,Emirati
+LLU-DXB-000884,2023-05-16,Deira City Centre,CUST-58110,Premium,Baby Products,MAM Pacifier 2-Pack,2,133.89,267.78,0.0,267.78,Credit Card,Female,Emirati
+LLU-DXB-000110,2023-05-16,Al Ghurair,CUST-16868,Loyalty Member,Electronics,JBL Bluetooth Speaker,2,1422.93,2845.86,0.05,2703.57,Credit Card,Female,Sri Lankan
+LLU-DXB-000876,2023-05-17,Al Ghurair,CUST-87178,Tourist,Grocery,Chickpeas 800g,2,39.57,79.14,0.0,79.14,Apple Pay,Male,Sri Lankan
+LLU-DXB-000578,2023-05-18,Al Barsha,CUST-60353,Premium,Baby Products,Chicco Feeding Spoon Set,3,136.8,410.4,0.0,410.4,LuLu Gift Card,Male,Egyptian
+LLU-DXB-000241,2023-05-18,Dragon Mart,CUST-51830,Tourist,Beverages,Mango Juice 1.5L,6,15.25,91.5,0.0,91.5,Debit Card,Female,Jordanian
+LLU-DXB-000511,2023-05-20,Dubai Festival City,CUST-61520,Loyalty Member,Dairy,Cream Cheese 150g,9,17.45,157.05,0.05,149.2,Apple Pay,Female,Bangladeshi
+LLU-DXB-000951,2023-05-21,Deira City Centre,CUST-62028,Corporate,Home & Kitchen,Joseph Joseph Chopping Board,1,289.61,289.61,0.0,289.61,Apple Pay,Male,American
+LLU-DXB-000515,2023-05-21,Deira City Centre,CUST-27245,Loyalty Member,Fresh Produce,Baby Spinach 200g,3,43.36,130.08,0.15,110.57,Credit Card,Male,Jordanian
+LLU-DXB-000737,2023-05-23,Silicon Oasis,CUST-10273,Premium,Sports & Fitness,Wilson Tennis Racket,3,807.47,2422.41,0.0,2422.41,Cash,Female,Indian
+LLU-DXB-000222,2023-05-23,Al Barsha,CUST-78674,Regular,Dairy,Low-Fat Milk 2L,8,26.05,208.4,0.0,208.4,Cash,Male,Emirati
+LLU-DXB-000021,2023-05-23,Al Ghurair,CUST-70637,Regular,Grocery,Macaroni 500g,7,23.53,164.71,0.0,164.71,Credit Card,Male,Bangladeshi
+LLU-DXB-000900,2023-05-24,Al Ghurair,CUST-74393,Regular,Fresh Produce,Cherry Tomatoes 500g,4,28.47,113.88,0.0,113.88,Debit Card,Female,Egyptian
+LLU-DXB-000602,2023-05-24,Ras Al Khor,CUST-92157,Premium,Sports & Fitness,GNC Multivitamin 90 Tabs,2,422.99,845.98,0.05,803.68,Apple Pay,Male,Indian
+LLU-DXB-001030,2023-05-24,Dubai Festival City,CUST-96175,Regular,Home & Kitchen,Kitchen Towel Roll 6-Pack,1,104.82,104.82,0.0,104.82,Credit Card,Male,Sri Lankan
+LLU-DXB-000233,2023-05-25,Dragon Mart,CUST-21232,Regular,Home & Kitchen,IKEA Storage Boxes,4,565.86,2263.44,0.0,2263.44,Samsung Pay,Female,Filipino
+LLU-DXB-000838,2023-05-25,Mirdif City Centre,CUST-17730,Budget,Home & Kitchen,Philips Rice Cooker,5,83.94,419.7,0.05,398.72,LuLu Gift Card,Male,Filipino
+LLU-DXB-000689,2023-05-27,Dubai Festival City,CUST-17152,Loyalty Member,Beverages,Aloe Vera Drink 500ml,8,12.47,99.76,0.05,94.77,Credit Card,Male,Emirati
+LLU-DXB-001179,2023-05-27,Al Barsha,CUST-91117,Budget,Clothing,Zara Formal Dress,4,202.69,810.76,0.2,648.61,Credit Card,Male,Jordanian
+LLU-DXB-000040,2023-05-28,Al Ghurair,CUST-15817,Tourist,Personal Care,Always Pads Overnight,10,20.95,209.5,0.0,209.5,LuLu Gift Card,Female,Emirati
+LLU-DXB-001091,2023-05-28,Al Barsha,CUST-93164,Premium,Electronics,Canon DSLR Camera,3,3922.3,11766.9,0.05,11178.55,LuLu Gift Card,Male,Filipino
+LLU-DXB-000472,2023-05-28,Silicon Oasis,CUST-82281,Loyalty Member,Grocery,Lentils 1kg,9,33.6,302.4,0.1,272.16,Credit Card,Female,British
+LLU-DXB-000490,2023-05-28,Ras Al Khor,CUST-55157,Premium,Sports & Fitness,Decathlon Resistance Bands,3,386.88,1160.64,0.05,1102.61,Samsung Pay,Male,Egyptian
+LLU-DXB-000782,2023-05-29,Dragon Mart,CUST-59054,Corporate,Clothing,Kids' School Uniform,2,80.59,161.18,0.0,161.18,Debit Card,Female,Filipino
+LLU-DXB-000462,2023-05-30,Al Ghurair,CUST-60014,Loyalty Member,Electronics,Huawei Tablet,2,531.91,1063.82,0.05,1010.63,Cash,Male,Filipino
+LLU-DXB-000741,2023-05-30,Al Barsha,CUST-84743,Budget,Sports & Fitness,Under Armour Gym Gloves,5,133.31,666.55,0.0,666.55,Samsung Pay,Male,Bangladeshi
+LLU-DXB-000477,2023-05-31,Mirdif City Centre,CUST-84714,Premium,Baby Products,Huggies Wipes 3-Pack,4,76.22,304.88,0.0,304.88,LuLu Gift Card,Male,Sri Lankan
+LLU-DXB-000619,2023-06-01,Silicon Oasis,CUST-51649,Premium,Grocery,Basmati Rice 5kg,2,42.77,85.54,0.05,81.26,Samsung Pay,Male,British
+LLU-DXB-001040,2023-06-02,Al Ghurair,CUST-74369,Tourist,Personal Care,Nivea Men Face Wash,4,72.26,289.04,0.0,289.04,Apple Pay,Female,Filipino
+LLU-DXB-000002,2023-06-04,Dragon Mart,CUST-38893,Regular,Clothing,Nike Running Shoes,5,280.86,1404.3,0.0,1404.3,Apple Pay,Female,Emirati
+LLU-DXB-000446,2023-06-04,Dubai Festival City,CUST-47304,Regular,Electronics,Canon DSLR Camera,3,4790.42,14371.26,0.0,14371.26,Debit Card,Female,Sri Lankan
+LLU-DXB-000163,2023-06-05,Deira City Centre,CUST-27790,Tourist,Home & Kitchen,IKEA Storage Boxes,4,185.63,742.52,0.0,742.52,Cash,Female,Pakistani
+LLU-DXB-001149,2023-06-05,Dubai Festival City,CUST-49489,Regular,Beverages,Aloe Vera Drink 500ml,3,29.79,89.37,0.0,89.37,Debit Card,Male,Pakistani
+LLU-DXB-000327,2023-06-06,Dubai Festival City,CUST-87994,Regular,Grocery,Macaroni 500g,7,22.32,156.24,0.0,156.24,Debit Card,Female,Indian
+LLU-DXB-000436,2023-06-07,Mirdif City Centre,CUST-91080,Loyalty Member,Grocery,Macaroni 500g,4,43.89,175.56,0.05,166.78,Debit Card,Male,Indian
+LLU-DXB-000270,2023-06-07,Dubai Festival City,CUST-95196,Regular,Dairy,Cream Cheese 150g,7,34.74,243.18,0.0,243.18,Debit Card,Male,Egyptian
+LLU-DXB-000749,2023-06-08,Dubai Festival City,CUST-58929,Regular,Sports & Fitness,Wilson Tennis Racket,5,765.49,3827.45,0.0,3827.45,Samsung Pay,Male,Filipino
+LLU-DXB-000493,2023-06-08,Al Ghurair,CUST-81932,Premium,Home & Kitchen,Brita Water Filter,5,141.23,706.15,0.0,706.15,Apple Pay,Male,Emirati
+LLU-DXB-000108,2023-06-09,Deira City Centre,CUST-82641,Loyalty Member,Electronics,"Samsung 65"" QLED TV",1,1453.09,1453.09,0.15,1235.13,Credit Card,Male,Filipino
+LLU-DXB-000799,2023-06-09,Mirdif City Centre,CUST-48155,Premium,Sports & Fitness,Speedo Swimming Goggles,4,199.12,796.48,0.05,756.66,LuLu Gift Card,Male,Bangladeshi
+LLU-DXB-000868,2023-06-10,Dubai Festival City,CUST-21510,Loyalty Member,Baby Products,Dettol Baby Liquid Soap,2,47.61,95.22,0.15,80.94,Samsung Pay,Female,Emirati
+LLU-DXB-001100,2023-06-10,Deira City Centre,CUST-90386,Regular,Home & Kitchen,Nespresso Pod 10-Pack,5,527.86,2639.3,0.0,2639.3,Samsung Pay,Female,Pakistani
+LLU-DXB-000786,2023-06-10,Mirdif City Centre,CUST-36607,Budget,Home & Kitchen,Brita Water Filter,5,357.09,1785.45,0.0,1785.45,Apple Pay,Male,American
+LLU-DXB-001194,2023-06-10,Mirdif City Centre,CUST-29672,Budget,Personal Care,Dove Body Wash 500ml,4,15.25,61.0,0.1,54.9,Debit Card,Male,Filipino
+LLU-DXB-000230,2023-06-10,Dubai Festival City,CUST-62205,Regular,Sports & Fitness,Adidas Yoga Mat,1,769.12,769.12,0.0,769.12,Cash,Female,Pakistani
+LLU-DXB-000537,2023-06-10,Ras Al Khor,CUST-82006,Tourist,Clothing,Men's Linen Kandura,1,262.84,262.84,0.0,262.84,Debit Card,Female,Pakistani
+LLU-DXB-001012,2023-06-10,Deira City Centre,CUST-35407,Budget,Electronics,Dell Laptop i7,2,3872.56,7745.12,0.1,6970.61,Apple Pay,Male,Egyptian
+LLU-DXB-000210,2023-06-10,Deira City Centre,CUST-23224,Loyalty Member,Clothing,Men's Linen Kandura,1,203.18,203.18,0.05,193.02,Samsung Pay,Male,Bangladeshi
+LLU-DXB-000529,2023-06-11,Ras Al Khor,CUST-56346,Loyalty Member,Fresh Produce,Fresh Mushrooms 250g,5,16.25,81.25,0.05,77.19,Cash,Male,Egyptian
+LLU-DXB-000006,2023-06-12,Al Ghurair,CUST-99593,Budget,Fresh Produce,Cherry Tomatoes 500g,3,18.32,54.96,0.1,49.46,LuLu Gift Card,Male,Jordanian
+LLU-DXB-000707,2023-06-12,Silicon Oasis,CUST-95016,Loyalty Member,Grocery,Sunflower Oil 3L,4,35.41,141.64,0.05,134.56,Credit Card,Male,American
+LLU-DXB-000794,2023-06-12,Silicon Oasis,CUST-68978,Regular,Beverages,Nescafé Gold 200g,7,14.52,101.64,0.0,101.64,Samsung Pay,Male,British
+LLU-DXB-000704,2023-06-13,Dubai Festival City,CUST-20252,Regular,Sports & Fitness,Under Armour Gym Gloves,2,828.35,1656.7,0.0,1656.7,LuLu Gift Card,Female,Indian
+LLU-DXB-000673,2023-06-13,Dubai Festival City,CUST-67520,Premium,Fresh Produce,Baby Spinach 200g,2,37.55,75.1,0.05,71.35,LuLu Gift Card,Female,American
+LLU-DXB-000399,2023-06-14,Dragon Mart,CUST-94663,Regular,Baby Products,Huggies Wipes 3-Pack,3,213.3,639.9,0.0,639.9,Samsung Pay,Male,Pakistani
+LLU-DXB-000952,2023-06-15,Silicon Oasis,CUST-24984,Regular,Beverages,Nescafé Gold 200g,8,59.8,478.4,0.0,478.4,Debit Card,Female,Emirati
+LLU-DXB-000662,2023-06-15,Silicon Oasis,CUST-45118,Budget,Dairy,Full Cream Milk 1L,3,19.52,58.56,0.2,46.85,LuLu Gift Card,Female,Jordanian
+LLU-DXB-000732,2023-06-16,Silicon Oasis,CUST-20233,Premium,Personal Care,Head & Shoulders Shampoo,3,55.59,166.77,0.05,158.43,Debit Card,Female,Jordanian
+LLU-DXB-000425,2023-06-16,Dragon Mart,CUST-54359,Loyalty Member,Dairy,Greek Yoghurt 500g,3,17.29,51.87,0.05,49.28,Samsung Pay,Male,Pakistani
+LLU-DXB-000811,2023-06-17,Silicon Oasis,CUST-16259,Regular,Home & Kitchen,Prestige Pressure Cooker,5,434.36,2171.8,0.0,2171.8,LuLu Gift Card,Male,American
+LLU-DXB-001016,2023-06-18,Al Ghurair,CUST-87735,Premium,Home & Kitchen,Milton Steel Lunch Box,4,190.94,763.76,0.0,763.76,Cash,Male,Bangladeshi
+LLU-DXB-000860,2023-06-19,Mirdif City Centre,CUST-95359,Loyalty Member,Dairy,Cream Cheese 150g,3,12.31,36.93,0.05,35.08,Cash,Female,Jordanian
+LLU-DXB-000669,2023-06-19,Dubai Festival City,CUST-24000,Loyalty Member,Beverages,Mango Juice 1.5L,4,49.13,196.52,0.1,176.87,Credit Card,Male,Egyptian
+LLU-DXB-000435,2023-06-19,Al Ghurair,CUST-33957,Budget,Beverages,Nescafé Gold 200g,6,14.0,84.0,0.1,75.6,LuLu Gift Card,Male,Bangladeshi
+LLU-DXB-000978,2023-06-20,Deira City Centre,CUST-26591,Corporate,Beverages,Nescafé Gold 200g,3,5.65,16.95,0.0,16.95,Debit Card,Female,Bangladeshi
+LLU-DXB-000397,2023-06-20,Dubai Festival City,CUST-61248,Loyalty Member,Personal Care,Neutrogena Sunscreen SPF50,3,11.45,34.35,0.15,29.2,Samsung Pay,Female,Pakistani
+LLU-DXB-000813,2023-06-21,Deira City Centre,CUST-97046,Premium,Electronics,Canon DSLR Camera,1,227.9,227.9,0.0,227.9,Credit Card,Male,Emirati
+LLU-DXB-001153,2023-06-22,Dubai Festival City,CUST-40822,Premium,Personal Care,Dettol Soap 6-Pack,10,62.69,626.9,0.0,626.9,Debit Card,Female,British
+LLU-DXB-000851,2023-06-23,Al Ghurair,CUST-25163,Budget,Personal Care,Neutrogena Sunscreen SPF50,7,95.93,671.51,0.05,637.93,Debit Card,Male,Indian
+LLU-DXB-000995,2023-06-25,Deira City Centre,CUST-44578,Tourist,Home & Kitchen,Brita Water Filter,4,206.71,826.84,0.0,826.84,Debit Card,Male,British
+LLU-DXB-000118,2023-06-25,Dragon Mart,CUST-83526,Loyalty Member,Clothing,H&M Casual T-Shirt,3,181.21,543.63,0.15,462.09,Samsung Pay,Male,Jordanian
+LLU-DXB-000576,2023-06-25,Al Barsha,CUST-60387,Loyalty Member,Personal Care,Neutrogena Sunscreen SPF50,2,95.46,190.92,0.15,162.28,LuLu Gift Card,Female,Indian
+LLU-DXB-000068,2023-06-26,Ras Al Khor,CUST-33519,Budget,Sports & Fitness,Reebok Ankle Weights,2,882.95,1765.9,0.1,1589.31,Debit Card,Male,Sri Lankan
+LLU-DXB-000896,2023-06-28,Deira City Centre,CUST-27340,Budget,Clothing,Under Armour Sports Bra,5,105.18,525.9,0.05,499.6,Apple Pay,Male,Egyptian
+LLU-DXB-000483,2023-06-30,Al Ghurair,CUST-49361,Regular,Dairy,Cheddar Cheese Block,4,31.47,125.88,0.0,125.88,Cash,Female,Jordanian
+LLU-DXB-000251,2023-06-30,Dragon Mart,CUST-92543,Budget,Baby Products,Johnson's Baby Shampoo,4,102.71,410.84,0.2,328.67,Credit Card,Male,American
+LLU-DXB-000088,2023-07-01,Dragon Mart,CUST-15720,Tourist,Beverages,Volvic Water 12-Pack,7,17.37,121.59,0.0,121.59,Debit Card,Female,American
+LLU-DXB-000564,2023-07-01,Dragon Mart,CUST-99589,Regular,Personal Care,L'Oréal Conditioner,9,91.57,824.13,0.0,824.13,LuLu Gift Card,Female,Bangladeshi
+LLU-DXB-000211,2023-07-02,Mirdif City Centre,CUST-17398,Regular,Sports & Fitness,Adidas Yoga Mat,4,63.71,254.84,0.0,254.84,Credit Card,Female,Filipino
+LLU-DXB-000716,2023-07-02,Mirdif City Centre,CUST-82984,Premium,Sports & Fitness,Speedo Swimming Goggles,4,388.99,1555.96,0.05,1478.16,Cash,Male,British
+LLU-DXB-000824,2023-07-03,Deira City Centre,CUST-65868,Regular,Dairy,Greek Yoghurt 500g,4,20.56,82.24,0.0,82.24,LuLu Gift Card,Female,Egyptian
+LLU-DXB-000160,2023-07-03,Ras Al Khor,CUST-57467,Loyalty Member,Dairy,Condensed Milk 400ml,3,17.02,51.06,0.05,48.51,Apple Pay,Male,Jordanian
+LLU-DXB-000106,2023-07-03,Ras Al Khor,CUST-23022,Premium,Personal Care,Colgate Total Toothpaste,8,49.5,396.0,0.05,376.2,LuLu Gift Card,Female,Sri Lankan
+LLU-DXB-000465,2023-07-03,Dragon Mart,CUST-52534,Corporate,Beverages,Lipton Green Tea 100s,2,16.2,32.4,0.0,32.4,Cash,Male,Egyptian
+LLU-DXB-000027,2023-07-05,Al Ghurair,CUST-61876,Regular,Sports & Fitness,Reebok Ankle Weights,3,253.17,759.51,0.0,759.51,Credit Card,Female,Bangladeshi
+LLU-DXB-000944,2023-07-05,Mirdif City Centre,CUST-90004,Corporate,Beverages,Mango Juice 1.5L,7,28.13,196.91,0.0,196.91,Samsung Pay,Male,Pakistani
+LLU-DXB-000014,2023-07-05,Al Barsha,CUST-41571,Corporate,Clothing,H&M Casual T-Shirt,3,378.46,1135.38,0.0,1135.38,Samsung Pay,Male,Indian
+LLU-DXB-000881,2023-07-06,Deira City Centre,CUST-31641,Loyalty Member,Personal Care,Gillette Fusion Razor,2,79.08,158.16,0.15,134.44,Samsung Pay,Male,Indian
+LLU-DXB-001183,2023-07-07,Dubai Festival City,CUST-70477,Budget,Electronics,Dell Laptop i7,3,2606.68,7820.04,0.2,6256.03,Samsung Pay,Male,Jordanian
+LLU-DXB-000582,2023-07-08,Dubai Festival City,CUST-11882,Budget,Dairy,Cream Cheese 150g,10,18.08,180.8,0.0,180.8,Credit Card,Male,Egyptian
+LLU-DXB-000019,2023-07-08,Silicon Oasis,CUST-63354,Loyalty Member,Baby Products,Johnson's Baby Shampoo,5,248.83,1244.15,0.1,1119.73,Credit Card,Male,Indian
+LLU-DXB-000085,2023-07-09,Silicon Oasis,CUST-82255,Regular,Baby Products,Farlin Baby Bottle 260ml,4,142.86,571.44,0.0,571.44,Credit Card,Female,Filipino
+LLU-DXB-000489,2023-07-11,Mirdif City Centre,CUST-19390,Regular,Personal Care,Always Pads Overnight,9,76.99,692.91,0.0,692.91,Debit Card,Female,British
+LLU-DXB-000917,2023-07-12,Deira City Centre,CUST-45082,Premium,Personal Care,Dove Body Wash 500ml,1,9.52,9.52,0.0,9.52,Credit Card,Male,Emirati
+LLU-DXB-000209,2023-07-12,Silicon Oasis,CUST-55371,Regular,Home & Kitchen,Joseph Joseph Chopping Board,2,239.98,479.96,0.0,479.96,Credit Card,Female,Filipino
+LLU-DXB-000335,2023-07-13,Al Barsha,CUST-69827,Premium,Baby Products,MAM Pacifier 2-Pack,2,66.08,132.16,0.0,132.16,Cash,Female,Filipino
+LLU-DXB-000647,2023-07-14,Silicon Oasis,CUST-75178,Regular,Baby Products,Farlin Baby Bottle 260ml,1,135.48,135.48,0.0,135.48,Credit Card,Male,Emirati
+LLU-DXB-000808,2023-07-14,Deira City Centre,CUST-27888,Corporate,Beverages,Al Ain Water 6L,1,26.21,26.21,0.0,26.21,Debit Card,Female,Bangladeshi
+LLU-DXB-000791,2023-07-14,Al Ghurair,CUST-99592,Premium,Clothing,H&M Casual T-Shirt,2,110.13,220.26,0.05,209.25,Debit Card,Male,Jordanian
+LLU-DXB-000560,2023-07-15,Dubai Festival City,CUST-90713,Budget,Electronics,Huawei Tablet,1,828.49,828.49,0.1,745.64,Debit Card,Female,Egyptian
+LLU-DXB-000817,2023-07-15,Deira City Centre,CUST-88625,Loyalty Member,Home & Kitchen,Pyrex Glass Set 3pc,5,478.93,2394.65,0.05,2274.92,Debit Card,Female,Pakistani
+LLU-DXB-000356,2023-07-16,Silicon Oasis,CUST-30070,Regular,Electronics,Apple iPhone 15,3,2184.36,6553.08,0.0,6553.08,Credit Card,Male,Egyptian
+LLU-DXB-000702,2023-07-17,Deira City Centre,CUST-75987,Budget,Clothing,Levis Denim Jeans,3,266.6,799.8,0.1,719.82,Cash,Male,Bangladeshi
+LLU-DXB-000664,2023-07-19,Mirdif City Centre,CUST-63197,Regular,Grocery,Chickpeas 800g,3,15.78,47.34,0.0,47.34,Credit Card,Male,Pakistani
+LLU-DXB-001191,2023-07-19,Mirdif City Centre,CUST-13670,Regular,Dairy,Cheddar Cheese Block,7,12.35,86.45,0.0,86.45,Credit Card,Female,Pakistani
+LLU-DXB-000221,2023-07-19,Silicon Oasis,CUST-94108,Budget,Grocery,Chickpeas 800g,9,13.8,124.2,0.1,111.78,LuLu Gift Card,Female,Bangladeshi
+LLU-DXB-000746,2023-07-20,Dragon Mart,CUST-25855,Regular,Personal Care,Head & Shoulders Shampoo,6,54.24,325.44,0.0,325.44,Cash,Male,Filipino
+LLU-DXB-000415,2023-07-20,Dubai Festival City,CUST-77717,Corporate,Baby Products,Pampers Diapers L 52s,2,53.92,107.84,0.0,107.84,Apple Pay,Male,Egyptian
+LLU-DXB-000572,2023-07-20,Al Ghurair,CUST-33321,Loyalty Member,Clothing,Adidas Track Suit,3,187.69,563.07,0.05,534.92,Apple Pay,Male,Bangladeshi
+LLU-DXB-000432,2023-07-20,Al Ghurair,CUST-68034,Regular,Clothing,Under Armour Sports Bra,5,427.48,2137.4,0.0,2137.4,Apple Pay,Female,Filipino
+LLU-DXB-000445,2023-07-21,Ras Al Khor,CUST-57226,Budget,Grocery,Tomato Paste 400g,8,32.23,257.84,0.1,232.06,Samsung Pay,Female,British
+LLU-DXB-000423,2023-07-22,Dragon Mart,CUST-84012,Premium,Personal Care,Gillette Fusion Razor,10,55.72,557.2,0.05,529.34,Debit Card,Female,American
+LLU-DXB-000687,2023-07-22,Deira City Centre,CUST-51060,Premium,Home & Kitchen,Philips Rice Cooker,4,431.95,1727.8,0.0,1727.8,Cash,Male,Bangladeshi
+LLU-DXB-000346,2023-07-22,Al Ghurair,CUST-70786,Loyalty Member,Beverages,Volvic Water 12-Pack,6,21.2,127.2,0.1,114.48,Cash,Female,Emirati
+LLU-DXB-000406,2023-07-22,Silicon Oasis,CUST-95709,Loyalty Member,Sports & Fitness,Wilson Tennis Racket,1,211.17,211.17,0.15,179.49,Credit Card,Female,American
+LLU-DXB-000431,2023-07-22,Dubai Festival City,CUST-63363,Budget,Fresh Produce,Avocado 4-Pack,4,11.17,44.68,0.0,44.68,Samsung Pay,Male,Sri Lankan
+LLU-DXB-000220,2023-07-22,Dragon Mart,CUST-48691,Premium,Beverages,Al Ain Water 6L,3,52.39,157.17,0.0,157.17,Credit Card,Male,British
+LLU-DXB-000451,2023-07-23,Dubai Festival City,CUST-21050,Premium,Baby Products,Pampers Diapers L 52s,1,120.21,120.21,0.0,120.21,LuLu Gift Card,Female,Egyptian
+LLU-DXB-000262,2023-07-24,Ras Al Khor,CUST-21401,Regular,Clothing,Nike Running Shoes,4,449.71,1798.84,0.0,1798.84,Apple Pay,Male,Filipino
+LLU-DXB-001007,2023-07-24,Deira City Centre,CUST-32377,Budget,Dairy,Full Cream Milk 1L,1,16.69,16.69,0.05,15.86,LuLu Gift Card,Male,Jordanian
+LLU-DXB-001013,2023-07-26,Ras Al Khor,CUST-53410,Tourist,Baby Products,Dettol Baby Liquid Soap,2,247.16,494.32,0.0,494.32,Apple Pay,Female,Egyptian
+LLU-DXB-000320,2023-07-26,Al Ghurair,CUST-48980,Regular,Grocery,Macaroni 500g,9,28.6,257.4,0.0,257.4,Credit Card,Male,Emirati
+LLU-DXB-001092,2023-07-26,Silicon Oasis,CUST-29848,Regular,Dairy,Condensed Milk 400ml,4,33.18,132.72,0.0,132.72,Apple Pay,Male,Bangladeshi
+LLU-DXB-000476,2023-07-26,Al Barsha,CUST-19225,Loyalty Member,Baby Products,Mothercare Baby Blanket,1,225.48,225.48,0.15,191.66,Debit Card,Male,Filipino
+LLU-DXB-000226,2023-07-27,Dragon Mart,CUST-20357,Regular,Dairy,Fresh Butter 250g,6,19.85,119.1,0.0,119.1,Debit Card,Female,Bangladeshi
+LLU-DXB-000966,2023-07-27,Al Ghurair,CUST-50291,Premium,Personal Care,Neutrogena Sunscreen SPF50,4,49.96,199.84,0.05,189.85,Apple Pay,Male,Emirati
+LLU-DXB-000216,2023-07-28,Dragon Mart,CUST-98299,Premium,Home & Kitchen,Prestige Pressure Cooker,2,440.26,880.52,0.0,880.52,Samsung Pay,Male,Indian
+LLU-DXB-000362,2023-07-28,Deira City Centre,CUST-58840,Regular,Dairy,Low-Fat Milk 2L,10,17.01,170.1,0.0,170.1,Debit Card,Male,Indian
+LLU-DXB-000062,2023-07-28,Ras Al Khor,CUST-42177,Regular,Baby Products,Dettol Baby Liquid Soap,5,233.82,1169.1,0.0,1169.1,Cash,Female,Bangladeshi
+LLU-DXB-000698,2023-07-28,Dragon Mart,CUST-21825,Budget,Clothing,H&M Casual T-Shirt,4,233.09,932.36,0.2,745.89,Apple Pay,Female,Jordanian
+LLU-DXB-001099,2023-07-28,Silicon Oasis,CUST-38697,Regular,Personal Care,L'Oréal Conditioner,1,37.2,37.2,0.0,37.2,Debit Card,Male,Egyptian
+LLU-DXB-000748,2023-07-29,Deira City Centre,CUST-42285,Premium,Baby Products,Mothercare Baby Blanket,2,22.66,45.32,0.0,45.32,Samsung Pay,Male,Egyptian
+LLU-DXB-000937,2023-07-29,Deira City Centre,CUST-23683,Premium,Personal Care,Nivea Men Face Wash,7,49.61,347.27,0.0,347.27,Cash,Female,Jordanian
+LLU-DXB-000993,2023-07-29,Dubai Festival City,CUST-28056,Regular,Fresh Produce,Imported Strawberries 250g,4,31.89,127.56,0.0,127.56,Samsung Pay,Female,Indian
+LLU-DXB-000762,2023-08-01,Deira City Centre,CUST-99151,Corporate,Personal Care,Dove Body Wash 500ml,7,44.18,309.26,0.0,309.26,Samsung Pay,Female,Bangladeshi
+LLU-DXB-000865,2023-08-01,Deira City Centre,CUST-87709,Premium,Baby Products,Aptamil Formula Stage 2,5,166.84,834.2,0.05,792.49,Credit Card,Female,Bangladeshi
+LLU-DXB-001130,2023-08-01,Al Barsha,CUST-84996,Regular,Fresh Produce,Cherry Tomatoes 500g,3,44.82,134.46,0.0,134.46,Cash,Female,Jordanian
+LLU-DXB-001090,2023-08-03,Silicon Oasis,CUST-92657,Loyalty Member,Clothing,Nike Running Shoes,5,164.02,820.1,0.1,738.09,LuLu Gift Card,Male,British
+LLU-DXB-000403,2023-08-03,Ras Al Khor,CUST-27603,Premium,Personal Care,Nivea Men Face Wash,4,35.57,142.28,0.05,135.17,LuLu Gift Card,Female,Bangladeshi
+LLU-DXB-000498,2023-08-03,Al Barsha,CUST-92023,Regular,Beverages,Red Bull 4-Pack,9,58.78,529.02,0.0,529.02,Debit Card,Female,Emirati
+LLU-DXB-000265,2023-08-04,Dubai Festival City,CUST-27392,Tourist,Clothing,Kids' School Uniform,1,358.92,358.92,0.0,358.92,Credit Card,Male,British
+LLU-DXB-000763,2023-08-04,Dragon Mart,CUST-79784,Loyalty Member,Beverages,Coconut Water 330ml,4,53.49,213.96,0.05,203.26,Apple Pay,Female,Emirati
+LLU-DXB-000606,2023-08-04,Al Barsha,CUST-18305,Corporate,Beverages,Tropicana Orange Juice 1L,7,32.2,225.4,0.0,225.4,Debit Card,Female,Bangladeshi
+LLU-DXB-001035,2023-08-05,Al Ghurair,CUST-61633,Regular,Sports & Fitness,Fitbit Inspire 3,2,776.33,1552.66,0.0,1552.66,Cash,Female,American
+LLU-DXB-001056,2023-08-06,Deira City Centre,CUST-36680,Premium,Baby Products,Huggies Wipes 3-Pack,5,253.61,1268.05,0.05,1204.65,Credit Card,Male,Egyptian
+LLU-DXB-000332,2023-08-06,Silicon Oasis,CUST-99764,Regular,Beverages,Lipton Green Tea 100s,5,48.44,242.2,0.0,242.2,Cash,Male,Pakistani
+LLU-DXB-000303,2023-08-06,Dragon Mart,CUST-27987,Corporate,Home & Kitchen,Nespresso Pod 10-Pack,1,297.84,297.84,0.0,297.84,Apple Pay,Male,Sri Lankan
+LLU-DXB-000792,2023-08-07,Ras Al Khor,CUST-62928,Corporate,Dairy,Flavoured Yoghurt Duo,5,3.27,16.35,0.0,16.35,Apple Pay,Male,Bangladeshi
+LLU-DXB-000481,2023-08-09,Al Barsha,CUST-77844,Tourist,Home & Kitchen,Brita Water Filter,1,20.11,20.11,0.0,20.11,Credit Card,Female,Emirati
+LLU-DXB-000458,2023-08-10,Al Ghurair,CUST-64120,Premium,Grocery,Tomato Paste 400g,9,32.02,288.18,0.05,273.77,Credit Card,Male,Pakistani
+LLU-DXB-001084,2023-08-10,Ras Al Khor,CUST-60340,Budget,Grocery,Tomato Paste 400g,9,4.32,38.88,0.2,31.1,Debit Card,Male,Pakistani
+LLU-DXB-000337,2023-08-10,Al Barsha,CUST-60667,Budget,Home & Kitchen,Kitchen Towel Roll 6-Pack,3,219.66,658.98,0.0,658.98,Cash,Male,Jordanian
+LLU-DXB-001168,2023-08-10,Al Ghurair,CUST-10662,Loyalty Member,Fresh Produce,Broccoli Head,2,28.39,56.78,0.15,48.26,Apple Pay,Male,Emirati
+LLU-DXB-000963,2023-08-10,Dragon Mart,CUST-93113,Budget,Beverages,Pepsi 2.25L,7,13.11,91.77,0.2,73.42,Debit Card,Male,Indian
+LLU-DXB-000933,2023-08-11,Deira City Centre,CUST-30432,Regular,Personal Care,Gillette Fusion Razor,1,80.22,80.22,0.0,80.22,Cash,Male,Jordanian
+LLU-DXB-000428,2023-08-11,Mirdif City Centre,CUST-14405,Corporate,Electronics,Dell Laptop i7,3,5129.56,15388.68,0.0,15388.68,Samsung Pay,Male,Jordanian
+LLU-DXB-000381,2023-08-11,Al Ghurair,CUST-29192,Premium,Personal Care,Nivea Men Face Wash,5,14.34,71.7,0.0,71.7,Cash,Female,Filipino
+LLU-DXB-000681,2023-08-12,Silicon Oasis,CUST-60079,Tourist,Grocery,Macaroni 500g,5,41.04,205.2,0.0,205.2,Credit Card,Female,Filipino
+LLU-DXB-001178,2023-08-13,Al Barsha,CUST-79817,Regular,Fresh Produce,Cherry Tomatoes 500g,4,39.68,158.72,0.0,158.72,Debit Card,Female,Pakistani
+LLU-DXB-000778,2023-08-14,Silicon Oasis,CUST-35480,Premium,Beverages,Lipton Green Tea 100s,2,5.68,11.36,0.0,11.36,LuLu Gift Card,Female,Emirati
+LLU-DXB-000909,2023-08-15,Al Barsha,CUST-93835,Regular,Baby Products,Huggies Wipes 3-Pack,2,27.09,54.18,0.0,54.18,Credit Card,Female,Pakistani
+LLU-DXB-000294,2023-08-15,Al Ghurair,CUST-51288,Regular,Sports & Fitness,Adidas Yoga Mat,2,868.69,1737.38,0.0,1737.38,Apple Pay,Female,British
+LLU-DXB-000929,2023-08-17,Silicon Oasis,CUST-28892,Corporate,Clothing,Men's Linen Kandura,2,178.36,356.72,0.0,356.72,Samsung Pay,Female,Filipino
+LLU-DXB-000385,2023-08-17,Silicon Oasis,CUST-33255,Regular,Baby Products,MAM Pacifier 2-Pack,2,207.1,414.2,0.0,414.2,LuLu Gift Card,Male,Pakistani
+LLU-DXB-001002,2023-08-17,Mirdif City Centre,CUST-62781,Budget,Clothing,Men's Linen Kandura,4,336.1,1344.4,0.05,1277.18,Credit Card,Female,Sri Lankan
+LLU-DXB-000911,2023-08-18,Ras Al Khor,CUST-17505,Regular,Clothing,Under Armour Sports Bra,5,81.78,408.9,0.0,408.9,LuLu Gift Card,Male,British
+LLU-DXB-000709,2023-08-18,Dragon Mart,CUST-16674,Premium,Home & Kitchen,Brita Water Filter,2,280.72,561.44,0.0,561.44,Debit Card,Male,Indian
+LLU-DXB-000703,2023-08-20,Ras Al Khor,CUST-86966,Loyalty Member,Dairy,Cheddar Cheese Block,7,4.45,31.15,0.15,26.48,LuLu Gift Card,Female,Bangladeshi
+LLU-DXB-000052,2023-08-20,Dragon Mart,CUST-64921,Regular,Electronics,Xiaomi Smart Watch,2,181.54,363.08,0.0,363.08,Samsung Pay,Male,Bangladeshi
+LLU-DXB-000887,2023-08-20,Ras Al Khor,CUST-24046,Premium,Sports & Fitness,Speedo Swimming Goggles,4,30.15,120.6,0.05,114.57,Cash,Female,Pakistani
+LLU-DXB-000172,2023-08-20,Silicon Oasis,CUST-19564,Budget,Baby Products,Farlin Baby Bottle 260ml,2,95.05,190.1,0.2,152.08,LuLu Gift Card,Male,Pakistani
+LLU-DXB-000658,2023-08-21,Ras Al Khor,CUST-67146,Loyalty Member,Home & Kitchen,Joseph Joseph Chopping Board,2,407.08,814.16,0.15,692.04,Credit Card,Female,Indian
+LLU-DXB-000378,2023-08-21,Ras Al Khor,CUST-82559,Regular,Home & Kitchen,Philips Rice Cooker,5,369.46,1847.3,0.0,1847.3,LuLu Gift Card,Male,Filipino
+LLU-DXB-000700,2023-08-22,Dubai Festival City,CUST-26749,Premium,Baby Products,Graco Baby Monitor,1,139.08,139.08,0.05,132.13,LuLu Gift Card,Female,Filipino
+LLU-DXB-001058,2023-08-22,Deira City Centre,CUST-17827,Loyalty Member,Electronics,LG Refrigerator,3,1596.1,4788.3,0.1,4309.47,Debit Card,Female,Bangladeshi
+LLU-DXB-001027,2023-08-22,Al Ghurair,CUST-10845,Regular,Home & Kitchen,Philips Rice Cooker,2,411.89,823.78,0.0,823.78,Apple Pay,Male,Indian
+LLU-DXB-000212,2023-08-23,Dubai Festival City,CUST-96535,Budget,Sports & Fitness,Fitbit Inspire 3,3,700.97,2102.91,0.05,1997.76,Samsung Pay,Male,American
+LLU-DXB-000825,2023-08-24,Al Ghurair,CUST-85552,Regular,Dairy,Fresh Butter 250g,4,8.65,34.6,0.0,34.6,Apple Pay,Male,Egyptian
+LLU-DXB-000736,2023-08-24,Al Ghurair,CUST-73691,Budget,Fresh Produce,Organic Apples 1kg,3,7.95,23.85,0.1,21.46,Cash,Male,Pakistani
+LLU-DXB-000043,2023-08-25,Al Ghurair,CUST-37549,Budget,Personal Care,Nivea Men Face Wash,9,41.71,375.39,0.0,375.39,Apple Pay,Female,Bangladeshi
+LLU-DXB-000282,2023-08-29,Dubai Festival City,CUST-25655,Premium,Electronics,Dell Laptop i7,2,2474.49,4948.98,0.0,4948.98,Cash,Male,Emirati
+LLU-DXB-000058,2023-08-30,Deira City Centre,CUST-85849,Budget,Dairy,Condensed Milk 400ml,2,26.93,53.86,0.05,51.17,Cash,Female,Jordanian
+LLU-DXB-000500,2023-08-31,Ras Al Khor,CUST-68873,Regular,Sports & Fitness,Nike Water Bottle 750ml,4,526.29,2105.16,0.0,2105.16,Samsung Pay,Male,Filipino
+LLU-DXB-000173,2023-08-31,Ras Al Khor,CUST-55268,Budget,Home & Kitchen,Nespresso Pod 10-Pack,5,138.33,691.65,0.05,657.07,Apple Pay,Male,British
+LLU-DXB-001006,2023-09-02,Deira City Centre,CUST-31842,Loyalty Member,Sports & Fitness,Speedo Swimming Goggles,2,770.99,1541.98,0.05,1464.88,Credit Card,Female,Bangladeshi
+LLU-DXB-001075,2023-09-02,Deira City Centre,CUST-41594,Loyalty Member,Beverages,Volvic Water 12-Pack,4,58.74,234.96,0.1,211.46,Apple Pay,Female,British
+LLU-DXB-001085,2023-09-02,Deira City Centre,CUST-55527,Regular,Electronics,Dell Laptop i7,3,1638.67,4916.01,0.0,4916.01,Debit Card,Male,Indian
+LLU-DXB-000789,2023-09-04,Al Ghurair,CUST-60118,Regular,Home & Kitchen,Brita Water Filter,4,233.16,932.64,0.0,932.64,Cash,Male,Bangladeshi
+LLU-DXB-000167,2023-09-04,Deira City Centre,CUST-68979,Loyalty Member,Baby Products,Mothercare Baby Blanket,1,233.18,233.18,0.05,221.52,Apple Pay,Female,Pakistani
+LLU-DXB-001171,2023-09-06,Ras Al Khor,CUST-68246,Corporate,Personal Care,L'Oréal Conditioner,6,9.41,56.46,0.0,56.46,Credit Card,Female,Bangladeshi
+LLU-DXB-001083,2023-09-06,Silicon Oasis,CUST-33163,Budget,Electronics,Xiaomi Smart Watch,2,3755.4,7510.8,0.2,6008.64,Samsung Pay,Female,Indian
+LLU-DXB-000953,2023-09-06,Al Barsha,CUST-88784,Tourist,Baby Products,Johnson's Baby Shampoo,2,53.56,107.12,0.0,107.12,Apple Pay,Male,British
+LLU-DXB-000368,2023-09-07,Mirdif City Centre,CUST-53371,Corporate,Home & Kitchen,Brita Water Filter,4,63.42,253.68,0.0,253.68,Debit Card,Male,Sri Lankan
+LLU-DXB-001116,2023-09-08,Ras Al Khor,CUST-83899,Loyalty Member,Personal Care,Colgate Total Toothpaste,5,106.59,532.95,0.15,453.01,LuLu Gift Card,Male,Pakistani
+LLU-DXB-000695,2023-09-09,Al Barsha,CUST-19269,Regular,Sports & Fitness,Protein Whey Powder 1kg,3,67.6,202.8,0.0,202.8,Samsung Pay,Female,Indian
+LLU-DXB-000584,2023-09-09,Deira City Centre,CUST-99664,Regular,Grocery,Chickpeas 800g,7,42.12,294.84,0.0,294.84,Samsung Pay,Male,British
+LLU-DXB-000739,2023-09-10,Deira City Centre,CUST-91889,Loyalty Member,Baby Products,Dettol Baby Liquid Soap,2,191.81,383.62,0.15,326.08,LuLu Gift Card,Female,American
+LLU-DXB-001162,2023-09-10,Al Ghurair,CUST-93359,Regular,Fresh Produce,Egyptian Dates 500g,4,20.52,82.08,0.0,82.08,Cash,Male,British
+LLU-DXB-000546,2023-09-10,Deira City Centre,CUST-68355,Loyalty Member,Clothing,Quiksilver Swim Shorts,5,73.59,367.95,0.1,331.15,Credit Card,Female,American
+LLU-DXB-000486,2023-09-11,Mirdif City Centre,CUST-30079,Premium,Electronics,Canon DSLR Camera,2,2955.45,5910.9,0.0,5910.9,Cash,Female,Bangladeshi
+LLU-DXB-000267,2023-09-12,Al Barsha,CUST-22208,Loyalty Member,Baby Products,Farlin Baby Bottle 260ml,4,247.49,989.96,0.1,890.96,LuLu Gift Card,Female,British
+LLU-DXB-000783,2023-09-12,Mirdif City Centre,CUST-16980,Budget,Electronics,Xiaomi Smart Watch,2,4721.23,9442.46,0.05,8970.34,LuLu Gift Card,Female,Pakistani
+LLU-DXB-000203,2023-09-12,Silicon Oasis,CUST-25235,Regular,Baby Products,Graco Baby Monitor,2,157.21,314.42,0.0,314.42,LuLu Gift Card,Male,Jordanian
+LLU-DXB-000803,2023-09-13,Silicon Oasis,CUST-70319,Loyalty Member,Home & Kitchen,Pyrex Glass Set 3pc,2,370.81,741.62,0.15,630.38,Apple Pay,Male,Indian
+LLU-DXB-000402,2023-09-13,Al Ghurair,CUST-86568,Premium,Fresh Produce,Fresh Mushrooms 250g,4,11.13,44.52,0.05,42.29,Credit Card,Female,British
+LLU-DXB-000136,2023-09-14,Deira City Centre,CUST-83133,Premium,Beverages,Mango Juice 1.5L,6,39.33,235.98,0.0,235.98,LuLu Gift Card,Female,Egyptian
+LLU-DXB-000527,2023-09-14,Ras Al Khor,CUST-98142,Budget,Personal Care,Always Pads Overnight,3,11.26,33.78,0.05,32.09,Apple Pay,Female,Emirati
+LLU-DXB-000941,2023-09-15,Dragon Mart,CUST-76005,Tourist,Personal Care,Gillette Fusion Razor,2,86.7,173.4,0.0,173.4,Cash,Male,Emirati
+LLU-DXB-001119,2023-09-15,Deira City Centre,CUST-18009,Regular,Fresh Produce,Avocado 4-Pack,4,6.94,27.76,0.0,27.76,Samsung Pay,Female,Jordanian
+LLU-DXB-000727,2023-09-17,Dragon Mart,CUST-26515,Corporate,Personal Care,Oral-B Toothbrush,9,17.44,156.96,0.0,156.96,Samsung Pay,Female,Filipino
+LLU-DXB-000967,2023-09-18,Dubai Festival City,CUST-84997,Premium,Personal Care,Dove Body Wash 500ml,6,25.18,151.08,0.05,143.53,Apple Pay,Male,Sri Lankan
+LLU-DXB-000291,2023-09-18,Al Barsha,CUST-96154,Regular,Grocery,Sea Salt 500g,1,42.3,42.3,0.0,42.3,Apple Pay,Female,Indian
+LLU-DXB-000566,2023-09-18,Al Ghurair,CUST-45007,Tourist,Baby Products,Chicco Feeding Spoon Set,3,129.42,388.26,0.0,388.26,Cash,Female,Jordanian
+LLU-DXB-000885,2023-09-20,Mirdif City Centre,CUST-80663,Regular,Personal Care,L'Oréal Conditioner,2,49.81,99.62,0.0,99.62,Cash,Female,Egyptian
+LLU-DXB-000156,2023-09-21,Dubai Festival City,CUST-75038,Corporate,Beverages,Al Ain Water 6L,7,45.63,319.41,0.0,319.41,LuLu Gift Card,Female,British
+LLU-DXB-000309,2023-09-22,Dubai Festival City,CUST-52413,Regular,Home & Kitchen,Tefal Non-Stick Pan,2,376.2,752.4,0.0,752.4,Cash,Male,Pakistani
+LLU-DXB-000631,2023-09-22,Dubai Festival City,CUST-23424,Budget,Electronics,Sony PlayStation 5,2,2145.63,4291.26,0.2,3433.01,Credit Card,Male,Sri Lankan
+LLU-DXB-000773,2023-09-24,Al Ghurair,CUST-58343,Loyalty Member,Sports & Fitness,Reebok Ankle Weights,3,153.98,461.94,0.15,392.65,Cash,Male,Emirati
+LLU-DXB-000353,2023-09-24,Silicon Oasis,CUST-57087,Regular,Sports & Fitness,Reebok Ankle Weights,2,801.98,1603.96,0.0,1603.96,Credit Card,Male,American
+LLU-DXB-000713,2023-09-25,Silicon Oasis,CUST-40422,Regular,Personal Care,Dove Body Wash 500ml,8,89.34,714.72,0.0,714.72,Samsung Pay,Male,Jordanian
+LLU-DXB-000774,2023-09-25,Mirdif City Centre,CUST-36263,Loyalty Member,Grocery,Sea Salt 500g,1,28.85,28.85,0.1,25.96,LuLu Gift Card,Male,Indian
+LLU-DXB-001120,2023-09-25,Al Barsha,CUST-35249,Regular,Dairy,Greek Yoghurt 500g,4,20.89,83.56,0.0,83.56,Debit Card,Female,American
+LLU-DXB-001048,2023-09-26,Deira City Centre,CUST-64557,Premium,Grocery,Brown Sugar 1kg,10,47.5,475.0,0.0,475.0,Samsung Pay,Male,Sri Lankan
+LLU-DXB-000904,2023-09-27,Ras Al Khor,CUST-68783,Regular,Dairy,Fresh Butter 250g,9,25.77,231.93,0.0,231.93,LuLu Gift Card,Male,American
+LLU-DXB-001097,2023-09-27,Dragon Mart,CUST-26784,Regular,Personal Care,Head & Shoulders Shampoo,2,115.11,230.22,0.0,230.22,Apple Pay,Female,Jordanian
+LLU-DXB-000164,2023-09-27,Deira City Centre,CUST-82089,Loyalty Member,Home & Kitchen,Pyrex Glass Set 3pc,3,581.19,1743.57,0.15,1482.03,Samsung Pay,Female,Egyptian
+LLU-DXB-000314,2023-09-27,Ras Al Khor,CUST-32005,Regular,Clothing,Levis Denim Jeans,2,341.77,683.54,0.0,683.54,LuLu Gift Card,Male,British
+LLU-DXB-000037,2023-09-29,Al Ghurair,CUST-39831,Regular,Electronics,LG Refrigerator,2,4518.74,9037.48,0.0,9037.48,Credit Card,Male,Filipino
+LLU-DXB-000691,2023-09-29,Deira City Centre,CUST-36703,Budget,Home & Kitchen,Brita Water Filter,2,510.59,1021.18,0.0,1021.18,Debit Card,Male,Pakistani
+LLU-DXB-000038,2023-09-30,Dragon Mart,CUST-99065,Regular,Personal Care,Gillette Fusion Razor,5,15.78,78.9,0.0,78.9,Samsung Pay,Female,Emirati
+LLU-DXB-000315,2023-09-30,Al Ghurair,CUST-24160,Regular,Home & Kitchen,Tefal Non-Stick Pan,1,164.73,164.73,0.0,164.73,LuLu Gift Card,Male,Emirati
+LLU-DXB-000612,2023-10-02,Al Ghurair,CUST-69759,Budget,Fresh Produce,Avocado 4-Pack,1,43.77,43.77,0.05,41.58,Credit Card,Male,Sri Lankan
+LLU-DXB-000150,2023-10-02,Mirdif City Centre,CUST-84798,Loyalty Member,Sports & Fitness,Nike Water Bottle 750ml,1,279.86,279.86,0.15,237.88,Apple Pay,Male,Indian
+LLU-DXB-001022,2023-10-03,Dragon Mart,CUST-71151,Loyalty Member,Baby Products,Dettol Baby Liquid Soap,3,148.51,445.53,0.1,400.98,Apple Pay,Female,Bangladeshi
+LLU-DXB-000646,2023-10-04,Silicon Oasis,CUST-97382,Regular,Sports & Fitness,GNC Multivitamin 90 Tabs,4,715.81,2863.24,0.0,2863.24,Samsung Pay,Female,Bangladeshi
+LLU-DXB-000401,2023-10-05,Dubai Festival City,CUST-97988,Premium,Clothing,Adidas Track Suit,4,333.38,1333.52,0.05,1266.84,LuLu Gift Card,Male,Indian
+LLU-DXB-000756,2023-10-06,Dragon Mart,CUST-33224,Loyalty Member,Electronics,LG Refrigerator,2,2038.52,4077.04,0.15,3465.48,LuLu Gift Card,Male,Indian
+LLU-DXB-000358,2023-10-06,Dragon Mart,CUST-48712,Budget,Clothing,Women's Abaya (Black),3,283.83,851.49,0.05,808.92,Credit Card,Male,Sri Lankan
+LLU-DXB-000722,2023-10-08,Mirdif City Centre,CUST-29871,Regular,Fresh Produce,Broccoli Head,4,14.17,56.68,0.0,56.68,Samsung Pay,Female,Filipino
+LLU-DXB-000389,2023-10-08,Al Ghurair,CUST-38632,Corporate,Beverages,Volvic Water 12-Pack,6,41.15,246.9,0.0,246.9,Samsung Pay,Female,Sri Lankan
+LLU-DXB-000440,2023-10-08,Al Ghurair,CUST-34530,Loyalty Member,Electronics,"Samsung 65"" QLED TV",1,2179.94,2179.94,0.1,1961.95,Samsung Pay,Female,Filipino
+LLU-DXB-000901,2023-10-08,Ras Al Khor,CUST-87189,Budget,Clothing,Women's Abaya (Black),2,315.26,630.52,0.1,567.47,Samsung Pay,Female,Filipino
+LLU-DXB-001140,2023-10-10,Ras Al Khor,CUST-94125,Regular,Fresh Produce,Cherry Tomatoes 500g,5,23.58,117.9,0.0,117.9,Samsung Pay,Female,Pakistani
+LLU-DXB-000242,2023-10-11,Deira City Centre,CUST-83905,Regular,Grocery,Lentils 1kg,7,41.19,288.33,0.0,288.33,Credit Card,Male,Sri Lankan
+LLU-DXB-000889,2023-10-11,Dragon Mart,CUST-33878,Regular,Dairy,Labneh 400g,5,15.65,78.25,0.0,78.25,Samsung Pay,Female,Indian
+LLU-DXB-000604,2023-10-11,Ras Al Khor,CUST-32972,Premium,Beverages,Lipton Green Tea 100s,10,24.47,244.7,0.0,244.7,LuLu Gift Card,Male,Sri Lankan
+LLU-DXB-000178,2023-10-12,Al Barsha,CUST-62505,Corporate,Personal Care,Nivea Men Face Wash,7,89.48,626.36,0.0,626.36,Cash,Male,British
+LLU-DXB-000253,2023-10-12,Ras Al Khor,CUST-35830,Budget,Fresh Produce,Imported Strawberries 250g,5,36.58,182.9,0.05,173.75,Apple Pay,Male,Egyptian
+LLU-DXB-000852,2023-10-13,Dubai Festival City,CUST-51074,Loyalty Member,Clothing,H&M Casual T-Shirt,1,423.31,423.31,0.15,359.81,Apple Pay,Male,Egyptian
+LLU-DXB-001031,2023-10-13,Al Ghurair,CUST-61273,Budget,Baby Products,Aptamil Formula Stage 2,1,91.86,91.86,0.2,73.49,Apple Pay,Male,Bangladeshi
+LLU-DXB-000844,2023-10-14,Silicon Oasis,CUST-91048,Corporate,Sports & Fitness,Decathlon Resistance Bands,2,269.53,539.06,0.0,539.06,LuLu Gift Card,Female,Sri Lankan
+LLU-DXB-000323,2023-10-14,Dubai Festival City,CUST-68428,Budget,Fresh Produce,Imported Strawberries 250g,3,19.28,57.84,0.2,46.27,Cash,Female,Bangladeshi
+LLU-DXB-000060,2023-10-15,Deira City Centre,CUST-76317,Loyalty Member,Clothing,Quiksilver Swim Shorts,4,172.56,690.24,0.15,586.7,LuLu Gift Card,Female,Emirati
+LLU-DXB-000461,2023-10-16,Silicon Oasis,CUST-14159,Regular,Electronics,LG Refrigerator,2,2398.3,4796.6,0.0,4796.6,Debit Card,Male,Pakistani
+LLU-DXB-000984,2023-10-16,Dubai Festival City,CUST-51215,Regular,Dairy,Low-Fat Milk 2L,6,9.89,59.34,0.0,59.34,Cash,Male,British
+LLU-DXB-000531,2023-10-16,Silicon Oasis,CUST-49666,Regular,Beverages,Lipton Green Tea 100s,4,8.86,35.44,0.0,35.44,Credit Card,Female,Pakistani
+LLU-DXB-000310,2023-10-18,Dragon Mart,CUST-86810,Loyalty Member,Sports & Fitness,Protein Whey Powder 1kg,3,765.67,2297.01,0.05,2182.16,Cash,Female,Egyptian
+LLU-DXB-000948,2023-10-18,Deira City Centre,CUST-99417,Regular,Dairy,Cream Cheese 150g,6,30.03,180.18,0.0,180.18,Apple Pay,Female,Egyptian
+LLU-DXB-000693,2023-10-18,Deira City Centre,CUST-52406,Premium,Clothing,H&M Casual T-Shirt,1,314.56,314.56,0.05,298.83,Credit Card,Male,Indian
+LLU-DXB-001128,2023-10-18,Dubai Festival City,CUST-11398,Budget,Grocery,Mixed Spices Pack,4,49.9,199.6,0.2,159.68,Credit Card,Female,British
+LLU-DXB-000266,2023-10-19,Silicon Oasis,CUST-19898,Budget,Grocery,Chickpeas 800g,5,29.72,148.6,0.2,118.88,LuLu Gift Card,Male,American
+LLU-DXB-000146,2023-10-19,Mirdif City Centre,CUST-13694,Regular,Personal Care,Dettol Soap 6-Pack,2,51.25,102.5,0.0,102.5,Debit Card,Male,British
+LLU-DXB-000411,2023-10-20,Mirdif City Centre,CUST-77681,Budget,Personal Care,Gillette Fusion Razor,2,108.6,217.2,0.1,195.48,Apple Pay,Female,British
+LLU-DXB-000767,2023-10-21,Ras Al Khor,CUST-18523,Regular,Home & Kitchen,Kitchen Towel Roll 6-Pack,1,585.22,585.22,0.0,585.22,Credit Card,Male,Bangladeshi
+LLU-DXB-000312,2023-10-21,Al Ghurair,CUST-48602,Regular,Sports & Fitness,Fitbit Inspire 3,2,540.33,1080.66,0.0,1080.66,Credit Card,Male,Emirati
+LLU-DXB-000189,2023-10-22,Dragon Mart,CUST-55237,Regular,Baby Products,Farlin Baby Bottle 260ml,5,166.97,834.85,0.0,834.85,Credit Card,Female,Emirati
+LLU-DXB-001059,2023-10-22,Dubai Festival City,CUST-96497,Regular,Electronics,Canon DSLR Camera,1,387.62,387.62,0.0,387.62,Apple Pay,Male,Egyptian
+LLU-DXB-000113,2023-10-23,Al Ghurair,CUST-69469,Budget,Clothing,H&M Casual T-Shirt,3,52.91,158.73,0.1,142.86,Samsung Pay,Female,Indian
+LLU-DXB-000751,2023-10-23,Ras Al Khor,CUST-92864,Regular,Electronics,LG Refrigerator,3,1492.26,4476.78,0.0,4476.78,Credit Card,Female,Emirati
+LLU-DXB-000565,2023-10-24,Ras Al Khor,CUST-79501,Budget,Fresh Produce,Egyptian Dates 500g,3,21.26,63.78,0.2,51.02,LuLu Gift Card,Male,Indian
+LLU-DXB-000648,2023-10-25,Ras Al Khor,CUST-30019,Loyalty Member,Clothing,Men's Linen Kandura,1,236.71,236.71,0.05,224.87,Debit Card,Male,Indian
+LLU-DXB-001157,2023-10-26,Silicon Oasis,CUST-11518,Regular,Personal Care,Dove Body Wash 500ml,9,22.42,201.78,0.0,201.78,Apple Pay,Female,American
+LLU-DXB-000554,2023-10-26,Ras Al Khor,CUST-39588,Budget,Sports & Fitness,Wilson Tennis Racket,4,422.6,1690.4,0.2,1352.32,Credit Card,Female,Jordanian
+LLU-DXB-000231,2023-10-26,Dubai Festival City,CUST-20279,Budget,Sports & Fitness,Nike Water Bottle 750ml,5,768.26,3841.3,0.1,3457.17,Samsung Pay,Female,Emirati
+LLU-DXB-000096,2023-10-26,Silicon Oasis,CUST-23979,Loyalty Member,Fresh Produce,Mango 1kg,3,22.19,66.57,0.05,63.24,Credit Card,Female,Jordanian
+LLU-DXB-000747,2023-10-27,Deira City Centre,CUST-45296,Regular,Sports & Fitness,GNC Multivitamin 90 Tabs,5,470.04,2350.2,0.0,2350.2,Cash,Female,Bangladeshi
+LLU-DXB-000998,2023-10-27,Silicon Oasis,CUST-91327,Corporate,Baby Products,Huggies Wipes 3-Pack,3,72.98,218.94,0.0,218.94,Samsung Pay,Male,American
+LLU-DXB-000595,2023-10-28,Ras Al Khor,CUST-27878,Regular,Personal Care,Nivea Men Face Wash,3,76.26,228.78,0.0,228.78,Apple Pay,Male,British
+LLU-DXB-000215,2023-10-29,Mirdif City Centre,CUST-43422,Budget,Home & Kitchen,Tefal Non-Stick Pan,5,581.32,2906.6,0.05,2761.27,Credit Card,Female,Indian
+LLU-DXB-000957,2023-10-30,Al Barsha,CUST-83519,Tourist,Baby Products,Johnson's Baby Shampoo,5,130.75,653.75,0.0,653.75,Samsung Pay,Male,Indian
+LLU-DXB-000023,2023-10-31,Al Ghurair,CUST-69638,Corporate,Grocery,Chickpeas 800g,1,9.9,9.9,0.0,9.9,Debit Card,Female,Sri Lankan
+LLU-DXB-000281,2023-10-31,Deira City Centre,CUST-50654,Premium,Clothing,Adidas Track Suit,2,416.39,832.78,0.05,791.14,LuLu Gift Card,Female,Filipino
+LLU-DXB-000151,2023-10-31,Silicon Oasis,CUST-15706,Premium,Baby Products,Chicco Feeding Spoon Set,5,154.41,772.05,0.0,772.05,LuLu Gift Card,Female,British
+LLU-DXB-001034,2023-10-31,Deira City Centre,CUST-32871,Regular,Baby Products,Graco Baby Monitor,5,254.18,1270.9,0.0,1270.9,LuLu Gift Card,Male,British
+LLU-DXB-000797,2023-10-31,Deira City Centre,CUST-80056,Budget,Sports & Fitness,GNC Multivitamin 90 Tabs,4,367.03,1468.12,0.05,1394.71,Apple Pay,Male,Bangladeshi
+LLU-DXB-000804,2023-10-31,Dubai Festival City,CUST-64401,Regular,Fresh Produce,Cherry Tomatoes 500g,3,38.39,115.17,0.0,115.17,Credit Card,Male,Jordanian
+LLU-DXB-001004,2023-11-01,Dragon Mart,CUST-23278,Premium,Fresh Produce,Avocado 4-Pack,2,7.24,14.48,0.05,13.76,Credit Card,Female,Bangladeshi
+LLU-DXB-000886,2023-11-02,Mirdif City Centre,CUST-49953,Regular,Home & Kitchen,Milton Steel Lunch Box,5,21.3,106.5,0.0,106.5,LuLu Gift Card,Male,Bangladeshi
+LLU-DXB-000980,2023-11-02,Deira City Centre,CUST-86499,Regular,Fresh Produce,Egyptian Dates 500g,3,38.53,115.59,0.0,115.59,Samsung Pay,Female,Pakistani
+LLU-DXB-000439,2023-11-02,Dubai Festival City,CUST-69925,Tourist,Personal Care,L'Oréal Conditioner,6,11.65,69.9,0.0,69.9,Cash,Female,British
+LLU-DXB-000644,2023-11-03,Dragon Mart,CUST-87405,Budget,Personal Care,L'Oréal Conditioner,2,83.77,167.54,0.05,159.16,Cash,Male,Indian
+LLU-DXB-000457,2023-11-03,Mirdif City Centre,CUST-31400,Regular,Baby Products,Chicco Feeding Spoon Set,4,248.77,995.08,0.0,995.08,LuLu Gift Card,Female,American
+LLU-DXB-000340,2023-11-05,Deira City Centre,CUST-10963,Regular,Fresh Produce,Avocado 4-Pack,5,31.44,157.2,0.0,157.2,Samsung Pay,Female,Sri Lankan
+LLU-DXB-001109,2023-11-05,Mirdif City Centre,CUST-68600,Loyalty Member,Beverages,Coconut Water 330ml,10,29.33,293.3,0.05,278.63,Debit Card,Female,Jordanian
+LLU-DXB-000218,2023-11-05,Mirdif City Centre,CUST-82362,Corporate,Clothing,Levis Denim Jeans,2,320.64,641.28,0.0,641.28,Debit Card,Female,American
+LLU-DXB-000438,2023-11-06,Mirdif City Centre,CUST-85584,Budget,Sports & Fitness,Under Armour Gym Gloves,5,886.35,4431.75,0.1,3988.57,Credit Card,Male,Sri Lankan
+LLU-DXB-000983,2023-11-06,Al Barsha,CUST-25027,Budget,Personal Care,Colgate Total Toothpaste,9,106.25,956.25,0.1,860.63,Credit Card,Female,American
+LLU-DXB-000872,2023-11-07,Silicon Oasis,CUST-20912,Premium,Sports & Fitness,Wilson Tennis Racket,4,248.1,992.4,0.0,992.4,Debit Card,Female,Pakistani
+LLU-DXB-001019,2023-11-07,Deira City Centre,CUST-44243,Budget,Grocery,Basmati Rice 5kg,7,19.02,133.14,0.2,106.51,Debit Card,Female,Pakistani
+LLU-DXB-000046,2023-11-07,Mirdif City Centre,CUST-29342,Regular,Personal Care,Always Pads Overnight,8,85.99,687.92,0.0,687.92,LuLu Gift Card,Male,Indian
+LLU-DXB-000544,2023-11-08,Dragon Mart,CUST-41270,Budget,Beverages,Coconut Water 330ml,9,48.38,435.42,0.2,348.34,Samsung Pay,Male,Sri Lankan
+LLU-DXB-000577,2023-11-08,Al Barsha,CUST-92873,Tourist,Sports & Fitness,Reebok Ankle Weights,3,339.05,1017.15,0.0,1017.15,LuLu Gift Card,Male,British
+LLU-DXB-001147,2023-11-08,Al Barsha,CUST-31499,Regular,Clothing,Zara Formal Dress,5,139.48,697.4,0.0,697.4,Samsung Pay,Male,Egyptian
+LLU-DXB-000679,2023-11-08,Dragon Mart,CUST-88694,Regular,Home & Kitchen,IKEA Storage Boxes,1,514.06,514.06,0.0,514.06,Debit Card,Male,Indian
+LLU-DXB-000288,2023-11-08,Deira City Centre,CUST-70960,Regular,Electronics,Sony PlayStation 5,1,2909.39,2909.39,0.0,2909.39,Debit Card,Female,British
+LLU-DXB-000659,2023-11-09,Mirdif City Centre,CUST-91863,Regular,Baby Products,Aptamil Formula Stage 2,5,27.6,138.0,0.0,138.0,LuLu Gift Card,Male,Jordanian
+LLU-DXB-000370,2023-11-10,Dragon Mart,CUST-14696,Premium,Home & Kitchen,Prestige Pressure Cooker,1,308.48,308.48,0.0,308.48,Samsung Pay,Male,Indian
+LLU-DXB-000298,2023-11-11,Silicon Oasis,CUST-82869,Premium,Personal Care,Dettol Soap 6-Pack,3,41.47,124.41,0.0,124.41,LuLu Gift Card,Male,Indian
+LLU-DXB-000866,2023-11-11,Al Barsha,CUST-61615,Budget,Personal Care,Colgate Total Toothpaste,2,19.14,38.28,0.05,36.37,Samsung Pay,Female,Indian
+LLU-DXB-001029,2023-11-11,Silicon Oasis,CUST-34123,Regular,Baby Products,Dettol Baby Liquid Soap,3,260.4,781.2,0.0,781.2,Credit Card,Female,Jordanian
+LLU-DXB-000343,2023-11-11,Dragon Mart,CUST-14629,Tourist,Electronics,LG Refrigerator,2,1537.93,3075.86,0.0,3075.86,Samsung Pay,Male,British
+LLU-DXB-001192,2023-11-12,Silicon Oasis,CUST-91062,Regular,Sports & Fitness,Adidas Yoga Mat,5,656.0,3280.0,0.0,3280.0,Credit Card,Female,Pakistani
+LLU-DXB-000551,2023-11-12,Dragon Mart,CUST-67041,Regular,Personal Care,Always Pads Overnight,7,43.63,305.41,0.0,305.41,Samsung Pay,Male,Pakistani
+LLU-DXB-000830,2023-11-14,Al Barsha,CUST-26315,Budget,Beverages,Al Ain Water 6L,10,39.9,399.0,0.0,399.0,Apple Pay,Male,Filipino
+LLU-DXB-001011,2023-11-15,Mirdif City Centre,CUST-96424,Premium,Sports & Fitness,Speedo Swimming Goggles,1,625.06,625.06,0.0,625.06,Credit Card,Female,Bangladeshi
+LLU-DXB-000555,2023-11-16,Ras Al Khor,CUST-14385,Budget,Electronics,Xiaomi Smart Watch,3,4060.39,12181.17,0.1,10963.05,Cash,Female,British
+LLU-DXB-000806,2023-11-16,Deira City Centre,CUST-58330,Budget,Baby Products,Farlin Baby Bottle 260ml,2,32.69,65.38,0.2,52.3,Cash,Male,Sri Lankan
+LLU-DXB-001187,2023-11-17,Ras Al Khor,CUST-28605,Loyalty Member,Fresh Produce,Fresh Mushrooms 250g,2,7.69,15.38,0.1,13.84,Credit Card,Female,Filipino
+LLU-DXB-000661,2023-11-18,Dragon Mart,CUST-42933,Regular,Baby Products,Farlin Baby Bottle 260ml,2,158.09,316.18,0.0,316.18,Samsung Pay,Female,Sri Lankan
+LLU-DXB-000114,2023-11-18,Ras Al Khor,CUST-69441,Loyalty Member,Clothing,Under Armour Sports Bra,4,116.38,465.52,0.05,442.24,Apple Pay,Female,Indian
+LLU-DXB-000051,2023-11-19,Al Barsha,CUST-37110,Premium,Dairy,Fresh Butter 250g,9,16.04,144.36,0.05,137.14,Apple Pay,Female,Jordanian
+LLU-DXB-000383,2023-11-20,Ras Al Khor,CUST-82368,Loyalty Member,Baby Products,Farlin Baby Bottle 260ml,4,27.45,109.8,0.1,98.82,Cash,Male,Egyptian
+LLU-DXB-000364,2023-11-20,Silicon Oasis,CUST-84572,Tourist,Dairy,Full Cream Milk 1L,2,30.02,60.04,0.0,60.04,LuLu Gift Card,Female,Pakistani
+LLU-DXB-001118,2023-11-20,Dubai Festival City,CUST-29706,Budget,Dairy,Cheddar Cheese Block,1,29.54,29.54,0.1,26.59,Apple Pay,Male,Emirati
+LLU-DXB-000682,2023-11-21,Dubai Festival City,CUST-63546,Tourist,Sports & Fitness,Nike Water Bottle 750ml,2,272.6,545.2,0.0,545.2,Credit Card,Male,Egyptian
+LLU-DXB-000256,2023-11-21,Dubai Festival City,CUST-85340,Premium,Grocery,Tomato Paste 400g,3,19.92,59.76,0.05,56.77,Apple Pay,Female,Pakistani
+LLU-DXB-000593,2023-11-22,Mirdif City Centre,CUST-98716,Premium,Home & Kitchen,Joseph Joseph Chopping Board,4,539.15,2156.6,0.05,2048.77,Debit Card,Male,Indian
+LLU-DXB-000357,2023-11-22,Deira City Centre,CUST-77054,Budget,Personal Care,Head & Shoulders Shampoo,10,38.24,382.4,0.05,363.28,LuLu Gift Card,Male,Egyptian
+LLU-DXB-000589,2023-11-22,Al Barsha,CUST-83100,Budget,Dairy,Cream Cheese 150g,5,5.82,29.1,0.1,26.19,Credit Card,Male,Indian
+LLU-DXB-001144,2023-11-24,Silicon Oasis,CUST-53871,Loyalty Member,Electronics,JBL Bluetooth Speaker,1,3517.68,3517.68,0.05,3341.8,Debit Card,Male,Pakistani
+LLU-DXB-000708,2023-11-24,Al Barsha,CUST-25264,Premium,Baby Products,Aptamil Formula Stage 2,2,218.98,437.96,0.05,416.06,Credit Card,Male,Bangladeshi
+LLU-DXB-000558,2023-11-24,Ras Al Khor,CUST-48616,Corporate,Home & Kitchen,Joseph Joseph Chopping Board,3,352.9,1058.7,0.0,1058.7,Debit Card,Male,Emirati
+LLU-DXB-000987,2023-11-24,Deira City Centre,CUST-26265,Premium,Grocery,Macaroni 500g,1,25.71,25.71,0.05,24.42,Apple Pay,Male,Jordanian
+LLU-DXB-000869,2023-11-25,Al Barsha,CUST-42550,Budget,Clothing,Women's Abaya (Black),5,179.51,897.55,0.05,852.67,Debit Card,Male,Sri Lankan
+LLU-DXB-000280,2023-11-26,Dragon Mart,CUST-20803,Budget,Electronics,Canon DSLR Camera,3,3512.85,10538.55,0.2,8430.84,LuLu Gift Card,Male,Egyptian
+LLU-DXB-000882,2023-11-26,Dubai Festival City,CUST-72869,Corporate,Fresh Produce,Broccoli Head,1,36.95,36.95,0.0,36.95,Apple Pay,Male,American
+LLU-DXB-000075,2023-11-27,Deira City Centre,CUST-81376,Premium,Fresh Produce,Cherry Tomatoes 500g,3,12.8,38.4,0.0,38.4,Credit Card,Male,Egyptian
+LLU-DXB-000361,2023-11-27,Deira City Centre,CUST-22451,Corporate,Dairy,Full Cream Milk 1L,6,14.53,87.18,0.0,87.18,Cash,Male,Pakistani
+LLU-DXB-000066,2023-11-27,Ras Al Khor,CUST-56112,Budget,Grocery,Tomato Paste 400g,9,19.71,177.39,0.1,159.65,LuLu Gift Card,Female,Egyptian
+LLU-DXB-001161,2023-11-27,Ras Al Khor,CUST-98473,Premium,Home & Kitchen,Prestige Pressure Cooker,3,367.61,1102.83,0.05,1047.69,Debit Card,Male,Sri Lankan
+LLU-DXB-001088,2023-11-28,Silicon Oasis,CUST-78274,Regular,Home & Kitchen,Tefal Non-Stick Pan,5,183.47,917.35,0.0,917.35,Credit Card,Female,Egyptian
+LLU-DXB-000846,2023-11-29,Silicon Oasis,CUST-96289,Budget,Grocery,Mixed Spices Pack,2,37.48,74.96,0.1,67.46,LuLu Gift Card,Male,American
+LLU-DXB-000263,2023-11-29,Dubai Festival City,CUST-90760,Loyalty Member,Grocery,Mixed Spices Pack,10,43.33,433.3,0.15,368.3,Credit Card,Male,Filipino
+LLU-DXB-000252,2023-11-30,Dragon Mart,CUST-10583,Loyalty Member,Personal Care,Dove Body Wash 500ml,8,106.91,855.28,0.15,726.99,LuLu Gift Card,Male,Filipino
+LLU-DXB-000126,2023-11-30,Dragon Mart,CUST-93904,Corporate,Electronics,LG Refrigerator,3,4762.29,14286.87,0.0,14286.87,Apple Pay,Female,Indian
+LLU-DXB-000420,2023-11-30,Mirdif City Centre,CUST-73192,Regular,Baby Products,Mothercare Baby Blanket,5,26.51,132.55,0.0,132.55,Apple Pay,Female,Jordanian
+LLU-DXB-000041,2023-12-01,Deira City Centre,CUST-97062,Loyalty Member,Baby Products,Graco Baby Monitor,2,264.17,528.34,0.1,475.51,Debit Card,Female,Indian
+LLU-DXB-000545,2023-12-01,Dragon Mart,CUST-84345,Regular,Dairy,Cream Cheese 150g,10,13.9,139.0,0.0,139.0,Debit Card,Male,Pakistani
+LLU-DXB-001001,2023-12-01,Ras Al Khor,CUST-16967,Regular,Clothing,H&M Casual T-Shirt,5,89.01,445.05,0.0,445.05,Apple Pay,Female,British
+LLU-DXB-000862,2023-12-03,Dubai Festival City,CUST-92178,Tourist,Electronics,Apple iPhone 15,3,3628.02,10884.06,0.0,10884.06,LuLu Gift Card,Female,Filipino
+LLU-DXB-001014,2023-12-03,Silicon Oasis,CUST-84273,Premium,Fresh Produce,Avocado 4-Pack,3,24.84,74.52,0.0,74.52,Debit Card,Female,Indian
+LLU-DXB-000680,2023-12-04,Silicon Oasis,CUST-98291,Tourist,Beverages,Pepsi 2.25L,9,10.57,95.13,0.0,95.13,Apple Pay,Male,Filipino
+LLU-DXB-000488,2023-12-04,Dubai Festival City,CUST-27677,Regular,Electronics,Dyson Vacuum Cleaner,3,605.17,1815.51,0.0,1815.51,Apple Pay,Male,Bangladeshi
+LLU-DXB-000426,2023-12-05,Deira City Centre,CUST-18399,Loyalty Member,Personal Care,Dove Body Wash 500ml,8,100.2,801.6,0.15,681.36,Debit Card,Male,British
+LLU-DXB-000061,2023-12-05,Dubai Festival City,CUST-78386,Premium,Personal Care,L'Oréal Conditioner,8,115.61,924.88,0.0,924.88,LuLu Gift Card,Female,Jordanian
+LLU-DXB-001145,2023-12-07,Silicon Oasis,CUST-87801,Regular,Beverages,Red Bull 4-Pack,1,34.62,34.62,0.0,34.62,Samsung Pay,Female,American
+LLU-DXB-000131,2023-12-08,Deira City Centre,CUST-71462,Corporate,Sports & Fitness,Fitbit Inspire 3,2,573.82,1147.64,0.0,1147.64,Apple Pay,Female,Egyptian
+LLU-DXB-000412,2023-12-08,Dubai Festival City,CUST-40145,Corporate,Home & Kitchen,Brita Water Filter,2,23.83,47.66,0.0,47.66,Cash,Female,Filipino
+LLU-DXB-000721,2023-12-08,Dragon Mart,CUST-10863,Regular,Dairy,Low-Fat Milk 2L,4,7.41,29.64,0.0,29.64,Credit Card,Female,British
+LLU-DXB-000274,2023-12-08,Ras Al Khor,CUST-37925,Premium,Dairy,Cheddar Cheese Block,10,21.03,210.3,0.0,210.3,LuLu Gift Card,Male,American
+LLU-DXB-000076,2023-12-08,Deira City Centre,CUST-71433,Premium,Dairy,Greek Yoghurt 500g,10,28.36,283.6,0.05,269.42,LuLu Gift Card,Female,American
+LLU-DXB-000240,2023-12-08,Ras Al Khor,CUST-66441,Regular,Electronics,Canon DSLR Camera,2,3468.03,6936.06,0.0,6936.06,LuLu Gift Card,Male,Egyptian
+LLU-DXB-000491,2023-12-09,Al Barsha,CUST-40603,Budget,Dairy,Low-Fat Milk 2L,8,34.69,277.52,0.05,263.64,Credit Card,Female,Pakistani
+LLU-DXB-001074,2023-12-09,Ras Al Khor,CUST-45282,Loyalty Member,Clothing,Under Armour Sports Bra,5,283.02,1415.1,0.15,1202.84,Credit Card,Female,Filipino
+LLU-DXB-000650,2023-12-10,Silicon Oasis,CUST-14716,Regular,Personal Care,Head & Shoulders Shampoo,7,43.23,302.61,0.0,302.61,Cash,Male,Sri Lankan
+LLU-DXB-000092,2023-12-11,Dubai Festival City,CUST-49251,Regular,Grocery,Sunflower Oil 3L,2,6.73,13.46,0.0,13.46,Cash,Male,British
+LLU-DXB-001069,2023-12-11,Deira City Centre,CUST-76982,Regular,Electronics,Xiaomi Smart Watch,3,734.02,2202.06,0.0,2202.06,Cash,Male,Filipino
+LLU-DXB-000302,2023-12-13,Dubai Festival City,CUST-14541,Regular,Dairy,Low-Fat Milk 2L,5,8.99,44.95,0.0,44.95,Samsung Pay,Male,Egyptian
+LLU-DXB-000087,2023-12-13,Silicon Oasis,CUST-55236,Loyalty Member,Fresh Produce,Baby Spinach 200g,4,27.36,109.44,0.05,103.97,Debit Card,Female,Bangladeshi
+LLU-DXB-000202,2023-12-13,Ras Al Khor,CUST-20237,Loyalty Member,Grocery,Macaroni 500g,2,30.6,61.2,0.15,52.02,Samsung Pay,Male,Emirati
+LLU-DXB-000065,2023-12-15,Al Barsha,CUST-22196,Budget,Personal Care,L'Oréal Conditioner,8,34.92,279.36,0.2,223.49,Debit Card,Male,American
+LLU-DXB-000174,2023-12-16,Mirdif City Centre,CUST-28465,Premium,Baby Products,Graco Baby Monitor,1,79.06,79.06,0.05,75.11,Cash,Male,Egyptian
+LLU-DXB-000133,2023-12-16,Mirdif City Centre,CUST-52143,Budget,Clothing,Quiksilver Swim Shorts,5,188.41,942.05,0.0,942.05,Samsung Pay,Female,Sri Lankan
+LLU-DXB-000982,2023-12-16,Dubai Festival City,CUST-14424,Regular,Personal Care,Neutrogena Sunscreen SPF50,2,47.53,95.06,0.0,95.06,Samsung Pay,Female,Jordanian
+LLU-DXB-001173,2023-12-17,Silicon Oasis,CUST-13875,Regular,Grocery,Sea Salt 500g,6,16.01,96.06,0.0,96.06,Credit Card,Male,Jordanian
+LLU-DXB-000607,2023-12-18,Ras Al Khor,CUST-98251,Budget,Home & Kitchen,Joseph Joseph Chopping Board,5,91.17,455.85,0.1,410.26,LuLu Gift Card,Male,Filipino
+LLU-DXB-000600,2023-12-18,Silicon Oasis,CUST-41524,Regular,Baby Products,Pampers Diapers L 52s,1,119.49,119.49,0.0,119.49,Cash,Male,American
+LLU-DXB-000132,2023-12-18,Al Barsha,CUST-17456,Regular,Sports & Fitness,Adidas Yoga Mat,4,89.92,359.68,0.0,359.68,Debit Card,Female,Indian
+LLU-DXB-000111,2023-12-18,Mirdif City Centre,CUST-90623,Budget,Clothing,Women's Abaya (Black),5,355.66,1778.3,0.0,1778.3,Cash,Female,Bangladeshi
+LLU-DXB-000296,2023-12-18,Al Ghurair,CUST-70731,Regular,Home & Kitchen,Prestige Pressure Cooker,2,330.84,661.68,0.0,661.68,Debit Card,Male,Indian
+LLU-DXB-000349,2023-12-18,Al Ghurair,CUST-37444,Budget,Home & Kitchen,Prestige Pressure Cooker,1,122.56,122.56,0.0,122.56,Credit Card,Male,Bangladeshi
+LLU-DXB-000675,2023-12-19,Al Barsha,CUST-16828,Budget,Dairy,Labneh 400g,10,14.26,142.6,0.1,128.34,LuLu Gift Card,Male,Bangladeshi
+LLU-DXB-000195,2023-12-19,Silicon Oasis,CUST-27589,Budget,Electronics,Huawei Tablet,2,724.06,1448.12,0.1,1303.31,Samsung Pay,Female,Egyptian
+LLU-DXB-000204,2023-12-19,Dubai Festival City,CUST-77272,Corporate,Home & Kitchen,Pyrex Glass Set 3pc,1,278.38,278.38,0.0,278.38,Apple Pay,Female,Jordanian
+LLU-DXB-000770,2023-12-19,Ras Al Khor,CUST-87045,Regular,Sports & Fitness,Decathlon Resistance Bands,1,845.39,845.39,0.0,845.39,Credit Card,Male,Indian
+LLU-DXB-000360,2023-12-21,Al Ghurair,CUST-44619,Premium,Clothing,Under Armour Sports Bra,3,332.52,997.56,0.0,997.56,Apple Pay,Male,Indian
+LLU-DXB-000642,2023-12-21,Al Ghurair,CUST-68190,Regular,Electronics,Apple iPhone 15,2,769.12,1538.24,0.0,1538.24,Credit Card,Female,Egyptian
+LLU-DXB-000611,2023-12-22,Al Ghurair,CUST-84350,Budget,Home & Kitchen,Kitchen Towel Roll 6-Pack,5,327.5,1637.5,0.2,1310.0,Credit Card,Female,Pakistani
+LLU-DXB-000149,2023-12-22,Deira City Centre,CUST-24530,Regular,Clothing,Men's Linen Kandura,5,296.55,1482.75,0.0,1482.75,Apple Pay,Male,Sri Lankan
+LLU-DXB-000581,2023-12-23,Dubai Festival City,CUST-85936,Regular,Beverages,Lipton Green Tea 100s,9,15.85,142.65,0.0,142.65,Credit Card,Male,Emirati
+LLU-DXB-000914,2023-12-23,Dubai Festival City,CUST-33083,Corporate,Beverages,Pepsi 2.25L,3,9.25,27.75,0.0,27.75,Credit Card,Female,Pakistani
+LLU-DXB-000369,2023-12-23,Silicon Oasis,CUST-85108,Budget,Grocery,Sea Salt 500g,4,21.36,85.44,0.0,85.44,Apple Pay,Male,Bangladeshi
+LLU-DXB-000127,2023-12-24,Ras Al Khor,CUST-21551,Tourist,Personal Care,Dove Body Wash 500ml,10,27.25,272.5,0.0,272.5,Apple Pay,Male,Filipino
+LLU-DXB-000463,2023-12-24,Deira City Centre,CUST-78306,Regular,Personal Care,L'Oréal Conditioner,4,119.39,477.56,0.0,477.56,LuLu Gift Card,Male,Bangladeshi
+LLU-DXB-000084,2023-12-25,Deira City Centre,CUST-94896,Regular,Personal Care,Head & Shoulders Shampoo,2,102.24,204.48,0.0,204.48,Credit Card,Female,Egyptian
+LLU-DXB-000510,2023-12-25,Dubai Festival City,CUST-65372,Regular,Fresh Produce,Cherry Tomatoes 500g,3,15.79,47.37,0.0,47.37,Debit Card,Male,Sri Lankan
+LLU-DXB-001113,2023-12-25,Silicon Oasis,CUST-77427,Budget,Home & Kitchen,Joseph Joseph Chopping Board,2,576.5,1153.0,0.1,1037.7,Samsung Pay,Male,Indian
+LLU-DXB-000447,2023-12-27,Dubai Festival City,CUST-31964,Corporate,Home & Kitchen,Brita Water Filter,3,241.02,723.06,0.0,723.06,LuLu Gift Card,Female,American
+LLU-DXB-000590,2023-12-27,Mirdif City Centre,CUST-46231,Budget,Baby Products,Huggies Wipes 3-Pack,5,243.62,1218.1,0.05,1157.19,Cash,Male,Indian
+LLU-DXB-000047,2023-12-27,Al Barsha,CUST-83060,Regular,Personal Care,Oral-B Toothbrush,9,115.29,1037.61,0.0,1037.61,Credit Card,Male,Bangladeshi
+LLU-DXB-000699,2023-12-27,Mirdif City Centre,CUST-94883,Budget,Dairy,Mozzarella 200g,9,5.97,53.73,0.1,48.36,LuLu Gift Card,Male,Bangladeshi
+LLU-DXB-000556,2023-12-28,Deira City Centre,CUST-78597,Budget,Clothing,Quiksilver Swim Shorts,2,318.46,636.92,0.1,573.23,Samsung Pay,Male,Filipino
+LLU-DXB-000219,2023-12-28,Deira City Centre,CUST-71537,Budget,Home & Kitchen,Joseph Joseph Chopping Board,3,198.88,596.64,0.2,477.31,Debit Card,Male,British
+LLU-DXB-000979,2023-12-29,Silicon Oasis,CUST-67155,Regular,Grocery,Sunflower Oil 3L,5,28.47,142.35,0.0,142.35,Samsung Pay,Female,Filipino
+LLU-DXB-001143,2023-12-29,Ras Al Khor,CUST-58795,Budget,Electronics,Apple iPhone 15,2,3526.46,7052.92,0.05,6700.27,Samsung Pay,Female,Jordanian
+LLU-DXB-000090,2023-12-31,Al Ghurair,CUST-54375,Corporate,Dairy,Mozzarella 200g,2,34.04,68.08,0.0,68.08,Samsung Pay,Female,Indian
+LLU-DXB-000809,2024-01-01,Al Ghurair,CUST-31150,Premium,Home & Kitchen,Pyrex Glass Set 3pc,4,401.07,1604.28,0.0,1604.28,Credit Card,Male,Jordanian
+LLU-DXB-001071,2024-01-01,Al Ghurair,CUST-91515,Regular,Sports & Fitness,Fitbit Inspire 3,3,382.12,1146.36,0.0,1146.36,Cash,Male,British
+LLU-DXB-000674,2024-01-01,Dragon Mart,CUST-53610,Corporate,Electronics,Huawei Tablet,2,4554.11,9108.22,0.0,9108.22,LuLu Gift Card,Female,Indian
+LLU-DXB-000541,2024-01-01,Mirdif City Centre,CUST-39333,Regular,Clothing,Levis Denim Jeans,4,298.88,1195.52,0.0,1195.52,Credit Card,Female,British
+LLU-DXB-001107,2024-01-02,Dragon Mart,CUST-48173,Regular,Fresh Produce,Cherry Tomatoes 500g,5,14.1,70.5,0.0,70.5,Apple Pay,Male,Filipino
+LLU-DXB-000443,2024-01-03,Al Barsha,CUST-33148,Corporate,Baby Products,Mothercare Baby Blanket,2,66.96,133.92,0.0,133.92,Apple Pay,Female,Pakistani
+LLU-DXB-000322,2024-01-03,Deira City Centre,CUST-50416,Regular,Clothing,Men's Linen Kandura,1,296.23,296.23,0.0,296.23,Apple Pay,Female,Bangladeshi
+LLU-DXB-000559,2024-01-03,Dubai Festival City,CUST-85085,Loyalty Member,Sports & Fitness,Under Armour Gym Gloves,1,518.24,518.24,0.15,440.5,Cash,Female,Jordanian
+LLU-DXB-000793,2024-01-04,Mirdif City Centre,CUST-77610,Corporate,Baby Products,Johnson's Baby Shampoo,2,75.31,150.62,0.0,150.62,Samsung Pay,Female,Bangladeshi
+LLU-DXB-000660,2024-01-05,Dragon Mart,CUST-37490,Regular,Clothing,Quiksilver Swim Shorts,5,53.59,267.95,0.0,267.95,Debit Card,Male,Egyptian
+LLU-DXB-000229,2024-01-05,Al Ghurair,CUST-16102,Regular,Electronics,Dell Laptop i7,3,4794.43,14383.29,0.0,14383.29,Cash,Female,Sri Lankan
+LLU-DXB-000671,2024-01-05,Ras Al Khor,CUST-50392,Corporate,Grocery,Tomato Paste 400g,6,46.97,281.82,0.0,281.82,Cash,Male,Emirati
+LLU-DXB-001000,2024-01-05,Silicon Oasis,CUST-56131,Corporate,Grocery,Basmati Rice 5kg,1,10.98,10.98,0.0,10.98,Debit Card,Male,Sri Lankan
+LLU-DXB-000350,2024-01-06,Dragon Mart,CUST-10611,Budget,Clothing,Kids' School Uniform,4,294.23,1176.92,0.2,941.54,Cash,Male,British
+LLU-DXB-000677,2024-01-07,Dubai Festival City,CUST-44167,Loyalty Member,Dairy,Condensed Milk 400ml,6,28.36,170.16,0.1,153.14,Credit Card,Female,Egyptian
+LLU-DXB-000926,2024-01-09,Dragon Mart,CUST-88871,Loyalty Member,Dairy,Cheddar Cheese Block,8,14.28,114.24,0.1,102.82,LuLu Gift Card,Female,Pakistani
+LLU-DXB-001146,2024-01-10,Dragon Mart,CUST-49344,Regular,Home & Kitchen,IKEA Storage Boxes,3,236.46,709.38,0.0,709.38,Cash,Male,Sri Lankan
+LLU-DXB-000848,2024-01-10,Mirdif City Centre,CUST-41897,Regular,Baby Products,Dettol Baby Liquid Soap,1,133.27,133.27,0.0,133.27,Credit Card,Male,Indian
+LLU-DXB-000249,2024-01-11,Ras Al Khor,CUST-72411,Regular,Beverages,Red Bull 4-Pack,9,47.92,431.28,0.0,431.28,Cash,Female,Bangladeshi
+LLU-DXB-000376,2024-01-11,Dubai Festival City,CUST-85832,Loyalty Member,Electronics,Dyson Vacuum Cleaner,2,3109.76,6219.52,0.15,5286.59,Credit Card,Male,Indian
+LLU-DXB-000840,2024-01-12,Deira City Centre,CUST-11246,Premium,Clothing,Adidas Track Suit,2,37.61,75.22,0.05,71.46,Cash,Female,Emirati
+LLU-DXB-000665,2024-01-13,Dragon Mart,CUST-65314,Regular,Grocery,Basmati Rice 5kg,8,41.71,333.68,0.0,333.68,LuLu Gift Card,Male,Filipino
+LLU-DXB-000123,2024-01-13,Al Ghurair,CUST-15952,Regular,Clothing,H&M Casual T-Shirt,5,145.38,726.9,0.0,726.9,Credit Card,Female,Jordanian
+LLU-DXB-000391,2024-01-14,Al Barsha,CUST-48854,Premium,Baby Products,Farlin Baby Bottle 260ml,3,151.97,455.91,0.05,433.11,LuLu Gift Card,Male,British
+LLU-DXB-000542,2024-01-14,Al Barsha,CUST-18567,Loyalty Member,Personal Care,Nivea Men Face Wash,6,82.5,495.0,0.1,445.5,Apple Pay,Male,British
+LLU-DXB-000755,2024-01-15,Dragon Mart,CUST-80533,Regular,Electronics,Sony PlayStation 5,3,4939.68,14819.04,0.0,14819.04,Cash,Male,Sri Lankan
+LLU-DXB-000031,2024-01-15,Al Ghurair,CUST-16658,Loyalty Member,Sports & Fitness,Nike Water Bottle 750ml,3,203.15,609.45,0.15,518.03,Cash,Female,Egyptian
+LLU-DXB-000507,2024-01-16,Ras Al Khor,CUST-69971,Corporate,Clothing,Kids' School Uniform,5,443.89,2219.45,0.0,2219.45,Credit Card,Female,American
+LLU-DXB-000497,2024-01-16,Dragon Mart,CUST-30578,Regular,Electronics,"Samsung 65"" QLED TV",2,2982.37,5964.74,0.0,5964.74,Cash,Female,British
+LLU-DXB-000921,2024-01-18,Dubai Festival City,CUST-24435,Budget,Dairy,Low-Fat Milk 2L,7,10.23,71.61,0.0,71.61,Credit Card,Male,Egyptian
+LLU-DXB-000927,2024-01-18,Mirdif City Centre,CUST-60413,Regular,Grocery,Chickpeas 800g,9,25.86,232.74,0.0,232.74,Cash,Female,Sri Lankan
+LLU-DXB-000063,2024-01-19,Ras Al Khor,CUST-33834,Budget,Grocery,Brown Sugar 1kg,6,34.07,204.42,0.0,204.42,Apple Pay,Male,British
+LLU-DXB-000758,2024-01-19,Ras Al Khor,CUST-14822,Budget,Clothing,Quiksilver Swim Shorts,2,368.58,737.16,0.05,700.3,Debit Card,Female,Jordanian
+LLU-DXB-000547,2024-01-19,Al Barsha,CUST-21866,Premium,Clothing,Quiksilver Swim Shorts,4,370.98,1483.92,0.05,1409.72,Credit Card,Male,Jordanian
+LLU-DXB-000624,2024-01-19,Silicon Oasis,CUST-39428,Premium,Baby Products,Dettol Baby Liquid Soap,5,233.96,1169.8,0.05,1111.31,Cash,Male,Pakistani
+LLU-DXB-000990,2024-01-19,Al Barsha,CUST-61554,Loyalty Member,Fresh Produce,Mixed Salad Leaves,5,19.81,99.05,0.1,89.14,Debit Card,Female,Bangladeshi
+LLU-DXB-000268,2024-01-20,Al Ghurair,CUST-52318,Regular,Clothing,Under Armour Sports Bra,2,436.45,872.9,0.0,872.9,Debit Card,Female,Sri Lankan
+LLU-DXB-000668,2024-01-21,Deira City Centre,CUST-41205,Premium,Dairy,Fresh Butter 250g,2,26.5,53.0,0.05,50.35,Samsung Pay,Male,British
+LLU-DXB-000776,2024-01-21,Mirdif City Centre,CUST-10484,Regular,Dairy,Greek Yoghurt 500g,1,28.25,28.25,0.0,28.25,LuLu Gift Card,Male,Filipino
+LLU-DXB-001049,2024-01-21,Mirdif City Centre,CUST-95240,Regular,Home & Kitchen,Philips Rice Cooker,1,44.21,44.21,0.0,44.21,Debit Card,Female,Bangladeshi
+LLU-DXB-000964,2024-01-21,Deira City Centre,CUST-93037,Budget,Clothing,Women's Abaya (Black),4,286.91,1147.64,0.0,1147.64,Apple Pay,Male,Egyptian
+LLU-DXB-000176,2024-01-22,Al Barsha,CUST-21802,Tourist,Dairy,Cream Cheese 150g,5,17.94,89.7,0.0,89.7,Apple Pay,Female,Filipino
+LLU-DXB-000162,2024-01-23,Dragon Mart,CUST-83619,Tourist,Fresh Produce,Avocado 4-Pack,2,4.09,8.18,0.0,8.18,Cash,Female,Egyptian
+LLU-DXB-000441,2024-01-23,Dragon Mart,CUST-37594,Tourist,Fresh Produce,Cherry Tomatoes 500g,2,17.41,34.82,0.0,34.82,Apple Pay,Female,British
+LLU-DXB-000945,2024-01-23,Deira City Centre,CUST-69612,Premium,Sports & Fitness,Speedo Swimming Goggles,3,38.07,114.21,0.0,114.21,Debit Card,Male,Egyptian
+LLU-DXB-000785,2024-01-23,Silicon Oasis,CUST-33461,Loyalty Member,Baby Products,Mothercare Baby Blanket,5,185.94,929.7,0.1,836.73,Debit Card,Female,Sri Lankan
+LLU-DXB-000125,2024-01-24,Ras Al Khor,CUST-19447,Regular,Home & Kitchen,Nespresso Pod 10-Pack,2,240.52,481.04,0.0,481.04,Apple Pay,Male,American
+LLU-DXB-000795,2024-01-24,Ras Al Khor,CUST-54541,Corporate,Dairy,Condensed Milk 400ml,1,12.78,12.78,0.0,12.78,Credit Card,Female,American
+LLU-DXB-000580,2024-01-24,Silicon Oasis,CUST-12151,Budget,Sports & Fitness,Nike Water Bottle 750ml,5,80.12,400.6,0.1,360.54,Cash,Female,Emirati
+LLU-DXB-000347,2024-01-24,Deira City Centre,CUST-99220,Tourist,Sports & Fitness,GNC Multivitamin 90 Tabs,2,87.31,174.62,0.0,174.62,Apple Pay,Female,American
+LLU-DXB-000228,2024-01-24,Dragon Mart,CUST-94529,Premium,Baby Products,Dettol Baby Liquid Soap,2,17.5,35.0,0.0,35.0,Debit Card,Male,Sri Lankan
+LLU-DXB-000100,2024-01-25,Al Ghurair,CUST-31567,Loyalty Member,Grocery,Whole Wheat Bread,6,44.07,264.42,0.15,224.76,Debit Card,Female,Egyptian
+LLU-DXB-000326,2024-01-25,Dubai Festival City,CUST-25765,Regular,Grocery,Brown Sugar 1kg,1,20.95,20.95,0.0,20.95,Apple Pay,Male,Pakistani
+LLU-DXB-000143,2024-01-26,Dragon Mart,CUST-31241,Regular,Sports & Fitness,Speedo Swimming Goggles,4,271.55,1086.2,0.0,1086.2,Credit Card,Male,Egyptian
+LLU-DXB-000168,2024-01-26,Al Barsha,CUST-26274,Regular,Baby Products,MAM Pacifier 2-Pack,4,271.06,1084.24,0.0,1084.24,Samsung Pay,Male,Egyptian
+LLU-DXB-000225,2024-01-26,Dragon Mart,CUST-33496,Loyalty Member,Electronics,Dyson Vacuum Cleaner,2,3016.2,6032.4,0.05,5730.78,Cash,Male,Sri Lankan
+LLU-DXB-000969,2024-01-27,Deira City Centre,CUST-92764,Regular,Dairy,Mozzarella 200g,3,25.72,77.16,0.0,77.16,Samsung Pay,Female,Egyptian
+LLU-DXB-000908,2024-01-27,Al Ghurair,CUST-49768,Budget,Sports & Fitness,Nike Water Bottle 750ml,5,32.75,163.75,0.2,131.0,Credit Card,Female,Egyptian
+LLU-DXB-000649,2024-01-28,Al Ghurair,CUST-81098,Loyalty Member,Baby Products,Dettol Baby Liquid Soap,4,68.51,274.04,0.1,246.64,Debit Card,Male,Emirati
+LLU-DXB-000652,2024-01-29,Al Barsha,CUST-61299,Regular,Baby Products,MAM Pacifier 2-Pack,2,164.0,328.0,0.0,328.0,Debit Card,Female,Jordanian
+LLU-DXB-001108,2024-01-29,Mirdif City Centre,CUST-60123,Regular,Personal Care,Dettol Soap 6-Pack,9,39.86,358.74,0.0,358.74,Cash,Female,American
+LLU-DXB-000532,2024-01-29,Al Barsha,CUST-73263,Loyalty Member,Clothing,H&M Casual T-Shirt,1,355.56,355.56,0.1,320.0,Samsung Pay,Male,Filipino
+LLU-DXB-000025,2024-01-30,Deira City Centre,CUST-34356,Corporate,Home & Kitchen,Joseph Joseph Chopping Board,1,328.05,328.05,0.0,328.05,Cash,Male,Filipino
+LLU-DXB-000407,2024-02-01,Deira City Centre,CUST-62007,Loyalty Member,Grocery,Mixed Spices Pack,8,15.97,127.76,0.15,108.6,Debit Card,Male,Filipino
+LLU-DXB-001142,2024-02-03,Mirdif City Centre,CUST-43844,Budget,Beverages,Coconut Water 330ml,5,45.62,228.1,0.0,228.1,Credit Card,Female,Egyptian
+LLU-DXB-001165,2024-02-03,Deira City Centre,CUST-54272,Budget,Electronics,Sony PlayStation 5,1,4022.38,4022.38,0.2,3217.9,LuLu Gift Card,Female,American
+LLU-DXB-000338,2024-02-03,Al Barsha,CUST-99417,Budget,Grocery,Macaroni 500g,5,34.53,172.65,0.2,138.12,Cash,Female,Pakistani
+LLU-DXB-000018,2024-02-04,Mirdif City Centre,CUST-46500,Premium,Electronics,Dell Laptop i7,2,318.06,636.12,0.0,636.12,LuLu Gift Card,Female,Filipino
+LLU-DXB-000943,2024-02-06,Ras Al Khor,CUST-68652,Loyalty Member,Grocery,Macaroni 500g,3,33.4,100.2,0.15,85.17,Credit Card,Female,Egyptian
+LLU-DXB-000409,2024-02-07,Ras Al Khor,CUST-60868,Premium,Home & Kitchen,IKEA Storage Boxes,1,234.27,234.27,0.0,234.27,Apple Pay,Female,Emirati
+LLU-DXB-000567,2024-02-08,Ras Al Khor,CUST-98829,Loyalty Member,Personal Care,L'Oréal Conditioner,10,91.9,919.0,0.05,873.05,LuLu Gift Card,Male,British
+LLU-DXB-000169,2024-02-08,Al Ghurair,CUST-20336,Regular,Dairy,Cheddar Cheese Block,6,25.7,154.2,0.0,154.2,Debit Card,Male,Sri Lankan
+LLU-DXB-001114,2024-02-08,Deira City Centre,CUST-31783,Regular,Personal Care,Head & Shoulders Shampoo,3,92.77,278.31,0.0,278.31,Credit Card,Female,Indian
+LLU-DXB-000766,2024-02-08,Mirdif City Centre,CUST-19556,Budget,Grocery,Sunflower Oil 3L,1,48.02,48.02,0.1,43.22,Samsung Pay,Female,Indian
+LLU-DXB-000272,2024-02-08,Silicon Oasis,CUST-11217,Premium,Clothing,Women's Abaya (Black),2,227.64,455.28,0.0,455.28,Cash,Female,Indian
+LLU-DXB-000870,2024-02-10,Ras Al Khor,CUST-89452,Regular,Fresh Produce,Broccoli Head,3,27.24,81.72,0.0,81.72,Samsung Pay,Male,Indian
+LLU-DXB-000373,2024-02-10,Ras Al Khor,CUST-23935,Loyalty Member,Beverages,Tropicana Orange Juice 1L,5,58.01,290.05,0.15,246.54,Cash,Male,Bangladeshi
+LLU-DXB-001198,2024-02-10,Al Ghurair,CUST-17977,Loyalty Member,Fresh Produce,Imported Strawberries 250g,1,33.8,33.8,0.05,32.11,Credit Card,Male,Filipino
+LLU-DXB-000962,2024-02-11,Ras Al Khor,CUST-24860,Regular,Personal Care,Neutrogena Sunscreen SPF50,7,100.76,705.32,0.0,705.32,Credit Card,Female,American
+LLU-DXB-000454,2024-02-11,Al Ghurair,CUST-55504,Budget,Sports & Fitness,Speedo Swimming Goggles,5,581.37,2906.85,0.2,2325.48,Apple Pay,Male,Indian
+LLU-DXB-000513,2024-02-11,Dragon Mart,CUST-77065,Premium,Clothing,Women's Abaya (Black),3,215.99,647.97,0.0,647.97,Samsung Pay,Male,American
+LLU-DXB-000521,2024-02-12,Mirdif City Centre,CUST-37400,Loyalty Member,Dairy,Greek Yoghurt 500g,9,11.78,106.02,0.1,95.42,Samsung Pay,Male,Indian
+LLU-DXB-000474,2024-02-13,Al Ghurair,CUST-16433,Premium,Home & Kitchen,IKEA Storage Boxes,4,351.19,1404.76,0.05,1334.52,Debit Card,Male,Jordanian
+LLU-DXB-000186,2024-02-13,Dragon Mart,CUST-51124,Regular,Dairy,Flavoured Yoghurt Duo,8,13.4,107.2,0.0,107.2,Credit Card,Female,Sri Lankan
+LLU-DXB-000692,2024-02-13,Dubai Festival City,CUST-64580,Budget,Baby Products,Farlin Baby Bottle 260ml,2,190.73,381.46,0.0,381.46,Cash,Male,Bangladeshi
+LLU-DXB-000452,2024-02-14,Dubai Festival City,CUST-13744,Loyalty Member,Grocery,Macaroni 500g,3,23.27,69.81,0.05,66.32,Cash,Female,British
+LLU-DXB-000208,2024-02-15,Dubai Festival City,CUST-39188,Budget,Baby Products,Johnson's Baby Shampoo,2,107.16,214.32,0.2,171.46,Cash,Male,Egyptian
+LLU-DXB-000888,2024-02-15,Dubai Festival City,CUST-63833,Premium,Personal Care,Gillette Fusion Razor,4,56.25,225.0,0.0,225.0,Cash,Female,Emirati
+LLU-DXB-000093,2024-02-17,Dragon Mart,CUST-84177,Regular,Electronics,Huawei Tablet,1,2454.17,2454.17,0.0,2454.17,LuLu Gift Card,Male,Pakistani
+LLU-DXB-000496,2024-02-17,Deira City Centre,CUST-34434,Corporate,Baby Products,Huggies Wipes 3-Pack,5,143.44,717.2,0.0,717.2,Credit Card,Female,Sri Lankan
+LLU-DXB-000392,2024-02-19,Al Barsha,CUST-92173,Tourist,Baby Products,Huggies Wipes 3-Pack,5,59.36,296.8,0.0,296.8,Cash,Male,Filipino
+LLU-DXB-000670,2024-02-19,Ras Al Khor,CUST-24806,Regular,Home & Kitchen,Nespresso Pod 10-Pack,4,361.9,1447.6,0.0,1447.6,Debit Card,Female,Bangladeshi
+LLU-DXB-000479,2024-02-19,Silicon Oasis,CUST-56179,Regular,Dairy,Flavoured Yoghurt Duo,3,13.8,41.4,0.0,41.4,Debit Card,Female,British
+LLU-DXB-000142,2024-02-19,Mirdif City Centre,CUST-50562,Budget,Grocery,Brown Sugar 1kg,8,38.11,304.88,0.05,289.64,Apple Pay,Male,British
+LLU-DXB-000395,2024-02-20,Al Barsha,CUST-94072,Regular,Personal Care,Neutrogena Sunscreen SPF50,2,51.62,103.24,0.0,103.24,LuLu Gift Card,Male,Jordanian
+LLU-DXB-000672,2024-02-20,Mirdif City Centre,CUST-67986,Budget,Grocery,Tomato Paste 400g,6,16.84,101.04,0.0,101.04,Apple Pay,Male,American
+LLU-DXB-001177,2024-02-21,Dragon Mart,CUST-39504,Loyalty Member,Fresh Produce,Mixed Salad Leaves,3,29.47,88.41,0.15,75.15,Apple Pay,Female,Bangladeshi
+LLU-DXB-000977,2024-02-21,Al Barsha,CUST-77894,Corporate,Baby Products,Farlin Baby Bottle 260ml,1,66.1,66.1,0.0,66.1,Samsung Pay,Male,Filipino
+LLU-DXB-000013,2024-02-23,Al Barsha,CUST-88504,Regular,Baby Products,MAM Pacifier 2-Pack,2,114.09,228.18,0.0,228.18,Debit Card,Female,Emirati
+LLU-DXB-000009,2024-02-23,Al Ghurair,CUST-86622,Regular,Home & Kitchen,Philips Rice Cooker,5,163.04,815.2,0.0,815.2,Apple Pay,Female,British
+LLU-DXB-000304,2024-02-27,Silicon Oasis,CUST-55093,Loyalty Member,Grocery,Sea Salt 500g,6,49.49,296.94,0.1,267.25,Samsung Pay,Female,American
+LLU-DXB-001021,2024-02-28,Dubai Festival City,CUST-59278,Regular,Grocery,Tomato Paste 400g,8,16.27,130.16,0.0,130.16,Apple Pay,Male,Pakistani
+LLU-DXB-000480,2024-02-28,Mirdif City Centre,CUST-59160,Loyalty Member,Personal Care,Neutrogena Sunscreen SPF50,4,44.23,176.92,0.15,150.38,Samsung Pay,Female,British
+LLU-DXB-000430,2024-03-02,Al Ghurair,CUST-83284,Budget,Sports & Fitness,Nike Water Bottle 750ml,1,669.81,669.81,0.0,669.81,Samsung Pay,Female,British
+LLU-DXB-000453,2024-03-02,Silicon Oasis,CUST-27709,Tourist,Home & Kitchen,Brita Water Filter,3,333.54,1000.62,0.0,1000.62,LuLu Gift Card,Male,Jordanian
+LLU-DXB-001176,2024-03-03,Dragon Mart,CUST-56140,Corporate,Fresh Produce,Egyptian Dates 500g,4,35.21,140.84,0.0,140.84,Credit Card,Female,Jordanian
+LLU-DXB-000192,2024-03-03,Dubai Festival City,CUST-63334,Loyalty Member,Personal Care,Gillette Fusion Razor,3,19.26,57.78,0.05,54.89,LuLu Gift Card,Female,Bangladeshi
+LLU-DXB-001066,2024-03-04,Ras Al Khor,CUST-18394,Tourist,Electronics,Xiaomi Smart Watch,3,1628.98,4886.94,0.0,4886.94,Apple Pay,Male,Egyptian
+LLU-DXB-000276,2024-03-05,Al Ghurair,CUST-13515,Loyalty Member,Personal Care,Gillette Fusion Razor,2,35.75,71.5,0.05,67.92,LuLu Gift Card,Female,Filipino
+LLU-DXB-000710,2024-03-06,Al Ghurair,CUST-14851,Loyalty Member,Personal Care,Neutrogena Sunscreen SPF50,10,90.55,905.5,0.15,769.68,Apple Pay,Female,Bangladeshi
+LLU-DXB-000236,2024-03-06,Deira City Centre,CUST-88240,Regular,Baby Products,Graco Baby Monitor,3,21.96,65.88,0.0,65.88,Samsung Pay,Female,American
+LLU-DXB-000064,2024-03-07,Al Barsha,CUST-77715,Regular,Fresh Produce,Mixed Salad Leaves,3,28.04,84.12,0.0,84.12,Credit Card,Male,Filipino
+LLU-DXB-000213,2024-03-07,Silicon Oasis,CUST-16145,Premium,Fresh Produce,Baby Spinach 200g,2,42.84,85.68,0.05,81.4,Debit Card,Female,Sri Lankan
+LLU-DXB-000509,2024-03-09,Dragon Mart,CUST-77649,Budget,Electronics,Dell Laptop i7,3,2266.52,6799.56,0.0,6799.56,LuLu Gift Card,Male,Filipino
+LLU-DXB-000469,2024-03-10,Al Ghurair,CUST-81137,Corporate,Dairy,Labneh 400g,8,18.53,148.24,0.0,148.24,LuLu Gift Card,Female,Filipino
+LLU-DXB-000424,2024-03-10,Silicon Oasis,CUST-43263,Budget,Grocery,Chickpeas 800g,3,28.76,86.28,0.1,77.65,Debit Card,Female,American
+LLU-DXB-000768,2024-03-10,Al Barsha,CUST-48655,Budget,Electronics,Huawei Tablet,1,2460.34,2460.34,0.0,2460.34,Apple Pay,Female,Indian
+LLU-DXB-001121,2024-03-11,Mirdif City Centre,CUST-20154,Regular,Sports & Fitness,Under Armour Gym Gloves,3,696.12,2088.36,0.0,2088.36,Samsung Pay,Male,Indian
+LLU-DXB-000444,2024-03-12,Al Barsha,CUST-62219,Loyalty Member,Baby Products,Graco Baby Monitor,3,223.11,669.33,0.1,602.4,Cash,Male,Emirati
+LLU-DXB-000873,2024-03-13,Dubai Festival City,CUST-65009,Premium,Baby Products,Aptamil Formula Stage 2,2,209.16,418.32,0.05,397.4,Credit Card,Female,American
+LLU-DXB-000289,2024-03-13,Al Ghurair,CUST-91620,Regular,Clothing,Under Armour Sports Bra,3,181.79,545.37,0.0,545.37,Credit Card,Female,British
+LLU-DXB-000057,2024-03-14,Mirdif City Centre,CUST-70952,Budget,Grocery,Basmati Rice 5kg,8,13.45,107.6,0.0,107.6,LuLu Gift Card,Female,British
+LLU-DXB-001032,2024-03-14,Dragon Mart,CUST-11444,Regular,Personal Care,Neutrogena Sunscreen SPF50,2,39.74,79.48,0.0,79.48,Samsung Pay,Female,Emirati
+LLU-DXB-000408,2024-03-15,Dubai Festival City,CUST-73373,Loyalty Member,Sports & Fitness,Protein Whey Powder 1kg,2,147.82,295.64,0.05,280.86,Debit Card,Male,Filipino
+LLU-DXB-000730,2024-03-15,Mirdif City Centre,CUST-55919,Regular,Sports & Fitness,Adidas Yoga Mat,5,885.08,4425.4,0.0,4425.4,Debit Card,Female,Jordanian
+LLU-DXB-000259,2024-03-15,Al Barsha,CUST-38905,Loyalty Member,Home & Kitchen,Nespresso Pod 10-Pack,2,277.43,554.86,0.05,527.12,Debit Card,Male,Egyptian
+LLU-DXB-001190,2024-03-16,Al Ghurair,CUST-72296,Budget,Grocery,Lentils 1kg,5,36.26,181.3,0.05,172.23,LuLu Gift Card,Female,Egyptian
+LLU-DXB-000656,2024-03-17,Dragon Mart,CUST-44946,Regular,Electronics,Dyson Vacuum Cleaner,2,2615.87,5231.74,0.0,5231.74,Cash,Female,Jordanian
+LLU-DXB-001042,2024-03-17,Deira City Centre,CUST-54657,Corporate,Electronics,Sony PlayStation 5,2,2073.65,4147.3,0.0,4147.3,Credit Card,Female,Filipino
+LLU-DXB-000348,2024-03-18,Silicon Oasis,CUST-28772,Regular,Electronics,Sony PlayStation 5,2,1221.59,2443.18,0.0,2443.18,Debit Card,Male,Indian
+LLU-DXB-000939,2024-03-18,Al Barsha,CUST-83890,Budget,Baby Products,Aptamil Formula Stage 2,3,23.58,70.74,0.0,70.74,Apple Pay,Male,Emirati
+LLU-DXB-000530,2024-03-19,Dragon Mart,CUST-34560,Tourist,Electronics,JBL Bluetooth Speaker,1,3501.83,3501.83,0.0,3501.83,Samsung Pay,Male,Egyptian
+LLU-DXB-001167,2024-03-21,Silicon Oasis,CUST-38207,Budget,Sports & Fitness,Reebok Ankle Weights,1,719.51,719.51,0.1,647.56,Apple Pay,Female,Pakistani
+LLU-DXB-000161,2024-03-21,Dubai Festival City,CUST-79397,Tourist,Dairy,Cream Cheese 150g,2,14.9,29.8,0.0,29.8,Debit Card,Female,British
+LLU-DXB-000986,2024-03-21,Dragon Mart,CUST-99408,Budget,Sports & Fitness,Nike Water Bottle 750ml,3,115.06,345.18,0.0,345.18,Apple Pay,Female,British
+LLU-DXB-000543,2024-03-22,Dubai Festival City,CUST-76577,Loyalty Member,Home & Kitchen,Brita Water Filter,3,183.71,551.13,0.15,468.46,Cash,Female,Indian
+LLU-DXB-000394,2024-03-22,Mirdif City Centre,CUST-43901,Premium,Beverages,Lipton Green Tea 100s,5,7.04,35.2,0.0,35.2,Apple Pay,Female,Bangladeshi
+LLU-DXB-000575,2024-03-22,Al Barsha,CUST-77552,Regular,Personal Care,Colgate Total Toothpaste,7,44.94,314.58,0.0,314.58,LuLu Gift Card,Female,Bangladeshi
+LLU-DXB-000306,2024-03-23,Dragon Mart,CUST-56504,Budget,Clothing,Nike Running Shoes,1,138.27,138.27,0.05,131.36,Credit Card,Male,Filipino
+LLU-DXB-000676,2024-03-23,Deira City Centre,CUST-24526,Regular,Dairy,Full Cream Milk 1L,6,23.11,138.66,0.0,138.66,Credit Card,Male,Sri Lankan
+LLU-DXB-000535,2024-03-24,Al Ghurair,CUST-93735,Premium,Home & Kitchen,Tefal Non-Stick Pan,3,464.38,1393.14,0.0,1393.14,Credit Card,Female,Filipino
+LLU-DXB-000024,2024-03-25,Al Barsha,CUST-51104,Regular,Home & Kitchen,Philips Rice Cooker,1,146.27,146.27,0.0,146.27,Cash,Male,Jordanian
+LLU-DXB-000686,2024-03-26,Dubai Festival City,CUST-44116,Regular,Personal Care,Gillette Fusion Razor,1,107.93,107.93,0.0,107.93,Credit Card,Female,British
+LLU-DXB-000247,2024-03-26,Mirdif City Centre,CUST-68429,Regular,Clothing,Adidas Track Suit,5,342.41,1712.05,0.0,1712.05,Debit Card,Female,Bangladeshi
+LLU-DXB-000913,2024-03-27,Dragon Mart,CUST-30400,Loyalty Member,Baby Products,Aptamil Formula Stage 2,3,73.47,220.41,0.05,209.39,Apple Pay,Male,American
+LLU-DXB-000466,2024-03-27,Silicon Oasis,CUST-88146,Regular,Sports & Fitness,Decathlon Resistance Bands,1,237.7,237.7,0.0,237.7,Credit Card,Female,Indian
+LLU-DXB-000102,2024-03-30,Dragon Mart,CUST-93695,Budget,Electronics,Huawei Tablet,3,2583.11,7749.33,0.1,6974.4,Debit Card,Male,Filipino
+LLU-DXB-001170,2024-04-01,Dragon Mart,CUST-93200,Regular,Clothing,Quiksilver Swim Shorts,4,327.61,1310.44,0.0,1310.44,Samsung Pay,Female,Sri Lankan
+LLU-DXB-000279,2024-04-01,Deira City Centre,CUST-11807,Loyalty Member,Baby Products,Johnson's Baby Shampoo,1,267.93,267.93,0.05,254.53,Debit Card,Male,Emirati
+LLU-DXB-000078,2024-04-01,Al Barsha,CUST-98117,Tourist,Clothing,Nike Running Shoes,5,380.28,1901.4,0.0,1901.4,Debit Card,Male,Pakistani
+LLU-DXB-000170,2024-04-04,Dubai Festival City,CUST-32439,Budget,Fresh Produce,Egyptian Dates 500g,1,28.81,28.81,0.05,27.37,LuLu Gift Card,Female,Jordanian
+LLU-DXB-000878,2024-04-05,Dubai Festival City,CUST-43955,Budget,Beverages,Coconut Water 330ml,7,53.39,373.73,0.2,298.98,Cash,Male,Pakistani
+LLU-DXB-000026,2024-04-06,Al Barsha,CUST-91183,Tourist,Personal Care,Head & Shoulders Shampoo,10,71.8,718.0,0.0,718.0,Cash,Female,Jordanian
+LLU-DXB-000587,2024-04-06,Al Ghurair,CUST-64555,Regular,Electronics,"Samsung 65"" QLED TV",3,626.91,1880.73,0.0,1880.73,LuLu Gift Card,Female,Pakistani
+LLU-DXB-001189,2024-04-06,Al Barsha,CUST-28352,Loyalty Member,Home & Kitchen,Prestige Pressure Cooker,5,425.75,2128.75,0.1,1915.87,Credit Card,Female,Emirati
+LLU-DXB-000239,2024-04-06,Mirdif City Centre,CUST-70012,Regular,Home & Kitchen,Pyrex Glass Set 3pc,4,567.65,2270.6,0.0,2270.6,Cash,Male,Egyptian
+LLU-DXB-000827,2024-04-07,Dubai Festival City,CUST-82463,Loyalty Member,Home & Kitchen,Tefal Non-Stick Pan,1,267.89,267.89,0.1,241.1,LuLu Gift Card,Male,Egyptian
+LLU-DXB-000504,2024-04-08,Mirdif City Centre,CUST-40266,Regular,Sports & Fitness,GNC Multivitamin 90 Tabs,2,521.16,1042.32,0.0,1042.32,LuLu Gift Card,Male,British
+LLU-DXB-000863,2024-04-08,Dubai Festival City,CUST-95563,Regular,Electronics,Apple iPhone 15,3,2764.15,8292.45,0.0,8292.45,LuLu Gift Card,Female,Indian
+LLU-DXB-000417,2024-04-08,Deira City Centre,CUST-40122,Budget,Dairy,Condensed Milk 400ml,6,11.46,68.76,0.2,55.01,Apple Pay,Female,Pakistani
+LLU-DXB-000121,2024-04-08,Deira City Centre,CUST-16895,Regular,Dairy,Low-Fat Milk 2L,10,13.38,133.8,0.0,133.8,Credit Card,Male,Jordanian
+LLU-DXB-001005,2024-04-08,Al Ghurair,CUST-10407,Loyalty Member,Grocery,Whole Wheat Bread,5,18.69,93.45,0.15,79.43,Cash,Male,Sri Lankan
+LLU-DXB-001200,2024-04-09,Silicon Oasis,CUST-49316,Regular,Clothing,Levis Denim Jeans,2,255.51,511.02,0.0,511.02,Samsung Pay,Male,Jordanian
+LLU-DXB-000177,2024-04-09,Silicon Oasis,CUST-47453,Regular,Grocery,Mixed Spices Pack,8,4.43,35.44,0.0,35.44,Samsung Pay,Male,Indian
+LLU-DXB-000855,2024-04-10,Ras Al Khor,CUST-50487,Regular,Sports & Fitness,Under Armour Gym Gloves,1,607.18,607.18,0.0,607.18,Samsung Pay,Male,Egyptian
+LLU-DXB-000960,2024-04-11,Dragon Mart,CUST-38329,Regular,Grocery,Macaroni 500g,3,28.21,84.63,0.0,84.63,Debit Card,Male,Filipino
+LLU-DXB-000517,2024-04-11,Al Barsha,CUST-42075,Regular,Sports & Fitness,Speedo Swimming Goggles,5,411.64,2058.2,0.0,2058.2,Samsung Pay,Female,Jordanian
+LLU-DXB-000157,2024-04-12,Dubai Festival City,CUST-81496,Loyalty Member,Baby Products,Farlin Baby Bottle 260ml,1,207.68,207.68,0.1,186.91,Debit Card,Female,Indian
+LLU-DXB-000833,2024-04-12,Dubai Festival City,CUST-11617,Tourist,Sports & Fitness,Speedo Swimming Goggles,2,153.95,307.9,0.0,307.9,Cash,Male,American
+LLU-DXB-000871,2024-04-12,Mirdif City Centre,CUST-87566,Premium,Electronics,Dell Laptop i7,1,907.92,907.92,0.0,907.92,Debit Card,Female,Pakistani
+LLU-DXB-000180,2024-04-12,Dragon Mart,CUST-75546,Tourist,Beverages,Coconut Water 330ml,4,46.28,185.12,0.0,185.12,Cash,Male,Emirati
+LLU-DXB-000841,2024-04-13,Al Ghurair,CUST-73691,Premium,Sports & Fitness,Adidas Yoga Mat,1,482.04,482.04,0.05,457.94,Apple Pay,Female,Jordanian
+LLU-DXB-001158,2024-04-13,Silicon Oasis,CUST-75806,Regular,Electronics,Huawei Tablet,1,4120.05,4120.05,0.0,4120.05,Debit Card,Female,British
+LLU-DXB-001117,2024-04-14,Al Ghurair,CUST-71880,Loyalty Member,Fresh Produce,Broccoli Head,3,36.72,110.16,0.15,93.64,Apple Pay,Male,British
+LLU-DXB-000936,2024-04-14,Deira City Centre,CUST-71398,Regular,Sports & Fitness,Adidas Yoga Mat,5,185.73,928.65,0.0,928.65,Apple Pay,Female,American
+LLU-DXB-000922,2024-04-14,Dubai Festival City,CUST-33339,Budget,Beverages,Nescafé Gold 200g,2,10.63,21.26,0.0,21.26,Apple Pay,Female,Jordanian
+LLU-DXB-000828,2024-04-15,Silicon Oasis,CUST-19429,Regular,Personal Care,L'Oréal Conditioner,9,39.72,357.48,0.0,357.48,Debit Card,Male,Bangladeshi
+LLU-DXB-001076,2024-04-15,Mirdif City Centre,CUST-68847,Budget,Clothing,H&M Casual T-Shirt,3,57.49,172.47,0.2,137.98,Apple Pay,Male,Jordanian
+LLU-DXB-000907,2024-04-16,Al Ghurair,CUST-37122,Regular,Home & Kitchen,Joseph Joseph Chopping Board,4,472.04,1888.16,0.0,1888.16,Credit Card,Male,Pakistani
+LLU-DXB-000122,2024-04-16,Silicon Oasis,CUST-64287,Regular,Electronics,Apple iPhone 15,2,3691.37,7382.74,0.0,7382.74,Debit Card,Male,Sri Lankan
+LLU-DXB-000330,2024-04-17,Silicon Oasis,CUST-14910,Regular,Beverages,Al Ain Water 6L,10,40.67,406.7,0.0,406.7,Credit Card,Female,American
+LLU-DXB-000148,2024-04-17,Dragon Mart,CUST-24573,Regular,Electronics,Huawei Tablet,3,949.93,2849.79,0.0,2849.79,Debit Card,Male,Egyptian
+LLU-DXB-000187,2024-04-18,Silicon Oasis,CUST-35200,Regular,Beverages,Coconut Water 330ml,5,47.23,236.15,0.0,236.15,Credit Card,Female,Sri Lankan
+LLU-DXB-000377,2024-04-18,Mirdif City Centre,CUST-45860,Budget,Personal Care,Always Pads Overnight,7,44.05,308.35,0.2,246.68,Apple Pay,Female,Egyptian
+LLU-DXB-000508,2024-04-19,Al Barsha,CUST-78242,Loyalty Member,Electronics,Xiaomi Smart Watch,2,2185.0,4370.0,0.1,3933.0,Cash,Female,Bangladeshi
+LLU-DXB-000254,2024-04-19,Dragon Mart,CUST-86939,Tourist,Home & Kitchen,Joseph Joseph Chopping Board,4,201.77,807.08,0.0,807.08,Cash,Female,British
+LLU-DXB-000519,2024-04-19,Dubai Festival City,CUST-69682,Premium,Clothing,Men's Linen Kandura,2,447.34,894.68,0.05,849.95,LuLu Gift Card,Female,Emirati
+LLU-DXB-000688,2024-04-21,Al Ghurair,CUST-77760,Corporate,Fresh Produce,Mixed Salad Leaves,3,14.88,44.64,0.0,44.64,Debit Card,Female,Pakistani
+LLU-DXB-000557,2024-04-21,Al Barsha,CUST-55029,Loyalty Member,Home & Kitchen,Pyrex Glass Set 3pc,5,332.73,1663.65,0.1,1497.28,Samsung Pay,Male,Bangladeshi
+LLU-DXB-000523,2024-04-22,Silicon Oasis,CUST-78118,Tourist,Baby Products,MAM Pacifier 2-Pack,2,108.77,217.54,0.0,217.54,LuLu Gift Card,Female,Bangladeshi
+LLU-DXB-001023,2024-04-22,Al Ghurair,CUST-41804,Premium,Electronics,Dyson Vacuum Cleaner,1,4252.22,4252.22,0.0,4252.22,Samsung Pay,Female,Pakistani
+LLU-DXB-000548,2024-04-23,Silicon Oasis,CUST-35646,Budget,Electronics,Sony PlayStation 5,2,2573.41,5146.82,0.2,4117.46,Credit Card,Female,Egyptian
+LLU-DXB-000355,2024-04-29,Al Barsha,CUST-87846,Regular,Beverages,Lipton Green Tea 100s,9,39.86,358.74,0.0,358.74,Cash,Male,Emirati
+LLU-DXB-000814,2024-04-30,Mirdif City Centre,CUST-81002,Premium,Personal Care,Dettol Soap 6-Pack,9,44.64,401.76,0.0,401.76,Apple Pay,Female,Indian
+LLU-DXB-000073,2024-04-30,Mirdif City Centre,CUST-44687,Premium,Sports & Fitness,GNC Multivitamin 90 Tabs,1,865.1,865.1,0.0,865.1,LuLu Gift Card,Male,Pakistani
+LLU-DXB-000923,2024-04-30,Al Ghurair,CUST-55663,Regular,Dairy,Mozzarella 200g,5,24.35,121.75,0.0,121.75,Cash,Female,Bangladeshi
+LLU-DXB-000919,2024-05-02,Deira City Centre,CUST-12779,Regular,Beverages,Aloe Vera Drink 500ml,5,7.13,35.65,0.0,35.65,Cash,Male,Sri Lankan
+LLU-DXB-000184,2024-05-03,Dragon Mart,CUST-29369,Loyalty Member,Sports & Fitness,Nike Water Bottle 750ml,2,535.58,1071.16,0.15,910.49,LuLu Gift Card,Male,Emirati
+LLU-DXB-001186,2024-05-03,Silicon Oasis,CUST-66175,Regular,Personal Care,Dove Body Wash 500ml,9,88.26,794.34,0.0,794.34,Cash,Male,Pakistani
+LLU-DXB-000902,2024-05-03,Deira City Centre,CUST-15379,Budget,Fresh Produce,Avocado 4-Pack,1,6.66,6.66,0.05,6.33,Samsung Pay,Male,Filipino
+LLU-DXB-000832,2024-05-05,Al Barsha,CUST-97251,Loyalty Member,Personal Care,Neutrogena Sunscreen SPF50,1,35.14,35.14,0.1,31.63,LuLu Gift Card,Male,Egyptian
+LLU-DXB-001078,2024-05-06,Mirdif City Centre,CUST-33581,Premium,Beverages,Nescafé Gold 200g,3,27.58,82.74,0.05,78.6,Apple Pay,Male,Pakistani
+LLU-DXB-000845,2024-05-07,Ras Al Khor,CUST-15997,Premium,Personal Care,Oral-B Toothbrush,6,79.46,476.76,0.0,476.76,LuLu Gift Card,Female,Bangladeshi
+LLU-DXB-001126,2024-05-07,Al Ghurair,CUST-28728,Premium,Beverages,Coconut Water 330ml,4,37.9,151.6,0.0,151.6,Apple Pay,Female,Bangladeshi
+LLU-DXB-000079,2024-05-08,Silicon Oasis,CUST-21959,Budget,Home & Kitchen,Joseph Joseph Chopping Board,2,551.32,1102.64,0.2,882.11,Apple Pay,Female,American
+LLU-DXB-000753,2024-05-08,Al Ghurair,CUST-69338,Tourist,Sports & Fitness,Reebok Ankle Weights,3,303.52,910.56,0.0,910.56,Debit Card,Male,British
+LLU-DXB-000994,2024-05-09,Silicon Oasis,CUST-97586,Corporate,Dairy,Low-Fat Milk 2L,7,27.1,189.7,0.0,189.7,Cash,Male,Jordanian
+LLU-DXB-000098,2024-05-09,Mirdif City Centre,CUST-91381,Loyalty Member,Home & Kitchen,Milton Steel Lunch Box,3,153.47,460.41,0.05,437.39,Debit Card,Male,Indian
+LLU-DXB-000733,2024-05-09,Dragon Mart,CUST-67682,Loyalty Member,Baby Products,Graco Baby Monitor,5,246.08,1230.4,0.1,1107.36,LuLu Gift Card,Female,American
+LLU-DXB-000069,2024-05-10,Silicon Oasis,CUST-23446,Premium,Dairy,Labneh 400g,5,4.74,23.7,0.0,23.7,Cash,Female,Bangladeshi
+LLU-DXB-000618,2024-05-13,Mirdif City Centre,CUST-86471,Regular,Grocery,Brown Sugar 1kg,10,17.67,176.7,0.0,176.7,Samsung Pay,Male,Egyptian
+LLU-DXB-000821,2024-05-14,Al Barsha,CUST-78271,Loyalty Member,Sports & Fitness,Speedo Swimming Goggles,3,312.6,937.8,0.1,844.02,Apple Pay,Female,Emirati
+LLU-DXB-000898,2024-05-15,Al Barsha,CUST-49883,Regular,Grocery,Lentils 1kg,7,4.94,34.58,0.0,34.58,Cash,Female,British
+LLU-DXB-000726,2024-05-15,Mirdif City Centre,CUST-81358,Corporate,Baby Products,MAM Pacifier 2-Pack,4,200.58,802.32,0.0,802.32,Samsung Pay,Female,British
+LLU-DXB-000591,2024-05-15,Ras Al Khor,CUST-47363,Budget,Dairy,Cream Cheese 150g,1,8.11,8.11,0.0,8.11,Credit Card,Female,Egyptian
+LLU-DXB-000246,2024-05-16,Dragon Mart,CUST-53463,Regular,Grocery,Lentils 1kg,10,31.41,314.1,0.0,314.1,Apple Pay,Male,Emirati
+LLU-DXB-000333,2024-05-16,Deira City Centre,CUST-34633,Loyalty Member,Fresh Produce,Cherry Tomatoes 500g,4,16.48,65.92,0.15,56.03,Apple Pay,Male,American
+LLU-DXB-000393,2024-05-17,Deira City Centre,CUST-99921,Regular,Personal Care,Head & Shoulders Shampoo,7,100.82,705.74,0.0,705.74,Credit Card,Male,Bangladeshi
+LLU-DXB-000616,2024-05-17,Al Ghurair,CUST-72116,Premium,Beverages,Pepsi 2.25L,9,45.36,408.24,0.05,387.83,Debit Card,Male,Jordanian
+LLU-DXB-000103,2024-05-18,Deira City Centre,CUST-93283,Budget,Home & Kitchen,Tefal Non-Stick Pan,3,567.04,1701.12,0.05,1616.06,Apple Pay,Female,American
+LLU-DXB-001193,2024-05-18,Dubai Festival City,CUST-78843,Regular,Sports & Fitness,Reebok Ankle Weights,4,352.57,1410.28,0.0,1410.28,Apple Pay,Male,Bangladeshi
+LLU-DXB-000056,2024-05-19,Deira City Centre,CUST-95426,Loyalty Member,Home & Kitchen,Tefal Non-Stick Pan,3,50.21,150.63,0.05,143.1,Cash,Male,Filipino
+LLU-DXB-000379,2024-05-19,Dubai Festival City,CUST-76046,Loyalty Member,Grocery,Mixed Spices Pack,3,34.96,104.88,0.15,89.15,Samsung Pay,Female,Indian
+LLU-DXB-000605,2024-05-19,Silicon Oasis,CUST-86037,Tourist,Grocery,Whole Wheat Bread,2,13.45,26.9,0.0,26.9,LuLu Gift Card,Male,Filipino
+LLU-DXB-000171,2024-05-20,Mirdif City Centre,CUST-84991,Premium,Electronics,"Samsung 65"" QLED TV",3,5224.73,15674.19,0.05,14890.48,Apple Pay,Male,Bangladeshi
+LLU-DXB-000193,2024-05-21,Mirdif City Centre,CUST-80143,Regular,Grocery,Tomato Paste 400g,2,33.0,66.0,0.0,66.0,LuLu Gift Card,Male,Pakistani
+LLU-DXB-000815,2024-05-22,Ras Al Khor,CUST-11570,Premium,Grocery,Macaroni 500g,1,17.52,17.52,0.05,16.64,Apple Pay,Male,Bangladeshi
+LLU-DXB-000227,2024-05-22,Al Barsha,CUST-22255,Tourist,Sports & Fitness,Nike Water Bottle 750ml,1,222.63,222.63,0.0,222.63,Apple Pay,Female,American
+LLU-DXB-000371,2024-05-23,Silicon Oasis,CUST-54676,Budget,Sports & Fitness,GNC Multivitamin 90 Tabs,5,803.85,4019.25,0.05,3818.29,Debit Card,Male,Filipino
+LLU-DXB-000705,2024-05-24,Silicon Oasis,CUST-70314,Premium,Personal Care,Dettol Soap 6-Pack,1,52.23,52.23,0.0,52.23,LuLu Gift Card,Female,Jordanian
+LLU-DXB-000499,2024-05-25,Dubai Festival City,CUST-21507,Regular,Baby Products,Farlin Baby Bottle 260ml,4,105.57,422.28,0.0,422.28,LuLu Gift Card,Female,Sri Lankan
+LLU-DXB-000912,2024-05-25,Deira City Centre,CUST-60067,Regular,Grocery,Tomato Paste 400g,9,48.64,437.76,0.0,437.76,LuLu Gift Card,Female,Jordanian
+LLU-DXB-000867,2024-05-26,Deira City Centre,CUST-33680,Budget,Baby Products,MAM Pacifier 2-Pack,1,231.99,231.99,0.05,220.39,Samsung Pay,Male,Emirati
+LLU-DXB-000694,2024-05-26,Al Barsha,CUST-53178,Regular,Home & Kitchen,Brita Water Filter,5,574.02,2870.1,0.0,2870.1,Cash,Female,British
+LLU-DXB-000561,2024-05-26,Silicon Oasis,CUST-58466,Budget,Electronics,Apple iPhone 15,3,5019.2,15057.6,0.05,14304.72,Credit Card,Female,Filipino
+LLU-DXB-000666,2024-05-26,Dubai Festival City,CUST-94448,Regular,Dairy,Labneh 400g,5,11.27,56.35,0.0,56.35,Cash,Female,Emirati
+LLU-DXB-000781,2024-05-28,Dubai Festival City,CUST-79065,Regular,Grocery,Tomato Paste 400g,6,19.74,118.44,0.0,118.44,Samsung Pay,Female,Indian
+LLU-DXB-000413,2024-05-28,Mirdif City Centre,CUST-64344,Regular,Dairy,Cheddar Cheese Block,2,22.26,44.52,0.0,44.52,Debit Card,Male,Bangladeshi
+LLU-DXB-000137,2024-05-30,Dubai Festival City,CUST-55851,Corporate,Fresh Produce,Fresh Mushrooms 250g,5,17.0,85.0,0.0,85.0,Debit Card,Female,Pakistani
+LLU-DXB-001077,2024-06-01,Dubai Festival City,CUST-89370,Regular,Dairy,Flavoured Yoghurt Duo,10,32.1,321.0,0.0,321.0,Debit Card,Female,British
+LLU-DXB-000715,2024-06-02,Silicon Oasis,CUST-26920,Regular,Dairy,Condensed Milk 400ml,2,25.1,50.2,0.0,50.2,Credit Card,Male,Pakistani
+LLU-DXB-001151,2024-06-03,Dragon Mart,CUST-70749,Budget,Clothing,Levis Denim Jeans,2,192.47,384.94,0.2,307.95,LuLu Gift Card,Male,Indian
+LLU-DXB-000053,2024-06-03,Dragon Mart,CUST-31632,Regular,Grocery,Tomato Paste 400g,6,3.39,20.34,0.0,20.34,Apple Pay,Male,Jordanian
+LLU-DXB-000366,2024-06-04,Ras Al Khor,CUST-78039,Budget,Clothing,Adidas Track Suit,5,30.25,151.25,0.05,143.69,Samsung Pay,Male,American
+LLU-DXB-000400,2024-06-05,Al Barsha,CUST-81939,Budget,Dairy,Fresh Butter 250g,2,11.09,22.18,0.05,21.07,Apple Pay,Male,Egyptian
+LLU-DXB-000536,2024-06-05,Deira City Centre,CUST-45737,Regular,Grocery,Tomato Paste 400g,8,17.32,138.56,0.0,138.56,Credit Card,Male,Egyptian
+LLU-DXB-000020,2024-06-07,Deira City Centre,CUST-17944,Regular,Personal Care,Gillette Fusion Razor,1,60.31,60.31,0.0,60.31,Apple Pay,Female,Indian
+LLU-DXB-001026,2024-06-07,Al Barsha,CUST-36878,Corporate,Home & Kitchen,Prestige Pressure Cooker,5,90.44,452.2,0.0,452.2,Samsung Pay,Male,Sri Lankan
+LLU-DXB-000478,2024-06-07,Silicon Oasis,CUST-97194,Loyalty Member,Baby Products,Mothercare Baby Blanket,5,218.07,1090.35,0.1,981.32,Apple Pay,Male,Pakistani
+LLU-DXB-000095,2024-06-10,Dubai Festival City,CUST-19681,Corporate,Fresh Produce,Organic Apples 1kg,3,22.54,67.62,0.0,67.62,Apple Pay,Female,Jordanian
+LLU-DXB-000761,2024-06-10,Al Ghurair,CUST-99218,Loyalty Member,Grocery,Sea Salt 500g,1,15.17,15.17,0.15,12.89,Samsung Pay,Female,Emirati
+LLU-DXB-000617,2024-06-10,Deira City Centre,CUST-50380,Loyalty Member,Home & Kitchen,Prestige Pressure Cooker,1,444.35,444.35,0.05,422.13,Cash,Female,Jordanian
+LLU-DXB-000879,2024-06-10,Dragon Mart,CUST-70003,Budget,Dairy,Mozzarella 200g,6,11.56,69.36,0.05,65.89,Credit Card,Female,British
+LLU-DXB-000934,2024-06-12,Silicon Oasis,CUST-82634,Regular,Dairy,Flavoured Yoghurt Duo,7,15.68,109.76,0.0,109.76,LuLu Gift Card,Female,Jordanian
+LLU-DXB-001050,2024-06-13,Al Barsha,CUST-82416,Premium,Fresh Produce,Avocado 4-Pack,2,5.32,10.64,0.05,10.11,Apple Pay,Male,American
+LLU-DXB-000609,2024-06-14,Dubai Festival City,CUST-72115,Budget,Dairy,Fresh Butter 250g,5,23.07,115.35,0.2,92.28,Debit Card,Female,Bangladeshi
+LLU-DXB-001020,2024-06-14,Mirdif City Centre,CUST-42770,Loyalty Member,Sports & Fitness,Wilson Tennis Racket,5,307.17,1535.85,0.05,1459.06,Credit Card,Female,Sri Lankan
+LLU-DXB-001150,2024-06-15,Ras Al Khor,CUST-10648,Regular,Grocery,Macaroni 500g,3,36.76,110.28,0.0,110.28,Apple Pay,Male,British
+LLU-DXB-000418,2024-06-15,Dragon Mart,CUST-29603,Regular,Clothing,Men's Linen Kandura,5,390.33,1951.65,0.0,1951.65,Samsung Pay,Male,Pakistani
+LLU-DXB-000442,2024-06-16,Mirdif City Centre,CUST-23090,Regular,Personal Care,Colgate Total Toothpaste,10,72.0,720.0,0.0,720.0,LuLu Gift Card,Female,Filipino
+LLU-DXB-000630,2024-06-16,Ras Al Khor,CUST-22561,Loyalty Member,Beverages,Tropicana Orange Juice 1L,5,42.36,211.8,0.1,190.62,Samsung Pay,Female,Pakistani
+LLU-DXB-000112,2024-06-16,Deira City Centre,CUST-74260,Tourist,Electronics,"Samsung 65"" QLED TV",2,4683.05,9366.1,0.0,9366.1,LuLu Gift Card,Female,Indian
+LLU-DXB-000115,2024-06-17,Silicon Oasis,CUST-18799,Regular,Beverages,Al Ain Water 6L,3,18.27,54.81,0.0,54.81,Cash,Male,Indian
+LLU-DXB-000915,2024-06-17,Mirdif City Centre,CUST-19103,Regular,Fresh Produce,Organic Apples 1kg,4,40.18,160.72,0.0,160.72,Credit Card,Male,American
+LLU-DXB-000975,2024-06-17,Dragon Mart,CUST-59185,Premium,Electronics,Canon DSLR Camera,1,5281.81,5281.81,0.0,5281.81,Debit Card,Female,Pakistani
+LLU-DXB-001094,2024-06-18,Al Ghurair,CUST-90396,Regular,Baby Products,MAM Pacifier 2-Pack,4,62.2,248.8,0.0,248.8,Apple Pay,Male,British
+LLU-DXB-001135,2024-06-18,Dragon Mart,CUST-32671,Regular,Clothing,Kids' School Uniform,2,142.1,284.2,0.0,284.2,LuLu Gift Card,Male,Egyptian
+LLU-DXB-000501,2024-06-18,Dubai Festival City,CUST-66369,Budget,Dairy,Condensed Milk 400ml,3,28.6,85.8,0.1,77.22,Credit Card,Male,British
+LLU-DXB-000074,2024-06-19,Silicon Oasis,CUST-48175,Budget,Grocery,Whole Wheat Bread,7,9.51,66.57,0.2,53.26,Cash,Male,Egyptian
+LLU-DXB-001197,2024-06-19,Silicon Oasis,CUST-33256,Loyalty Member,Fresh Produce,Egyptian Dates 500g,2,30.33,60.66,0.05,57.63,Cash,Female,Sri Lankan
+LLU-DXB-000363,2024-06-19,Silicon Oasis,CUST-65278,Tourist,Personal Care,Neutrogena Sunscreen SPF50,7,38.45,269.15,0.0,269.15,LuLu Gift Card,Male,Indian
+LLU-DXB-000200,2024-06-20,Deira City Centre,CUST-93717,Regular,Fresh Produce,Egyptian Dates 500g,3,24.11,72.33,0.0,72.33,Debit Card,Female,Jordanian
+LLU-DXB-000059,2024-06-20,Mirdif City Centre,CUST-23356,Tourist,Personal Care,Neutrogena Sunscreen SPF50,10,30.21,302.1,0.0,302.1,LuLu Gift Card,Female,Jordanian
+LLU-DXB-000080,2024-06-22,Silicon Oasis,CUST-47777,Loyalty Member,Beverages,Tropicana Orange Juice 1L,6,52.03,312.18,0.1,280.96,LuLu Gift Card,Female,Sri Lankan
+LLU-DXB-000199,2024-06-22,Mirdif City Centre,CUST-18142,Budget,Beverages,Red Bull 4-Pack,5,36.08,180.4,0.1,162.36,LuLu Gift Card,Male,Bangladeshi
+LLU-DXB-000153,2024-06-24,Silicon Oasis,CUST-92802,Budget,Electronics,JBL Bluetooth Speaker,1,4502.27,4502.27,0.2,3601.82,Credit Card,Male,Indian
+LLU-DXB-000042,2024-06-25,Al Ghurair,CUST-82667,Regular,Fresh Produce,Broccoli Head,4,20.15,80.6,0.0,80.6,Credit Card,Male,American
+LLU-DXB-001046,2024-06-25,Deira City Centre,CUST-86385,Regular,Sports & Fitness,Reebok Ankle Weights,5,566.31,2831.55,0.0,2831.55,Apple Pay,Female,Emirati
+LLU-DXB-000949,2024-06-27,Al Barsha,CUST-30258,Tourist,Electronics,Xiaomi Smart Watch,1,455.26,455.26,0.0,455.26,Cash,Female,American
+LLU-DXB-000895,2024-06-28,Mirdif City Centre,CUST-97337,Regular,Dairy,Fresh Butter 250g,5,6.68,33.4,0.0,33.4,Apple Pay,Male,Bangladeshi
+LLU-DXB-000434,2024-06-28,Al Ghurair,CUST-42539,Tourist,Beverages,Al Ain Water 6L,1,32.92,32.92,0.0,32.92,Debit Card,Male,American
+LLU-DXB-000725,2024-06-28,Al Ghurair,CUST-51116,Tourist,Electronics,Dyson Vacuum Cleaner,3,2393.28,7179.84,0.0,7179.84,Debit Card,Male,Egyptian
+LLU-DXB-000459,2024-06-28,Silicon Oasis,CUST-34613,Premium,Dairy,Labneh 400g,8,17.57,140.56,0.05,133.53,Debit Card,Male,Pakistani
+LLU-DXB-001141,2024-06-29,Dragon Mart,CUST-55471,Regular,Electronics,Xiaomi Smart Watch,1,3028.03,3028.03,0.0,3028.03,LuLu Gift Card,Female,Filipino
+LLU-DXB-000307,2024-06-30,Ras Al Khor,CUST-84403,Loyalty Member,Sports & Fitness,Fitbit Inspire 3,5,635.42,3177.1,0.05,3018.24,Samsung Pay,Male,Jordanian
+LLU-DXB-000029,2024-06-30,Al Ghurair,CUST-90173,Regular,Clothing,Nike Running Shoes,5,92.04,460.2,0.0,460.2,LuLu Gift Card,Male,Sri Lankan
+LLU-DXB-000734,2024-07-01,Deira City Centre,CUST-37871,Budget,Dairy,Cheddar Cheese Block,8,18.51,148.08,0.05,140.68,Apple Pay,Female,Emirati
+LLU-DXB-000188,2024-07-01,Mirdif City Centre,CUST-74094,Tourist,Fresh Produce,Avocado 4-Pack,3,44.25,132.75,0.0,132.75,Debit Card,Female,British
+LLU-DXB-000223,2024-07-03,Dubai Festival City,CUST-11198,Regular,Electronics,Canon DSLR Camera,1,3524.25,3524.25,0.0,3524.25,Credit Card,Female,British
+LLU-DXB-000614,2024-07-03,Al Barsha,CUST-97235,Regular,Dairy,Cream Cheese 150g,9,8.9,80.1,0.0,80.1,Debit Card,Female,Pakistani
+LLU-DXB-000831,2024-07-04,Silicon Oasis,CUST-93228,Loyalty Member,Personal Care,Colgate Total Toothpaste,6,92.18,553.08,0.15,470.12,LuLu Gift Card,Female,Emirati
+LLU-DXB-000685,2024-07-05,Al Barsha,CUST-10702,Tourist,Beverages,Mango Juice 1.5L,10,58.16,581.6,0.0,581.6,Debit Card,Female,Egyptian
+LLU-DXB-000623,2024-07-05,Dubai Festival City,CUST-36117,Budget,Electronics,Canon DSLR Camera,1,1612.31,1612.31,0.2,1289.85,Credit Card,Female,Egyptian
+LLU-DXB-000144,2024-07-06,Deira City Centre,CUST-47363,Corporate,Electronics,LG Refrigerator,1,3116.79,3116.79,0.0,3116.79,Cash,Male,Egyptian
+LLU-DXB-000427,2024-07-06,Al Barsha,CUST-32973,Premium,Clothing,Quiksilver Swim Shorts,4,188.34,753.36,0.05,715.69,LuLu Gift Card,Female,Bangladeshi
+LLU-DXB-000632,2024-07-07,Deira City Centre,CUST-64702,Loyalty Member,Grocery,Macaroni 500g,9,28.82,259.38,0.15,220.47,Apple Pay,Male,Indian
+LLU-DXB-000505,2024-07-07,Ras Al Khor,CUST-34114,Regular,Clothing,Levis Denim Jeans,4,384.61,1538.44,0.0,1538.44,Apple Pay,Female,Bangladeshi
+LLU-DXB-000284,2024-07-07,Deira City Centre,CUST-75031,Loyalty Member,Electronics,JBL Bluetooth Speaker,1,1605.1,1605.1,0.1,1444.59,Apple Pay,Female,Emirati
+LLU-DXB-000339,2024-07-07,Al Ghurair,CUST-65549,Loyalty Member,Dairy,Condensed Milk 400ml,10,10.16,101.6,0.1,91.44,Apple Pay,Female,Bangladeshi
+LLU-DXB-000016,2024-07-07,Al Ghurair,CUST-62296,Tourist,Sports & Fitness,Wilson Tennis Racket,2,837.8,1675.6,0.0,1675.6,LuLu Gift Card,Female,Bangladeshi
+LLU-DXB-000883,2024-07-08,Dragon Mart,CUST-80035,Regular,Electronics,Xiaomi Smart Watch,1,4597.98,4597.98,0.0,4597.98,LuLu Gift Card,Female,Filipino
+LLU-DXB-000134,2024-07-08,Deira City Centre,CUST-76132,Regular,Dairy,Full Cream Milk 1L,6,28.95,173.7,0.0,173.7,LuLu Gift Card,Male,Emirati
+LLU-DXB-000711,2024-07-08,Al Barsha,CUST-79246,Loyalty Member,Baby Products,MAM Pacifier 2-Pack,4,262.85,1051.4,0.05,998.83,Cash,Female,Jordanian
+LLU-DXB-001068,2024-07-09,Al Ghurair,CUST-43743,Budget,Baby Products,Dettol Baby Liquid Soap,2,26.12,52.24,0.0,52.24,Cash,Female,Sri Lankan
+LLU-DXB-001185,2024-07-09,Al Barsha,CUST-67477,Premium,Home & Kitchen,Nespresso Pod 10-Pack,3,261.91,785.73,0.0,785.73,Apple Pay,Male,Egyptian
+LLU-DXB-000802,2024-07-10,Silicon Oasis,CUST-46102,Tourist,Sports & Fitness,GNC Multivitamin 90 Tabs,5,539.06,2695.3,0.0,2695.3,Credit Card,Male,Pakistani
+LLU-DXB-000372,2024-07-10,Silicon Oasis,CUST-24945,Budget,Home & Kitchen,Prestige Pressure Cooker,4,379.46,1517.84,0.1,1366.06,Cash,Male,Emirati
+LLU-DXB-000196,2024-07-12,Dubai Festival City,CUST-11846,Regular,Grocery,Sunflower Oil 3L,5,37.09,185.45,0.0,185.45,LuLu Gift Card,Female,Egyptian
+LLU-DXB-000779,2024-07-12,Dubai Festival City,CUST-54540,Regular,Electronics,Dell Laptop i7,2,1081.68,2163.36,0.0,2163.36,Samsung Pay,Male,Pakistani
+LLU-DXB-000880,2024-07-12,Mirdif City Centre,CUST-50001,Regular,Home & Kitchen,Joseph Joseph Chopping Board,5,572.52,2862.6,0.0,2862.6,LuLu Gift Card,Male,Egyptian
+LLU-DXB-001081,2024-07-14,Al Barsha,CUST-19666,Premium,Grocery,Tomato Paste 400g,6,45.08,270.48,0.0,270.48,LuLu Gift Card,Female,Bangladeshi
+LLU-DXB-000012,2024-07-14,Al Ghurair,CUST-75612,Premium,Fresh Produce,Mixed Salad Leaves,4,21.26,85.04,0.0,85.04,Credit Card,Male,Egyptian
+LLU-DXB-000916,2024-07-16,Dubai Festival City,CUST-11545,Corporate,Grocery,Brown Sugar 1kg,2,48.58,97.16,0.0,97.16,Samsung Pay,Male,American
+LLU-DXB-000903,2024-07-17,Silicon Oasis,CUST-36476,Premium,Home & Kitchen,Pyrex Glass Set 3pc,3,337.02,1011.06,0.05,960.51,Samsung Pay,Male,Emirati
+LLU-DXB-000129,2024-07-18,Dubai Festival City,CUST-40968,Budget,Baby Products,Huggies Wipes 3-Pack,3,66.38,199.14,0.1,179.23,Cash,Male,Egyptian
+LLU-DXB-000972,2024-07-18,Dragon Mart,CUST-44141,Regular,Grocery,Macaroni 500g,4,27.7,110.8,0.0,110.8,LuLu Gift Card,Male,Egyptian
+LLU-DXB-000405,2024-07-19,Deira City Centre,CUST-12441,Regular,Dairy,Flavoured Yoghurt Duo,2,26.47,52.94,0.0,52.94,Samsung Pay,Male,Jordanian
+LLU-DXB-000829,2024-07-21,Ras Al Khor,CUST-74415,Corporate,Grocery,Whole Wheat Bread,9,2.2,19.8,0.0,19.8,Apple Pay,Female,American
+LLU-DXB-000318,2024-07-22,Deira City Centre,CUST-81702,Regular,Clothing,Women's Abaya (Black),2,402.37,804.74,0.0,804.74,Cash,Female,Jordanian
+LLU-DXB-000152,2024-07-23,Deira City Centre,CUST-86271,Regular,Fresh Produce,Organic Apples 1kg,2,5.84,11.68,0.0,11.68,LuLu Gift Card,Female,Pakistani
+LLU-DXB-000471,2024-07-23,Dubai Festival City,CUST-12453,Budget,Fresh Produce,Baby Spinach 200g,5,22.07,110.35,0.2,88.28,Samsung Pay,Female,Jordanian
+LLU-DXB-001018,2024-07-23,Mirdif City Centre,CUST-66629,Tourist,Baby Products,Johnson's Baby Shampoo,2,204.0,408.0,0.0,408.0,Samsung Pay,Male,Egyptian
+LLU-DXB-000930,2024-07-23,Al Barsha,CUST-65667,Premium,Grocery,Macaroni 500g,3,8.61,25.83,0.05,24.54,Debit Card,Male,Indian
+LLU-DXB-000354,2024-07-24,Al Barsha,CUST-87292,Regular,Electronics,Dell Laptop i7,1,5419.11,5419.11,0.0,5419.11,Samsung Pay,Male,Indian
+LLU-DXB-000579,2024-07-25,Mirdif City Centre,CUST-28342,Budget,Personal Care,Head & Shoulders Shampoo,2,48.24,96.48,0.2,77.18,Cash,Male,Emirati
+LLU-DXB-000740,2024-07-25,Al Ghurair,CUST-94661,Regular,Grocery,Chickpeas 800g,8,4.2,33.6,0.0,33.6,Cash,Male,Emirati
+LLU-DXB-000697,2024-07-25,Al Ghurair,CUST-99779,Regular,Fresh Produce,Egyptian Dates 500g,4,23.62,94.48,0.0,94.48,Samsung Pay,Male,British
+LLU-DXB-000764,2024-07-26,Mirdif City Centre,CUST-65550,Regular,Personal Care,Oral-B Toothbrush,1,106.57,106.57,0.0,106.57,Cash,Male,Filipino
+LLU-DXB-001133,2024-07-26,Al Barsha,CUST-53603,Regular,Clothing,Under Armour Sports Bra,5,387.34,1936.7,0.0,1936.7,LuLu Gift Card,Female,Pakistani
+LLU-DXB-000234,2024-07-28,Dragon Mart,CUST-51507,Regular,Clothing,Women's Abaya (Black),2,186.5,373.0,0.0,373.0,Debit Card,Male,Indian
+LLU-DXB-000906,2024-07-29,Dragon Mart,CUST-74884,Tourist,Fresh Produce,Organic Apples 1kg,2,5.55,11.1,0.0,11.1,LuLu Gift Card,Male,Pakistani
+LLU-DXB-000592,2024-07-29,Al Barsha,CUST-80432,Loyalty Member,Beverages,Mango Juice 1.5L,1,46.47,46.47,0.05,44.15,Credit Card,Male,Emirati
+LLU-DXB-000260,2024-07-30,Silicon Oasis,CUST-82053,Regular,Grocery,Sea Salt 500g,10,39.48,394.8,0.0,394.8,Samsung Pay,Male,Jordanian
+LLU-DXB-001079,2024-07-30,Deira City Centre,CUST-26567,Regular,Clothing,Zara Formal Dress,4,260.7,1042.8,0.0,1042.8,Cash,Female,Emirati
+LLU-DXB-000932,2024-07-31,Dubai Festival City,CUST-79133,Loyalty Member,Electronics,Xiaomi Smart Watch,1,2378.25,2378.25,0.1,2140.42,LuLu Gift Card,Female,Bangladeshi
+LLU-DXB-000757,2024-07-31,Al Barsha,CUST-46848,Tourist,Home & Kitchen,Prestige Pressure Cooker,2,277.86,555.72,0.0,555.72,LuLu Gift Card,Female,Filipino
+LLU-DXB-000464,2024-08-01,Deira City Centre,CUST-43202,Tourist,Personal Care,Colgate Total Toothpaste,1,25.76,25.76,0.0,25.76,Apple Pay,Female,Filipino
+LLU-DXB-000626,2024-08-02,Ras Al Khor,CUST-86161,Loyalty Member,Electronics,Apple iPhone 15,1,2787.82,2787.82,0.15,2369.65,Apple Pay,Female,Egyptian
+LLU-DXB-000128,2024-08-02,Ras Al Khor,CUST-39041,Regular,Personal Care,Always Pads Overnight,5,16.81,84.05,0.0,84.05,Debit Card,Male,Indian
+LLU-DXB-000120,2024-08-02,Mirdif City Centre,CUST-59308,Premium,Sports & Fitness,Wilson Tennis Racket,1,673.35,673.35,0.0,673.35,Apple Pay,Female,British
+LLU-DXB-000201,2024-08-03,Ras Al Khor,CUST-64505,Tourist,Grocery,Macaroni 500g,8,24.95,199.6,0.0,199.6,LuLu Gift Card,Female,Sri Lankan
+LLU-DXB-000981,2024-08-03,Al Ghurair,CUST-51779,Regular,Grocery,Brown Sugar 1kg,10,23.42,234.2,0.0,234.2,Samsung Pay,Male,Jordanian
+LLU-DXB-000190,2024-08-03,Silicon Oasis,CUST-38047,Regular,Fresh Produce,Imported Strawberries 250g,3,21.58,64.74,0.0,64.74,Credit Card,Female,Sri Lankan
+LLU-DXB-001138,2024-08-03,Dubai Festival City,CUST-50696,Regular,Clothing,Nike Running Shoes,2,314.38,628.76,0.0,628.76,Cash,Female,Egyptian
+LLU-DXB-000449,2024-08-03,Silicon Oasis,CUST-64262,Budget,Fresh Produce,Fresh Mushrooms 250g,4,14.39,57.56,0.1,51.8,Credit Card,Male,Emirati
+LLU-DXB-000035,2024-08-05,Dubai Festival City,CUST-41029,Corporate,Beverages,Coconut Water 330ml,10,26.76,267.6,0.0,267.6,Credit Card,Male,American
+LLU-DXB-000892,2024-08-06,Dragon Mart,CUST-75779,Budget,Personal Care,L'Oréal Conditioner,3,97.58,292.74,0.1,263.47,LuLu Gift Card,Female,Pakistani
+LLU-DXB-000940,2024-08-06,Al Ghurair,CUST-62184,Tourist,Beverages,Nescafé Gold 200g,6,4.47,26.82,0.0,26.82,Samsung Pay,Male,British
+LLU-DXB-001174,2024-08-06,Al Ghurair,CUST-82933,Regular,Beverages,Mango Juice 1.5L,1,59.77,59.77,0.0,59.77,LuLu Gift Card,Female,Filipino
+LLU-DXB-000835,2024-08-07,Deira City Centre,CUST-24322,Budget,Baby Products,Graco Baby Monitor,3,116.44,349.32,0.2,279.46,LuLu Gift Card,Female,Pakistani
+LLU-DXB-000214,2024-08-08,Silicon Oasis,CUST-41584,Regular,Beverages,Al Ain Water 6L,3,20.79,62.37,0.0,62.37,Credit Card,Female,Pakistani
+LLU-DXB-000048,2024-08-09,Silicon Oasis,CUST-90301,Budget,Dairy,Cream Cheese 150g,10,34.61,346.1,0.1,311.49,LuLu Gift Card,Female,Sri Lankan
+LLU-DXB-001024,2024-08-09,Dragon Mart,CUST-26506,Corporate,Sports & Fitness,Reebok Ankle Weights,1,793.08,793.08,0.0,793.08,Apple Pay,Male,Bangladeshi
+LLU-DXB-000147,2024-08-12,Silicon Oasis,CUST-68799,Premium,Dairy,Cheddar Cheese Block,8,32.36,258.88,0.0,258.88,Samsung Pay,Male,Indian
+LLU-DXB-000954,2024-08-12,Dragon Mart,CUST-45369,Regular,Personal Care,L'Oréal Conditioner,1,31.69,31.69,0.0,31.69,Debit Card,Male,Indian
+LLU-DXB-000520,2024-08-12,Dragon Mart,CUST-82151,Regular,Clothing,Adidas Track Suit,1,406.45,406.45,0.0,406.45,Cash,Female,Bangladeshi
+LLU-DXB-000290,2024-08-13,Mirdif City Centre,CUST-29735,Tourist,Sports & Fitness,Speedo Swimming Goggles,5,703.9,3519.5,0.0,3519.5,Cash,Female,Emirati
+LLU-DXB-000082,2024-08-13,Al Barsha,CUST-36680,Budget,Electronics,Dell Laptop i7,2,3481.09,6962.18,0.2,5569.74,Debit Card,Male,Egyptian
+LLU-DXB-000055,2024-08-14,Dragon Mart,CUST-46471,Regular,Fresh Produce,Mango 1kg,3,22.1,66.3,0.0,66.3,Apple Pay,Female,Indian
+LLU-DXB-000345,2024-08-15,Dubai Festival City,CUST-99091,Regular,Clothing,Levis Denim Jeans,5,134.93,674.65,0.0,674.65,Debit Card,Male,Filipino
+LLU-DXB-000651,2024-08-16,Deira City Centre,CUST-84560,Budget,Fresh Produce,Egyptian Dates 500g,4,8.65,34.6,0.2,27.68,LuLu Gift Card,Female,Sri Lankan
+LLU-DXB-000437,2024-08-16,Al Barsha,CUST-73214,Loyalty Member,Clothing,Women's Abaya (Black),5,306.96,1534.8,0.05,1458.06,Debit Card,Female,Bangladeshi
+LLU-DXB-000124,2024-08-16,Al Ghurair,CUST-47938,Regular,Electronics,"Samsung 65"" QLED TV",1,5207.48,5207.48,0.0,5207.48,Debit Card,Male,Emirati
+LLU-DXB-000629,2024-08-18,Dubai Festival City,CUST-22387,Budget,Fresh Produce,Baby Spinach 200g,5,42.33,211.65,0.05,201.07,Samsung Pay,Male,Sri Lankan
+LLU-DXB-000526,2024-08-18,Al Barsha,CUST-24920,Regular,Fresh Produce,Imported Strawberries 250g,3,24.28,72.84,0.0,72.84,LuLu Gift Card,Female,British
+LLU-DXB-000139,2024-08-18,Silicon Oasis,CUST-35166,Premium,Baby Products,Chicco Feeding Spoon Set,2,96.85,193.7,0.05,184.01,Credit Card,Male,Pakistani
+LLU-DXB-000718,2024-08-20,Al Barsha,CUST-83010,Budget,Grocery,Sunflower Oil 3L,6,25.35,152.1,0.1,136.89,Debit Card,Male,Sri Lankan
+LLU-DXB-000232,2024-08-20,Dragon Mart,CUST-52778,Regular,Clothing,Zara Formal Dress,5,57.31,286.55,0.0,286.55,Cash,Female,Bangladeshi
+LLU-DXB-000571,2024-08-20,Dragon Mart,CUST-97500,Budget,Fresh Produce,Cherry Tomatoes 500g,4,6.18,24.72,0.1,22.25,Debit Card,Female,Pakistani
+LLU-DXB-000533,2024-08-20,Deira City Centre,CUST-77652,Loyalty Member,Beverages,Aloe Vera Drink 500ml,6,33.32,199.92,0.05,189.92,LuLu Gift Card,Male,Filipino
+LLU-DXB-001063,2024-08-22,Al Ghurair,CUST-54241,Loyalty Member,Electronics,Huawei Tablet,1,5237.67,5237.67,0.05,4975.79,Samsung Pay,Female,Emirati
+LLU-DXB-000375,2024-08-22,Silicon Oasis,CUST-69950,Premium,Clothing,Zara Formal Dress,5,294.13,1470.65,0.0,1470.65,LuLu Gift Card,Male,Bangladeshi
+LLU-DXB-001104,2024-08-22,Mirdif City Centre,CUST-14427,Regular,Electronics,Sony PlayStation 5,3,279.71,839.13,0.0,839.13,Debit Card,Male,American
+LLU-DXB-000853,2024-08-22,Ras Al Khor,CUST-99037,Budget,Electronics,Xiaomi Smart Watch,2,4682.08,9364.16,0.1,8427.74,Credit Card,Male,Indian
+LLU-DXB-001152,2024-08-23,Ras Al Khor,CUST-47118,Regular,Personal Care,Nivea Men Face Wash,7,112.75,789.25,0.0,789.25,LuLu Gift Card,Female,Jordanian
+LLU-DXB-000005,2024-08-23,Al Ghurair,CUST-20458,Regular,Beverages,Mango Juice 1.5L,4,7.9,31.6,0.0,31.6,Credit Card,Male,American
+LLU-DXB-000086,2024-08-23,Dragon Mart,CUST-54548,Loyalty Member,Sports & Fitness,Reebok Ankle Weights,1,144.44,144.44,0.1,130.0,Samsung Pay,Female,Emirati
+LLU-DXB-000387,2024-08-23,Al Ghurair,CUST-74297,Premium,Home & Kitchen,Philips Rice Cooker,5,558.6,2793.0,0.0,2793.0,Samsung Pay,Female,Indian
+LLU-DXB-000130,2024-08-23,Silicon Oasis,CUST-70811,Budget,Grocery,Whole Wheat Bread,2,38.49,76.98,0.05,73.13,Samsung Pay,Female,Jordanian
+LLU-DXB-000635,2024-08-24,Silicon Oasis,CUST-66524,Loyalty Member,Clothing,Zara Formal Dress,1,358.21,358.21,0.05,340.3,Cash,Male,Indian
+LLU-DXB-001125,2024-08-24,Dragon Mart,CUST-72190,Loyalty Member,Fresh Produce,Broccoli Head,4,13.11,52.44,0.1,47.2,Debit Card,Female,Sri Lankan
+LLU-DXB-000295,2024-08-28,Deira City Centre,CUST-30369,Regular,Home & Kitchen,Milton Steel Lunch Box,2,567.26,1134.52,0.0,1134.52,Cash,Male,Bangladeshi
+LLU-DXB-000503,2024-08-28,Mirdif City Centre,CUST-23994,Loyalty Member,Fresh Produce,Cherry Tomatoes 500g,3,37.51,112.53,0.05,106.9,Credit Card,Male,Emirati
+LLU-DXB-001101,2024-08-29,Ras Al Khor,CUST-56229,Premium,Sports & Fitness,Reebok Ankle Weights,4,656.95,2627.8,0.0,2627.8,Samsung Pay,Male,Emirati
+LLU-DXB-000738,2024-08-29,Dragon Mart,CUST-72289,Budget,Electronics,Canon DSLR Camera,2,1806.91,3613.82,0.1,3252.44,LuLu Gift Card,Male,Pakistani
+LLU-DXB-000277,2024-08-31,Mirdif City Centre,CUST-74865,Budget,Baby Products,MAM Pacifier 2-Pack,3,213.18,639.54,0.0,639.54,Apple Pay,Male,Filipino
+LLU-DXB-000784,2024-09-01,Silicon Oasis,CUST-96966,Corporate,Baby Products,MAM Pacifier 2-Pack,1,70.45,70.45,0.0,70.45,Samsung Pay,Male,Pakistani
+LLU-DXB-001106,2024-09-01,Ras Al Khor,CUST-65725,Regular,Sports & Fitness,Wilson Tennis Racket,3,554.98,1664.94,0.0,1664.94,Samsung Pay,Male,Egyptian
+LLU-DXB-000388,2024-09-02,Dubai Festival City,CUST-64516,Regular,Beverages,Coconut Water 330ml,2,14.3,28.6,0.0,28.6,Samsung Pay,Female,Indian
+LLU-DXB-000796,2024-09-02,Al Barsha,CUST-28236,Regular,Personal Care,Dettol Soap 6-Pack,10,73.74,737.4,0.0,737.4,Credit Card,Female,Jordanian
+LLU-DXB-000603,2024-09-03,Deira City Centre,CUST-91324,Budget,Personal Care,Gillette Fusion Razor,5,41.22,206.1,0.05,195.8,Debit Card,Male,Sri Lankan
+LLU-DXB-000396,2024-09-03,Al Ghurair,CUST-89503,Regular,Electronics,Apple iPhone 15,2,2840.18,5680.36,0.0,5680.36,Cash,Female,Bangladeshi
+LLU-DXB-000244,2024-09-04,Dragon Mart,CUST-19694,Regular,Fresh Produce,Avocado 4-Pack,4,9.47,37.88,0.0,37.88,Apple Pay,Female,Jordanian
+LLU-DXB-000194,2024-09-04,Silicon Oasis,CUST-34420,Tourist,Personal Care,Nivea Men Face Wash,7,12.07,84.49,0.0,84.49,LuLu Gift Card,Female,Emirati
+LLU-DXB-001199,2024-09-05,Deira City Centre,CUST-35745,Budget,Sports & Fitness,GNC Multivitamin 90 Tabs,1,110.99,110.99,0.1,99.89,Apple Pay,Male,Bangladeshi
+LLU-DXB-000905,2024-09-06,Al Barsha,CUST-31880,Regular,Clothing,Levis Denim Jeans,5,420.82,2104.1,0.0,2104.1,Samsung Pay,Female,Pakistani
+LLU-DXB-000245,2024-09-06,Ras Al Khor,CUST-80373,Budget,Personal Care,Dettol Soap 6-Pack,7,111.08,777.56,0.0,777.56,Samsung Pay,Male,Indian
+LLU-DXB-000334,2024-09-06,Dubai Festival City,CUST-18600,Corporate,Home & Kitchen,Joseph Joseph Chopping Board,5,496.19,2480.95,0.0,2480.95,Debit Card,Female,Pakistani
+LLU-DXB-000165,2024-09-07,Dubai Festival City,CUST-41029,Loyalty Member,Dairy,Cheddar Cheese Block,2,19.28,38.56,0.05,36.63,Apple Pay,Male,British
+LLU-DXB-000311,2024-09-07,Silicon Oasis,CUST-95089,Tourist,Beverages,Pepsi 2.25L,7,45.01,315.07,0.0,315.07,Debit Card,Male,Sri Lankan
+LLU-DXB-001122,2024-09-10,Dragon Mart,CUST-53274,Regular,Grocery,Tomato Paste 400g,3,29.06,87.18,0.0,87.18,Samsung Pay,Female,Jordanian
+LLU-DXB-000183,2024-09-10,Al Barsha,CUST-88238,Loyalty Member,Beverages,Tropicana Orange Juice 1L,10,58.87,588.7,0.1,529.83,Apple Pay,Female,Jordanian
+LLU-DXB-001196,2024-09-11,Al Barsha,CUST-68541,Budget,Clothing,H&M Casual T-Shirt,5,140.38,701.9,0.0,701.9,Samsung Pay,Male,Filipino
+LLU-DXB-000083,2024-09-12,Mirdif City Centre,CUST-30758,Regular,Home & Kitchen,Brita Water Filter,5,584.43,2922.15,0.0,2922.15,Debit Card,Male,Sri Lankan
+LLU-DXB-000570,2024-09-15,Dubai Festival City,CUST-24528,Regular,Clothing,Quiksilver Swim Shorts,5,303.97,1519.85,0.0,1519.85,LuLu Gift Card,Male,Egyptian
+LLU-DXB-000621,2024-09-16,Silicon Oasis,CUST-47831,Regular,Baby Products,Huggies Wipes 3-Pack,4,250.27,1001.08,0.0,1001.08,Credit Card,Female,American
+LLU-DXB-000706,2024-09-16,Al Ghurair,CUST-21486,Budget,Home & Kitchen,Milton Steel Lunch Box,3,584.87,1754.61,0.2,1403.69,Credit Card,Male,Emirati
+LLU-DXB-000468,2024-09-17,Silicon Oasis,CUST-35292,Regular,Home & Kitchen,IKEA Storage Boxes,3,343.84,1031.52,0.0,1031.52,Cash,Female,British
+LLU-DXB-000717,2024-09-18,Deira City Centre,CUST-54267,Loyalty Member,Fresh Produce,Mixed Salad Leaves,5,10.34,51.7,0.05,49.11,Apple Pay,Male,Jordanian
+LLU-DXB-000525,2024-09-18,Mirdif City Centre,CUST-11480,Regular,Sports & Fitness,Wilson Tennis Racket,5,317.07,1585.35,0.0,1585.35,LuLu Gift Card,Male,Egyptian
+LLU-DXB-001124,2024-09-18,Silicon Oasis,CUST-65758,Corporate,Beverages,Nescafé Gold 200g,9,6.92,62.28,0.0,62.28,LuLu Gift Card,Female,British
+LLU-DXB-001061,2024-09-19,Deira City Centre,CUST-82521,Corporate,Sports & Fitness,Wilson Tennis Racket,1,709.79,709.79,0.0,709.79,Apple Pay,Female,Sri Lankan
+LLU-DXB-000516,2024-09-19,Al Barsha,CUST-89689,Regular,Fresh Produce,Organic Apples 1kg,5,38.93,194.65,0.0,194.65,Apple Pay,Male,Filipino
+LLU-DXB-001131,2024-09-19,Deira City Centre,CUST-15006,Regular,Home & Kitchen,Brita Water Filter,5,454.96,2274.8,0.0,2274.8,Debit Card,Male,Jordanian
+LLU-DXB-000777,2024-09-19,Dragon Mart,CUST-36911,Regular,Home & Kitchen,Kitchen Towel Roll 6-Pack,3,298.83,896.49,0.0,896.49,Apple Pay,Male,Emirati
+LLU-DXB-000141,2024-09-20,Dubai Festival City,CUST-67366,Regular,Personal Care,Nivea Men Face Wash,10,101.11,1011.1,0.0,1011.1,Cash,Female,British
+LLU-DXB-000138,2024-09-23,Dubai Festival City,CUST-97833,Regular,Sports & Fitness,Decathlon Resistance Bands,3,354.59,1063.77,0.0,1063.77,LuLu Gift Card,Male,American
+LLU-DXB-000175,2024-09-23,Ras Al Khor,CUST-85718,Regular,Personal Care,Always Pads Overnight,3,115.82,347.46,0.0,347.46,LuLu Gift Card,Female,Filipino
+LLU-DXB-000997,2024-09-24,Ras Al Khor,CUST-50871,Regular,Home & Kitchen,Nespresso Pod 10-Pack,2,80.63,161.26,0.0,161.26,LuLu Gift Card,Female,Pakistani
+LLU-DXB-000857,2024-09-25,Dubai Festival City,CUST-12826,Corporate,Electronics,Sony PlayStation 5,2,4041.57,8083.14,0.0,8083.14,Samsung Pay,Female,British
+LLU-DXB-000145,2024-09-26,Silicon Oasis,CUST-55820,Regular,Home & Kitchen,Joseph Joseph Chopping Board,2,273.73,547.46,0.0,547.46,Cash,Female,Emirati
+LLU-DXB-000633,2024-09-26,Silicon Oasis,CUST-88335,Budget,Dairy,Full Cream Milk 1L,6,12.97,77.82,0.05,73.93,Samsung Pay,Female,Pakistani
+LLU-DXB-000842,2024-09-26,Mirdif City Centre,CUST-57344,Regular,Personal Care,Gillette Fusion Razor,6,107.7,646.2,0.0,646.2,LuLu Gift Card,Female,American
+LLU-DXB-000325,2024-09-27,Dragon Mart,CUST-80190,Regular,Personal Care,Always Pads Overnight,7,14.83,103.81,0.0,103.81,LuLu Gift Card,Female,Jordanian
+LLU-DXB-000261,2024-09-30,Al Barsha,CUST-67850,Loyalty Member,Clothing,Adidas Track Suit,3,374.9,1124.7,0.15,955.99,Samsung Pay,Male,American
+LLU-DXB-000301,2024-09-30,Dragon Mart,CUST-75028,Premium,Beverages,Nescafé Gold 200g,3,29.82,89.46,0.05,84.99,Cash,Female,American
+LLU-DXB-000731,2024-10-01,Ras Al Khor,CUST-69547,Budget,Dairy,Mozzarella 200g,6,10.92,65.52,0.05,62.24,Cash,Male,American
+LLU-DXB-000484,2024-10-03,Deira City Centre,CUST-88018,Loyalty Member,Grocery,Sunflower Oil 3L,3,40.06,120.18,0.1,108.16,LuLu Gift Card,Female,Emirati
+LLU-DXB-000179,2024-10-03,Deira City Centre,CUST-26864,Premium,Baby Products,Farlin Baby Bottle 260ml,5,148.63,743.15,0.05,705.99,Cash,Female,British
+LLU-DXB-000287,2024-10-03,Deira City Centre,CUST-84912,Regular,Beverages,Volvic Water 12-Pack,5,44.34,221.7,0.0,221.7,Debit Card,Male,Sri Lankan
+LLU-DXB-000197,2024-10-04,Dragon Mart,CUST-77538,Regular,Sports & Fitness,Nike Water Bottle 750ml,4,774.13,3096.52,0.0,3096.52,Debit Card,Male,American
+LLU-DXB-001010,2024-10-04,Ras Al Khor,CUST-49470,Budget,Baby Products,Farlin Baby Bottle 260ml,4,82.19,328.76,0.0,328.76,LuLu Gift Card,Female,Sri Lankan
+LLU-DXB-000182,2024-10-05,Silicon Oasis,CUST-83783,Loyalty Member,Personal Care,Always Pads Overnight,6,41.51,249.06,0.15,211.7,Debit Card,Female,Emirati
+LLU-DXB-000299,2024-10-06,Mirdif City Centre,CUST-27133,Loyalty Member,Home & Kitchen,Pyrex Glass Set 3pc,1,101.08,101.08,0.05,96.03,Credit Card,Female,British
+LLU-DXB-000097,2024-10-06,Dragon Mart,CUST-45976,Regular,Beverages,Mango Juice 1.5L,1,43.16,43.16,0.0,43.16,Cash,Male,Jordanian
+LLU-DXB-000384,2024-10-06,Mirdif City Centre,CUST-93071,Corporate,Grocery,Mixed Spices Pack,8,43.3,346.4,0.0,346.4,LuLu Gift Card,Female,Jordanian
+LLU-DXB-000243,2024-10-07,Deira City Centre,CUST-63627,Tourist,Electronics,LG Refrigerator,2,1271.62,2543.24,0.0,2543.24,LuLu Gift Card,Female,Pakistani
+LLU-DXB-000752,2024-10-07,Dubai Festival City,CUST-82938,Budget,Dairy,Flavoured Yoghurt Duo,7,12.62,88.34,0.0,88.34,Debit Card,Female,Filipino
+LLU-DXB-000959,2024-10-08,Dubai Festival City,CUST-93138,Regular,Clothing,Zara Formal Dress,4,331.97,1327.88,0.0,1327.88,Apple Pay,Male,Emirati
+LLU-DXB-001156,2024-10-09,Deira City Centre,CUST-70938,Regular,Fresh Produce,Mango 1kg,5,19.73,98.65,0.0,98.65,Cash,Female,Indian
+LLU-DXB-001132,2024-10-09,Deira City Centre,CUST-17346,Corporate,Dairy,Cheddar Cheese Block,7,7.21,50.47,0.0,50.47,Apple Pay,Male,British
+LLU-DXB-000033,2024-10-10,Ras Al Khor,CUST-86350,Premium,Electronics,Apple iPhone 15,1,4874.62,4874.62,0.0,4874.62,Samsung Pay,Male,American
+LLU-DXB-000678,2024-10-10,Mirdif City Centre,CUST-12717,Regular,Grocery,Sunflower Oil 3L,7,10.73,75.11,0.0,75.11,Cash,Male,Indian
+LLU-DXB-000473,2024-10-10,Dubai Festival City,CUST-33414,Premium,Personal Care,Gillette Fusion Razor,2,66.6,133.2,0.0,133.2,Cash,Male,Indian
+LLU-DXB-000640,2024-10-10,Ras Al Khor,CUST-59756,Regular,Sports & Fitness,Protein Whey Powder 1kg,2,863.03,1726.06,0.0,1726.06,Apple Pay,Male,Sri Lankan
+LLU-DXB-000410,2024-10-10,Al Ghurair,CUST-85842,Premium,Electronics,JBL Bluetooth Speaker,3,5331.16,15993.48,0.05,15193.81,Samsung Pay,Male,American
+LLU-DXB-001139,2024-10-10,Mirdif City Centre,CUST-45756,Regular,Dairy,Labneh 400g,4,13.1,52.4,0.0,52.4,Credit Card,Male,Egyptian
+LLU-DXB-000610,2024-10-10,Ras Al Khor,CUST-63961,Regular,Electronics,Huawei Tablet,1,267.9,267.9,0.0,267.9,Samsung Pay,Female,British
+LLU-DXB-000297,2024-10-11,Ras Al Khor,CUST-29441,Loyalty Member,Dairy,Labneh 400g,1,25.3,25.3,0.05,24.03,Cash,Male,British
+LLU-DXB-001136,2024-10-11,Deira City Centre,CUST-84211,Regular,Fresh Produce,Broccoli Head,5,17.34,86.7,0.0,86.7,Apple Pay,Male,Indian
+LLU-DXB-000598,2024-10-12,Silicon Oasis,CUST-46591,Budget,Personal Care,Dettol Soap 6-Pack,10,119.51,1195.1,0.2,956.08,Cash,Female,Filipino
+LLU-DXB-000854,2024-10-12,Mirdif City Centre,CUST-75514,Budget,Personal Care,Dove Body Wash 500ml,3,59.59,178.77,0.1,160.89,LuLu Gift Card,Female,Pakistani
+LLU-DXB-001134,2024-10-12,Al Barsha,CUST-18513,Budget,Sports & Fitness,Fitbit Inspire 3,4,847.98,3391.92,0.2,2713.54,Credit Card,Male,Egyptian
+LLU-DXB-001166,2024-10-12,Dragon Mart,CUST-25260,Regular,Personal Care,Dove Body Wash 500ml,2,91.64,183.28,0.0,183.28,Credit Card,Female,Egyptian
+LLU-DXB-001102,2024-10-13,Dragon Mart,CUST-40059,Regular,Baby Products,Aptamil Formula Stage 2,2,67.59,135.18,0.0,135.18,Debit Card,Male,British
+LLU-DXB-000552,2024-10-14,Dragon Mart,CUST-30220,Regular,Home & Kitchen,Philips Rice Cooker,3,243.07,729.21,0.0,729.21,Debit Card,Male,Pakistani
+LLU-DXB-000049,2024-10-14,Al Ghurair,CUST-78327,Loyalty Member,Home & Kitchen,Philips Rice Cooker,3,295.31,885.93,0.05,841.63,Apple Pay,Male,Egyptian
+LLU-DXB-001039,2024-10-14,Al Barsha,CUST-32815,Regular,Electronics,Apple iPhone 15,3,2152.62,6457.86,0.0,6457.86,Debit Card,Male,Bangladeshi
+LLU-DXB-000502,2024-10-14,Dubai Festival City,CUST-13864,Budget,Clothing,Under Armour Sports Bra,2,330.76,661.52,0.1,595.37,Debit Card,Female,American
+LLU-DXB-001195,2024-10-14,Mirdif City Centre,CUST-36546,Regular,Beverages,Aloe Vera Drink 500ml,1,55.11,55.11,0.0,55.11,Debit Card,Male,American
+LLU-DXB-000719,2024-10-15,Deira City Centre,CUST-23879,Loyalty Member,Sports & Fitness,Decathlon Resistance Bands,4,835.8,3343.2,0.1,3008.88,Samsung Pay,Male,Sri Lankan
+LLU-DXB-000790,2024-10-16,Deira City Centre,CUST-46231,Budget,Grocery,Tomato Paste 400g,2,19.24,38.48,0.1,34.63,Credit Card,Male,Indian
+LLU-DXB-000627,2024-10-18,Al Ghurair,CUST-31344,Regular,Home & Kitchen,Pyrex Glass Set 3pc,1,445.12,445.12,0.0,445.12,Samsung Pay,Male,Pakistani
+LLU-DXB-000974,2024-10-18,Ras Al Khor,CUST-37259,Corporate,Fresh Produce,Baby Spinach 200g,4,6.9,27.6,0.0,27.6,Apple Pay,Male,Bangladeshi
+LLU-DXB-000344,2024-10-18,Dubai Festival City,CUST-96194,Budget,Grocery,Sea Salt 500g,6,24.84,149.04,0.1,134.14,Samsung Pay,Male,Egyptian
+LLU-DXB-000107,2024-10-20,Silicon Oasis,CUST-22015,Regular,Beverages,Lipton Green Tea 100s,2,14.63,29.26,0.0,29.26,LuLu Gift Card,Male,Jordanian
+LLU-DXB-000928,2024-10-22,Al Barsha,CUST-57500,Loyalty Member,Sports & Fitness,Nike Water Bottle 750ml,1,230.79,230.79,0.05,219.25,Samsung Pay,Female,Pakistani
+LLU-DXB-000775,2024-10-23,Ras Al Khor,CUST-90753,Budget,Beverages,Volvic Water 12-Pack,8,42.91,343.28,0.1,308.95,Debit Card,Female,British
+LLU-DXB-000735,2024-10-24,Dragon Mart,CUST-24461,Regular,Dairy,Flavoured Yoghurt Duo,10,33.46,334.6,0.0,334.6,Cash,Female,Jordanian
+LLU-DXB-000723,2024-10-24,Ras Al Khor,CUST-13901,Regular,Dairy,Mozzarella 200g,8,16.1,128.8,0.0,128.8,Apple Pay,Male,Emirati
+LLU-DXB-001093,2024-10-27,Mirdif City Centre,CUST-10419,Regular,Fresh Produce,Egyptian Dates 500g,5,39.79,198.95,0.0,198.95,Apple Pay,Male,Bangladeshi
+LLU-DXB-000101,2024-10-30,Dragon Mart,CUST-83048,Regular,Beverages,Nescafé Gold 200g,4,8.22,32.88,0.0,32.88,Debit Card,Male,American
+LLU-DXB-000011,2024-10-30,Al Barsha,CUST-99166,Tourist,Personal Care,Always Pads Overnight,9,67.26,605.34,0.0,605.34,LuLu Gift Card,Male,Sri Lankan
+LLU-DXB-000155,2024-10-31,Al Barsha,CUST-95948,Premium,Home & Kitchen,Milton Steel Lunch Box,3,395.2,1185.6,0.05,1126.32,Debit Card,Female,Indian
+LLU-DXB-000743,2024-10-31,Al Barsha,CUST-54558,Regular,Baby Products,MAM Pacifier 2-Pack,4,171.06,684.24,0.0,684.24,Apple Pay,Male,American
+LLU-DXB-000070,2024-10-31,Silicon Oasis,CUST-24953,Regular,Home & Kitchen,Brita Water Filter,3,579.99,1739.97,0.0,1739.97,Cash,Female,Bangladeshi
+LLU-DXB-000924,2024-10-31,Dubai Festival City,CUST-95964,Loyalty Member,Beverages,Red Bull 4-Pack,2,43.83,87.66,0.05,83.28,Credit Card,Female,Pakistani
+LLU-DXB-000036,2024-11-02,Mirdif City Centre,CUST-44970,Loyalty Member,Electronics,Sony PlayStation 5,2,1927.19,3854.38,0.15,3276.22,Credit Card,Male,American
+LLU-DXB-000897,2024-11-02,Al Barsha,CUST-59853,Regular,Grocery,Whole Wheat Bread,2,31.59,63.18,0.0,63.18,Apple Pay,Female,Filipino
+LLU-DXB-000081,2024-11-02,Al Barsha,CUST-96200,Premium,Electronics,LG Refrigerator,1,1500.33,1500.33,0.05,1425.31,Samsung Pay,Female,American
+LLU-DXB-000859,2024-11-03,Al Barsha,CUST-49855,Regular,Personal Care,Head & Shoulders Shampoo,10,92.25,922.5,0.0,922.5,Apple Pay,Male,Jordanian
+LLU-DXB-000470,2024-11-04,Dubai Festival City,CUST-19027,Budget,Sports & Fitness,Protein Whey Powder 1kg,4,308.22,1232.88,0.1,1109.59,Samsung Pay,Male,Bangladeshi
+LLU-DXB-000622,2024-11-04,Ras Al Khor,CUST-18665,Budget,Dairy,Condensed Milk 400ml,5,7.6,38.0,0.2,30.4,Samsung Pay,Female,Indian
+LLU-DXB-001055,2024-11-05,Mirdif City Centre,CUST-79054,Loyalty Member,Grocery,Brown Sugar 1kg,9,47.19,424.71,0.1,382.24,Debit Card,Female,Sri Lankan
+LLU-DXB-000492,2024-11-05,Al Ghurair,CUST-11800,Loyalty Member,Clothing,Women's Abaya (Black),5,128.3,641.5,0.05,609.42,Debit Card,Male,Egyptian
+LLU-DXB-000839,2024-11-05,Dubai Festival City,CUST-20460,Regular,Fresh Produce,Mango 1kg,1,41.34,41.34,0.0,41.34,Debit Card,Male,American
+LLU-DXB-000382,2024-11-05,Mirdif City Centre,CUST-94819,Regular,Baby Products,Pampers Diapers L 52s,5,134.94,674.7,0.0,674.7,Samsung Pay,Female,Filipino
+LLU-DXB-000217,2024-11-06,Ras Al Khor,CUST-49739,Loyalty Member,Grocery,Mixed Spices Pack,8,28.82,230.56,0.05,219.03,Cash,Male,Filipino
+LLU-DXB-001159,2024-11-06,Deira City Centre,CUST-29711,Premium,Baby Products,Chicco Feeding Spoon Set,4,62.39,249.56,0.05,237.08,Cash,Female,Jordanian
+LLU-DXB-000999,2024-11-06,Deira City Centre,CUST-29305,Regular,Grocery,Sunflower Oil 3L,5,9.88,49.4,0.0,49.4,Apple Pay,Male,Indian
+LLU-DXB-000089,2024-11-06,Deira City Centre,CUST-67711,Budget,Personal Care,Nivea Men Face Wash,9,12.15,109.35,0.1,98.41,Cash,Female,Emirati
+LLU-DXB-000801,2024-11-07,Mirdif City Centre,CUST-50600,Tourist,Clothing,Zara Formal Dress,2,392.92,785.84,0.0,785.84,Apple Pay,Female,Pakistani
+LLU-DXB-001112,2024-11-07,Al Barsha,CUST-45146,Regular,Dairy,Full Cream Milk 1L,7,21.09,147.63,0.0,147.63,LuLu Gift Card,Male,Sri Lankan
+LLU-DXB-000955,2024-11-07,Dragon Mart,CUST-78783,Regular,Dairy,Greek Yoghurt 500g,8,5.61,44.88,0.0,44.88,Credit Card,Female,Pakistani
+LLU-DXB-000091,2024-11-08,Al Barsha,CUST-90931,Regular,Beverages,Coconut Water 330ml,8,21.73,173.84,0.0,173.84,Cash,Male,Egyptian
+LLU-DXB-000950,2024-11-09,Silicon Oasis,CUST-97706,Regular,Dairy,Condensed Milk 400ml,7,5.34,37.38,0.0,37.38,Cash,Female,Bangladeshi
+LLU-DXB-001095,2024-11-10,Al Ghurair,CUST-97552,Budget,Home & Kitchen,Joseph Joseph Chopping Board,3,124.44,373.32,0.05,354.65,Apple Pay,Female,American
+LLU-DXB-000008,2024-11-11,Ras Al Khor,CUST-37869,Regular,Electronics,JBL Bluetooth Speaker,3,504.11,1512.33,0.0,1512.33,LuLu Gift Card,Female,American
+LLU-DXB-000847,2024-11-11,Al Barsha,CUST-26759,Regular,Fresh Produce,Fresh Mushrooms 250g,5,9.01,45.05,0.0,45.05,Apple Pay,Male,Egyptian
+LLU-DXB-000834,2024-11-11,Dragon Mart,CUST-31734,Tourist,Personal Care,Always Pads Overnight,4,17.0,68.0,0.0,68.0,Apple Pay,Female,Egyptian
+LLU-DXB-000380,2024-11-12,Dragon Mart,CUST-11673,Budget,Beverages,Coconut Water 330ml,7,35.96,251.72,0.1,226.55,Samsung Pay,Male,Emirati
+LLU-DXB-000485,2024-11-14,Dragon Mart,CUST-64594,Premium,Sports & Fitness,Wilson Tennis Racket,3,73.93,221.79,0.05,210.7,Cash,Male,Jordanian
+LLU-DXB-000316,2024-11-15,Dragon Mart,CUST-56036,Loyalty Member,Personal Care,L'Oréal Conditioner,7,116.54,815.78,0.1,734.2,Samsung Pay,Female,Indian
+LLU-DXB-001096,2024-11-15,Al Ghurair,CUST-64997,Budget,Sports & Fitness,Fitbit Inspire 3,2,283.49,566.98,0.0,566.98,Apple Pay,Female,Filipino
+LLU-DXB-001033,2024-11-16,Silicon Oasis,CUST-46294,Premium,Sports & Fitness,Speedo Swimming Goggles,2,818.68,1637.36,0.05,1555.49,Cash,Male,British
+LLU-DXB-000512,2024-11-16,Silicon Oasis,CUST-21820,Regular,Electronics,Sony PlayStation 5,1,4946.9,4946.9,0.0,4946.9,Debit Card,Female,Pakistani
+LLU-DXB-000140,2024-11-17,Al Barsha,CUST-96760,Loyalty Member,Clothing,Adidas Track Suit,5,67.98,339.9,0.15,288.92,Debit Card,Male,Jordanian
+LLU-DXB-001181,2024-11-17,Dragon Mart,CUST-82359,Tourist,Home & Kitchen,Pyrex Glass Set 3pc,5,33.18,165.9,0.0,165.9,Samsung Pay,Male,Pakistani
+LLU-DXB-000105,2024-11-18,Dragon Mart,CUST-95841,Regular,Beverages,Coconut Water 330ml,3,45.57,136.71,0.0,136.71,Cash,Female,Jordanian
+LLU-DXB-000154,2024-11-19,Al Barsha,CUST-51365,Regular,Home & Kitchen,Tefal Non-Stick Pan,2,45.41,90.82,0.0,90.82,Debit Card,Female,Sri Lankan
+LLU-DXB-000077,2024-11-21,Dragon Mart,CUST-52247,Budget,Fresh Produce,Broccoli Head,5,21.39,106.95,0.0,106.95,Samsung Pay,Female,Emirati
+LLU-DXB-000331,2024-11-21,Ras Al Khor,CUST-41139,Budget,Dairy,Condensed Milk 400ml,1,25.2,25.2,0.2,20.16,Cash,Female,Egyptian
+LLU-DXB-000030,2024-11-22,Deira City Centre,CUST-82512,Tourist,Fresh Produce,Imported Strawberries 250g,1,8.64,8.64,0.0,8.64,Credit Card,Female,Egyptian
+LLU-DXB-000319,2024-11-22,Dragon Mart,CUST-30591,Loyalty Member,Sports & Fitness,Speedo Swimming Goggles,2,402.41,804.82,0.15,684.1,Cash,Male,British
+LLU-DXB-000207,2024-11-23,Dragon Mart,CUST-68790,Loyalty Member,Dairy,Cheddar Cheese Block,7,34.31,240.17,0.1,216.15,Apple Pay,Female,Indian
+LLU-DXB-000594,2024-11-23,Mirdif City Centre,CUST-19637,Premium,Beverages,Volvic Water 12-Pack,4,45.31,181.24,0.05,172.18,Apple Pay,Female,Emirati
+LLU-DXB-000050,2024-11-24,Deira City Centre,CUST-28136,Loyalty Member,Home & Kitchen,Pyrex Glass Set 3pc,3,156.01,468.03,0.1,421.23,Credit Card,Male,American
+LLU-DXB-000181,2024-11-24,Dubai Festival City,CUST-52987,Loyalty Member,Dairy,Low-Fat Milk 2L,3,19.62,58.86,0.15,50.03,Samsung Pay,Female,Pakistani
+LLU-DXB-000538,2024-11-24,Ras Al Khor,CUST-80854,Regular,Fresh Produce,Fresh Mushrooms 250g,5,5.99,29.95,0.0,29.95,Apple Pay,Male,Pakistani
+LLU-DXB-000285,2024-11-25,Deira City Centre,CUST-39937,Regular,Home & Kitchen,Kitchen Towel Roll 6-Pack,1,111.24,111.24,0.0,111.24,LuLu Gift Card,Male,Emirati
+LLU-DXB-000690,2024-11-26,Silicon Oasis,CUST-15346,Regular,Home & Kitchen,Milton Steel Lunch Box,1,290.94,290.94,0.0,290.94,Apple Pay,Female,Sri Lankan
+LLU-DXB-000528,2024-11-26,Ras Al Khor,CUST-70616,Regular,Dairy,Cream Cheese 150g,9,17.74,159.66,0.0,159.66,Apple Pay,Male,Sri Lankan
+LLU-DXB-000961,2024-11-27,Al Ghurair,CUST-75809,Regular,Sports & Fitness,Adidas Yoga Mat,3,343.32,1029.96,0.0,1029.96,Cash,Female,Bangladeshi
+LLU-DXB-000034,2024-11-29,Ras Al Khor,CUST-37535,Regular,Dairy,Full Cream Milk 1L,1,31.77,31.77,0.0,31.77,LuLu Gift Card,Male,Indian
+LLU-DXB-001043,2024-11-29,Dubai Festival City,CUST-18802,Loyalty Member,Grocery,Mixed Spices Pack,6,26.04,156.24,0.15,132.8,Apple Pay,Female,American
+LLU-DXB-000342,2024-11-29,Al Barsha,CUST-88647,Regular,Fresh Produce,Baby Spinach 200g,2,24.73,49.46,0.0,49.46,Apple Pay,Female,Pakistani
+LLU-DXB-001188,2024-11-29,Silicon Oasis,CUST-42077,Regular,Fresh Produce,Imported Strawberries 250g,4,32.14,128.56,0.0,128.56,Debit Card,Female,Egyptian
+LLU-DXB-000985,2024-11-29,Mirdif City Centre,CUST-83615,Regular,Electronics,JBL Bluetooth Speaker,2,3185.96,6371.92,0.0,6371.92,Cash,Female,Egyptian
+LLU-DXB-000237,2024-11-30,Mirdif City Centre,CUST-84967,Regular,Electronics,Huawei Tablet,3,4318.55,12955.65,0.0,12955.65,Samsung Pay,Male,American
+LLU-DXB-000667,2024-11-30,Dragon Mart,CUST-57636,Regular,Electronics,Apple iPhone 15,1,1744.19,1744.19,0.0,1744.19,LuLu Gift Card,Male,American
+LLU-DXB-000849,2024-12-02,Dragon Mart,CUST-46747,Tourist,Clothing,Zara Formal Dress,3,37.42,112.26,0.0,112.26,Credit Card,Female,Bangladeshi
+LLU-DXB-001080,2024-12-03,Dragon Mart,CUST-56447,Regular,Dairy,Greek Yoghurt 500g,7,30.74,215.18,0.0,215.18,Credit Card,Female,Sri Lankan
+LLU-DXB-000822,2024-12-05,Mirdif City Centre,CUST-39156,Regular,Grocery,Lentils 1kg,1,11.88,11.88,0.0,11.88,Samsung Pay,Female,Sri Lankan
+LLU-DXB-000072,2024-12-06,Silicon Oasis,CUST-48974,Regular,Sports & Fitness,GNC Multivitamin 90 Tabs,4,482.25,1929.0,0.0,1929.0,Samsung Pay,Female,Egyptian
+LLU-DXB-000421,2024-12-07,Deira City Centre,CUST-47128,Regular,Sports & Fitness,Decathlon Resistance Bands,2,247.7,495.4,0.0,495.4,Samsung Pay,Female,Egyptian
+LLU-DXB-000920,2024-12-09,Mirdif City Centre,CUST-13145,Budget,Fresh Produce,Imported Strawberries 250g,2,38.13,76.26,0.0,76.26,Credit Card,Female,American
+LLU-DXB-000754,2024-12-10,Dubai Festival City,CUST-94730,Regular,Beverages,Volvic Water 12-Pack,1,37.57,37.57,0.0,37.57,Cash,Female,Emirati
+LLU-DXB-000094,2024-12-10,Dubai Festival City,CUST-40433,Budget,Dairy,Greek Yoghurt 500g,4,15.24,60.96,0.2,48.77,Apple Pay,Female,Bangladeshi
+LLU-DXB-001129,2024-12-12,Al Ghurair,CUST-75902,Premium,Baby Products,Aptamil Formula Stage 2,1,97.25,97.25,0.05,92.39,Cash,Female,Emirati
+LLU-DXB-000328,2024-12-13,Al Barsha,CUST-91665,Budget,Clothing,Zara Formal Dress,3,259.62,778.86,0.2,623.09,Samsung Pay,Female,Indian
+LLU-DXB-000701,2024-12-13,Al Barsha,CUST-77294,Regular,Baby Products,Mothercare Baby Blanket,1,27.65,27.65,0.0,27.65,Cash,Female,American
+LLU-DXB-001164,2024-12-14,Silicon Oasis,CUST-15326,Tourist,Fresh Produce,Mixed Salad Leaves,2,31.94,63.88,0.0,63.88,Cash,Female,British
+LLU-DXB-000255,2024-12-14,Deira City Centre,CUST-98094,Regular,Home & Kitchen,Kitchen Towel Roll 6-Pack,3,410.68,1232.04,0.0,1232.04,Credit Card,Female,Indian
+LLU-DXB-000482,2024-12-14,Dubai Festival City,CUST-22358,Regular,Fresh Produce,Avocado 4-Pack,3,16.23,48.69,0.0,48.69,Cash,Female,British
+LLU-DXB-000365,2024-12-15,Silicon Oasis,CUST-24802,Loyalty Member,Sports & Fitness,Wilson Tennis Racket,2,559.94,1119.88,0.1,1007.89,Apple Pay,Female,Emirati
+LLU-DXB-000615,2024-12-15,Al Barsha,CUST-63026,Budget,Beverages,Aloe Vera Drink 500ml,5,13.11,65.55,0.0,65.55,Apple Pay,Male,Bangladeshi
+LLU-DXB-000119,2024-12-16,Ras Al Khor,CUST-56009,Regular,Fresh Produce,Organic Apples 1kg,3,32.51,97.53,0.0,97.53,Cash,Male,Pakistani
+LLU-DXB-001182,2024-12-16,Mirdif City Centre,CUST-52300,Loyalty Member,Home & Kitchen,Prestige Pressure Cooker,4,158.8,635.2,0.15,539.92,Credit Card,Female,Indian
+LLU-DXB-001060,2024-12-17,Al Ghurair,CUST-87458,Loyalty Member,Electronics,Dyson Vacuum Cleaner,3,5164.15,15492.45,0.1,13943.2,Credit Card,Male,British
+LLU-DXB-000004,2024-12-17,Dragon Mart,CUST-20328,Loyalty Member,Sports & Fitness,Under Armour Gym Gloves,5,663.52,3317.6,0.05,3151.72,Samsung Pay,Female,Jordanian
+LLU-DXB-000540,2024-12-17,Silicon Oasis,CUST-84421,Budget,Sports & Fitness,Speedo Swimming Goggles,2,298.39,596.78,0.0,596.78,Credit Card,Male,Bangladeshi
+LLU-DXB-001038,2024-12-17,Deira City Centre,CUST-18116,Premium,Grocery,Macaroni 500g,7,44.28,309.96,0.05,294.46,Samsung Pay,Female,Indian
+LLU-DXB-000639,2024-12-18,Mirdif City Centre,CUST-76085,Corporate,Fresh Produce,Egyptian Dates 500g,1,25.56,25.56,0.0,25.56,LuLu Gift Card,Female,British
+LLU-DXB-000007,2024-12-19,Mirdif City Centre,CUST-99733,Loyalty Member,Dairy,Flavoured Yoghurt Duo,7,8.23,57.61,0.1,51.85,Debit Card,Male,Filipino
+LLU-DXB-000506,2024-12-19,Al Ghurair,CUST-64138,Regular,Dairy,Cheddar Cheese Block,1,4.03,4.03,0.0,4.03,Credit Card,Male,Filipino
+LLU-DXB-000329,2024-12-19,Deira City Centre,CUST-83752,Regular,Personal Care,Nivea Men Face Wash,2,73.85,147.7,0.0,147.7,Cash,Female,Sri Lankan
+LLU-DXB-000022,2024-12-20,Mirdif City Centre,CUST-31798,Premium,Baby Products,Huggies Wipes 3-Pack,1,279.81,279.81,0.0,279.81,Apple Pay,Female,Bangladeshi
+LLU-DXB-000861,2024-12-20,Al Barsha,CUST-22589,Regular,Clothing,Kids' School Uniform,2,442.65,885.3,0.0,885.3,Debit Card,Female,Pakistani
+LLU-DXB-000475,2024-12-22,Deira City Centre,CUST-71349,Tourist,Clothing,Men's Linen Kandura,4,113.71,454.84,0.0,454.84,LuLu Gift Card,Male,British
+LLU-DXB-000812,2024-12-22,Mirdif City Centre,CUST-59105,Premium,Fresh Produce,Cherry Tomatoes 500g,4,3.2,12.8,0.0,12.8,Credit Card,Male,Indian
+LLU-DXB-000374,2024-12-23,Dragon Mart,CUST-38257,Premium,Dairy,Mozzarella 200g,4,22.55,90.2,0.0,90.2,Apple Pay,Male,British
+LLU-DXB-000286,2024-12-24,Al Barsha,CUST-82465,Premium,Electronics,Dell Laptop i7,1,2097.27,2097.27,0.0,2097.27,LuLu Gift Card,Female,Filipino
+LLU-DXB-000522,2024-12-26,Al Ghurair,CUST-65974,Tourist,Sports & Fitness,Reebok Ankle Weights,5,448.21,2241.05,0.0,2241.05,Samsung Pay,Female,Egyptian
+LLU-DXB-000992,2024-12-26,Al Barsha,CUST-44037,Premium,Grocery,Whole Wheat Bread,6,36.76,220.56,0.0,220.56,Cash,Male,Emirati
+LLU-DXB-000278,2024-12-26,Ras Al Khor,CUST-27299,Premium,Home & Kitchen,Kitchen Towel Roll 6-Pack,1,535.46,535.46,0.05,508.69,Apple Pay,Female,British
+LLU-DXB-000787,2024-12-27,Ras Al Khor,CUST-43361,Regular,Grocery,Tomato Paste 400g,3,20.1,60.3,0.0,60.3,Samsung Pay,Male,Pakistani
+LLU-DXB-000588,2024-12-29,Dubai Festival City,CUST-90024,Budget,Grocery,Whole Wheat Bread,7,27.11,189.77,0.05,180.28,LuLu Gift Card,Male,Jordanian
+LLU-DXB-001086,2024-12-30,Al Ghurair,CUST-89451,Budget,Fresh Produce,Baby Spinach 200g,2,12.39,24.78,0.1,22.3,Cash,Male,Egyptian
+LLU-DXB-000643,2024-12-30,Ras Al Khor,CUST-33500,Corporate,Personal Care,Oral-B Toothbrush,8,108.21,865.68,0.0,865.68,Cash,Female,Indian
